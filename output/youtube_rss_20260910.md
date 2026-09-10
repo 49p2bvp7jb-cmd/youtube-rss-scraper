@@ -158,6 +158,26 @@
 
 最新视频：2026-09-10｜窗口内 15 个
 
+- 🔥 09-10 **Arminies Gameplay**
+  https://www.youtube.com/watch?v=Kw1mK2WS3jg
+  信号词: gameplay, launch, strategy
+  > Welcome to ARMINIES, a world where tiny armies fight massive battles for control of the battlefield.
+
+Take command, line up your shots, and unleash a growing arsenal of powerful weapons and units against the enemy. Every attack can change the battlefield, destroy defenses, and op
+- 🔥 09-10 **Escape The Poolrooms Gameplay (Horror)**
+  https://www.youtube.com/watch?v=RDrqcDHpMxQ
+  信号词: gameplay, test
+  > **Dare to escape the endless Poolrooms? 👻**
+
+Enter the mysterious world of **Escape The Poolrooms**, a thrilling **horror escape game** inspired by the eerie **Poolrooms and Backrooms**. Run through strange environments, avoid dangerous obstacles, escape terrifying entities, and 
+- 🔥 09-10 **MechStrikers Gameplay**
+  https://www.youtube.com/watch?v=-nlsO-ZJf6s
+  信号词: gameplay, release
+  > MechStrikers follows the exact rules of 90s arcade vertical shooters.
+
+You fire by mashing the button, charge up by holding it, summon a bomb when in danger, and pick up medals dropped in explosion spots without missing.
+
+However, what rises from the bottom of the screen is not a
 - 🔥 09-10 **Heroes of the Void: Gacha RPG Gameplay**
   https://www.youtube.com/watch?v=-_uYtA1s9do
   信号词: gameplay, rpg, test
@@ -242,35 +262,21 @@ You will have to select the right combination of cards to defend the totem as lo
   > Twilight Tactics is a turn-based strategy game that blends the pure, positional thinking of chess with the heroes, magic and monsters of classic fantasy RPGs.
 
 Every unit has its own way of moving and fighting. Every square you claim matters. Just you, the board, and the conseque
-- 🔥 09-08 **Ether Trinity : Boss Rush Gameplay**
-  https://www.youtube.com/watch?v=c7rCyNzvzw4
-  信号词: gameplay, top
-  > Ether Trinity is a boss raid. Every stage is one boss in one arena, and beating it is the whole game.
-
-You bring three heroes in, and whether you walk out comes down to the team you picked and how well you play it.
-
-BRING THE RIGHT TEAM
-
-You have five heroes and you take three in
-- 🔥 09-08 **Escape Verity: Horror House Gameplay**
-  https://www.youtube.com/watch?v=8CCNTOqXIYs
-  信号词: gameplay
-  > Escape Verity is a first-person horror game about five days in a house you cannot leave, and about the small yellow helper who does not want you to.
-
-A crate is delivered to your door on the first morning. Inside it is Verity: a smiling sphere that floats at your shoulder, calls 
-- 🔥 09-08 **Vex 8 Gameplay**
-  https://www.youtube.com/watch?v=AZ_hfN5la5w
-  信号词: gameplay, release, test
-  > Vex 8 is the ultimate stickman platformer challenge! Run, jump, slide, and dodge your way through action-packed levels filled with spikes, traps, saws, and deadly obstacles.
-
- Test your reflexes across 9 challenging Acts, collect coins and trophies, unlock skins, and take on the 
 
 ## NewMobileGames（全球 · 全球首发）
 > 专门展示新上线手游，首发开荒实机，偏轻量化新游，海外独立手游/轻度策略上线素材  
 > 频道: @NewMobileGames9 | feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCBcfEifmET-HYuu8audsPuQ
 
-最新视频：2026-09-08｜窗口内 8 个
+最新视频：2026-09-10｜窗口内 9 个
 
+- 🔥 09-10 **PIXEL GUN 2 - Pro Sniper Gameplay! Walkthrough Part 1**
+  https://www.youtube.com/watch?v=1U9f3PTynRA
+  信号词: gameplay
+  > PIXEL GUN 2 - Pro Sniper Gameplay! Walkthrough Part 1
+
+Game Description: Pixel Gun 2 is a multiplayer shooter built on disruption — of old rules, map architecture, traditional loadouts and more!
+
+#pixelgun2
 - 🔥 09-08 **Plants on Fire: Clash & Defend - Greenkeeper Showcase - Gameplay Walkthrough Part 3 (iOS, Android)**
   https://www.youtube.com/watch?v=5ozwx5Rt3KY
   信号词: gameplay, strategy, tower defense
@@ -334,8 +340,17 @@ Merge powerful pl
 > 厂商提前寄送测试包/上线版本，第一时间First Look，剪辑干净，官方合作向实机演示  
 > 频道: @MobileGamesDaily | feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC7tDN9kJtfQjOxekZwWyFVw
 
-最新视频：2026-09-10｜窗口内 14 个
+最新视频：2026-09-10｜窗口内 15 个
 
+-    09-10 **Back to School with Bluey! Bluey Lets Play Walkthrough**
+  https://www.youtube.com/watch?v=kq9CfB4NfXw
+  > Back to School with Bluey! Bluey Lets Play Walkthrough
+
+Dress up, style silly hair & barbecue! Discover three new amazing activities with Bluey! Play hairdressers, dress-up characters in fun outfits & grill fun foods!
+
+#bluey #blueyletsplay 
+
+how to reach me - mgdailyofficial@gma
 -    09-10 **HOT WHEELS UNLIMITED Walkthrough! Wrecking Raceway World Tracks!**
   https://www.youtube.com/watch?v=ThsfcnGXO8k
   > HOT WHEELS UNLIMITED Walkthrough! Wrecking Raceway World Tracks!
@@ -444,8 +459,20 @@ Immerse yourself in an atmospheric 3D puzzle adventure filled with mysteries, hi
 > 手游新游评测/推荐，覆盖面广，更新频率高  
 > 频道: @Techzamazing | feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCyo4ROy9-8ymQTBWcPA5Fjg
 
-最新视频：2026-09-09｜窗口内 15 个
+最新视频：2026-09-10｜窗口内 15 个
 
+- 🔥 09-10 **Bus Simulator : World Gameplay Walkthrough Part 1 (iOS / Android)**
+  https://www.youtube.com/watch?v=GF7cu5EizpU
+  信号词: gameplay, open world, simulation, top
+  > Bus Simulator : World - Realistic Bus Driving Gameplay 🚌🔥 (Android)
+
+Welcome to Bus Simulator : World, the realistic bus driving and management simulator from Edward Sir / SIR STUDIO. In this gameplay, we'll take control of different buses, pick up passengers, travel across long-
+- 🔥 09-10 **Crunchyroll: Hoa Mobile - Gameplay Walkthrough Part 1 (iOS / Android)**
+  https://www.youtube.com/watch?v=URGfYNTZOTA
+  信号词: gameplay
+  > Crunchyroll: Hoa Mobile - Gameplay Walkthrough (iOS / Android)
+
+Welcome to Crunchyroll: Hoa, a beautiful 2D puzzle-platforming adventure from Crunchyroll Games. In this no-commentary gameplay walkthrough, we follow Hoa, a small fairy with the power to bring life back to the world
 - 🔥 09-09 **Gangstar Mirage City - INSANE 5 STAR WANTED LEVEL ESCAPE! 🚔🔥**
   https://www.youtube.com/watch?v=ebBaKZIrYSk
   信号词: gameplay, open world, rpg
@@ -524,21 +551,6 @@ Welcome to Corsair - Pirate Open World, an open-world pirate adventure from Karl
   > GTA: Liberty City Stories Mobile - Full Game Gameplay Walkthrough (Android / iOS)
 
 Welcome to Grand Theft Auto: Liberty City Stories, the classic open-world action-adventure game from Rockstar Games, available on Android and iOS. In this complete no-commentary gameplay walkthroug
-- 🔥 09-01 **Gangstar Mirage City - BANK HEIST Goes Completely WRONG! 💰🔥 Co-Op Gameplay (Android / iOS)**
-  https://www.youtube.com/watch?v=CtZoNReYetc
-  信号词: gameplay, launch, open world, rpg
-  > Gangstar Mirage City - BANK HEIST Goes Completely WRONG! 💰🔥 Co-Op Gameplay (Android / iOS)
-
-Please use my affiliate download link below — it helps support the channel at no extra cost to you. ❤️
-https://gst.onelink.me/ebT2/?pid=MKT_SA&af_click_lookback=30d&af_android_store_csl=sa
-- 🔥 08-31 **Gangstar Mirage City - 5 STAR WANTED LEVEL is INSANE! 🔥 Destructive Gameplay (Android / iOS)**
-  https://www.youtube.com/watch?v=gpCuUgKofK4
-  信号词: gameplay, launch, open world, rpg, test
-  > Gangstar Mirage City - 5 STAR WANTED LEVEL is INSANE! 🔥 Destructive Gameplay (Android / iOS)
-
-Affiliate Download Link ►► https://gst.onelink.me/ebT2/?pid=MKT_SA&af_click_lookback=30d&af_android_store_csl=sa&c=SL3-Launch&af_adset=YouTube&af_ad=Techzamazing
-
-Welcome to Gangstar Mir
 
 ## Yomi_Vtuber（日本 · 日系二游测试）
 > 日本Vtuber，国产开放世界手游海外首测试玩，日系视角评测  
@@ -546,6 +558,28 @@ Welcome to Gangstar Mir
 
 最新视频：2026-09-10｜窗口内 15 个
 
+- 🔥 09-10 **【#鳴潮】  マルチボスイベ来てるじゃん！！！！景燃愛でながら、楽しもうぜ～～！✨ / 2K1440p #800 #鳴潮朝月会【#Vtuber Yomi】**
+  https://www.youtube.com/watch?v=0pxjjjs6Zlo
+  信号词: global
+  > ▼DLはこちらから！
+https://wuwa.kurogames-global.com/4i7VTkh
+
+✦────────────✦
+          🌊 WUWA
+✦────────────✦
+
+＞ ⭐夜魅のキャラ凸状況⭐　＜
+
+忌炎⇒3凸(S3 R1) 
+インリン⇒完凸＋餅武器2凸(S6 R2)
+リンネー⇒両完凸(S6 R5)
+上記以外の限定/恒常キャラ⇒完凸（S6 R1）
+
+＞　鳴潮をご覧いただくときのルール　＜
+
+①過度な指示コメントはやめてね。
+②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。
+③不確定情報をコメント
 - 🔥 09-10 **【#鳴潮】  今、最強にメロつかれて仕方ない男、景燃実装🔥 最速完凸いくぞおおおお！！！！ / 2K1440p #799 #鳴潮朝月会【#Vtuber Yomi】**
   https://www.youtube.com/watch?v=mk1sxf7Thms
   信号词: global
@@ -785,25 +819,6 @@ https://pwgam.es/3QEfQDW
 ③ページにとんだら
 -    09-03 **【#鳴潮】  先行動画見ながら盛り上がる・新イベやる～🔥✨ / 2K1440p #792 【#Vtuber Yomi】**
   https://www.youtube.com/watch?v=wuiE_of11Qk
-  > ✦────────────✦
-          🌊 WUWA
-✦────────────✦
-
-＞ ⭐夜魅のキャラ凸状況⭐　＜
-
-忌炎⇒3凸(S3 R1) 
-インリン⇒完凸＋餅武器2凸(S6 R2)
-リンネー⇒両完凸(S6 R5)
-上記以外の限定/恒常キャラ⇒完凸（S6 R1）
-
-＞　鳴潮をご覧いただくときのルール　＜
-
-①過度な指示コメントはやめてね。
-②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。
-③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）
-④一緒に楽しんでくれるみんなの気分を害するようなコメントもN
--    09-02 **【#鳴潮】  実績回収サブクエ！・第二ソラリス最終日を堪能する😿 / 2K1440p #791 【#Vtuber Yomi】**
-  https://www.youtube.com/watch?v=1WfSk-8efKo
   > ✦────────────✦
           🌊 WUWA
 ✦────────────✦

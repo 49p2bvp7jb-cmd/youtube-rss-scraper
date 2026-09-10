@@ -2,13 +2,13 @@
   "meta": {
     "script": "youtube_rss_scraper.py",
     "version": "v1.0",
-    "generated_at": "2026-09-10T11:25:13.691883+00:00",
+    "generated_at": "2026-09-10T18:16:59.648390+00:00",
     "days_window": 14,
     "channels_total": 10,
     "channels_ok": 9,
     "channels_fail": 1,
     "channels_stale": 2,
-    "total_kept_videos": 91
+    "total_kept_videos": 93
   },
   "channels": [
     {
@@ -20,7 +20,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfKqMs1pvtASaunLYeAvtbQ",
       "channel_url": "https://www.youtube.com/channel/UCfKqMs1pvtASaunLYeAvtbQ",
       "focus": "手游Beta封闭测试录播，生存/开放世界/SLG/ARPG，NDA解禁后首测一手画面",
-      "fetched_at": "2026-09-10T11:25:13.691883+00:00",
+      "fetched_at": "2026-09-10T18:16:59.648390+00:00",
       "status": "ok",
       "error": "",
       "total_in_feed": 15,
@@ -38,7 +38,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBRRJOzY5mtgTWmwoDVFHIg",
       "channel_url": "https://www.youtube.com/channel/UCBRRJOzY5mtgTWmwoDVFHIg",
       "focus": "老牌综合手游频道，CBT首测+全球上线首发实况双覆盖，SLG/开放世界/二游素材量大",
-      "fetched_at": "2026-09-10T11:25:13.691883+00:00",
+      "fetched_at": "2026-09-10T18:16:59.648390+00:00",
       "status": "ok",
       "error": "",
       "total_in_feed": 15,
@@ -314,7 +314,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7SIaeUWuuIrWTIOBpayDVQ",
       "channel_url": "https://www.youtube.com/channel/UC7SIaeUWuuIrWTIOBpayDVQ",
       "focus": "韩语主播，国产出海二游/开放世界海外CBT核心频道，韩服首测独家实机多",
-      "fetched_at": "2026-09-10T11:25:13.691883+00:00",
+      "fetched_at": "2026-09-10T18:16:59.648390+00:00",
       "status": "ok",
       "error": "",
       "total_in_feed": 15,
@@ -450,7 +450,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfTBJHPAhpsHyvilX8MWzgQ",
       "channel_url": "https://www.youtube.com/channel/UCfTBJHPAhpsHyvilX8MWzgQ",
       "focus": "偏安卓手游，大量测试版APK试玩，策略/RPG/足球手游，附官网 only4gamers.xyz",
-      "fetched_at": "2026-09-10T11:25:13.691883+00:00",
+      "fetched_at": "2026-09-10T18:16:59.648390+00:00",
       "status": "ok",
       "error": "",
       "total_in_feed": 15,
@@ -468,14 +468,63 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChJWfOP9b-0UclIynsUuNUA",
       "channel_url": "https://www.youtube.com/channel/UChJWfOP9b-0UclIynsUuNUA",
       "focus": "游戏上线第一时间录实机，覆盖全品类，上线首日素材多，适合看正式版完整玩法",
-      "fetched_at": "2026-09-10T11:25:13.691883+00:00",
+      "fetched_at": "2026-09-10T18:16:59.648390+00:00",
       "status": "ok",
       "error": "",
       "total_in_feed": 15,
       "kept": 15,
-      "latest_pub": "2026-09-10T10:56:54+00:00",
+      "latest_pub": "2026-09-10T14:09:22+00:00",
       "stale": false,
       "items": [
+        {
+          "title": "Arminies Gameplay",
+          "link": "https://www.youtube.com/watch?v=Kw1mK2WS3jg",
+          "video_id": "Kw1mK2WS3jg",
+          "thumbnail": "https://i4.ytimg.com/vi/Kw1mK2WS3jg/hqdefault.jpg",
+          "pub_date_raw": "2026-09-10T14:09:22+00:00",
+          "pub_iso": "2026-09-10T14:09:22+00:00",
+          "pub_ts": 1789049362.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "Welcome to ARMINIES, a world where tiny armies fight massive battles for control of the battlefield.\n\nTake command, line up your shots, and unleash a growing arsenal of powerful weapons and units against the enemy. Every attack can change the battlefield, destroy defenses, and open the way for your army to push forward.\n\nBut choose your targets carefully.\n\nBuildings in ARMINIES are interconnected. Find a weak point in the enemy base and one perfectly placed attack can trigger a devastating chain reaction, causing entire sections of their defenses to collapse in a cascade of explosions.\n\nJust r",
+          "signal_hits": [
+            "launch",
+            "gameplay",
+            "strategy"
+          ]
+        },
+        {
+          "title": "Escape The Poolrooms Gameplay (Horror)",
+          "link": "https://www.youtube.com/watch?v=RDrqcDHpMxQ",
+          "video_id": "RDrqcDHpMxQ",
+          "thumbnail": "https://i3.ytimg.com/vi/RDrqcDHpMxQ/hqdefault.jpg",
+          "pub_date_raw": "2026-09-10T12:39:43+00:00",
+          "pub_iso": "2026-09-10T12:39:43+00:00",
+          "pub_ts": 1789043983.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "**Dare to escape the endless Poolrooms? 👻**\n\nEnter the mysterious world of **Escape The Poolrooms**, a thrilling **horror escape game** inspired by the eerie **Poolrooms and Backrooms**. Run through strange environments, avoid dangerous obstacles, escape terrifying entities, and find the exit before it's too late!\n\nExplore mysterious pool areas, dark corridors, endless-looking rooms, and challenging obstacles. Stay alert, keep moving, and find your way out of the Poolrooms.\n\n**🏃 RUN, AVOID & ESCAPE**\n\nYour goal is simple: **run and find the exit.**\n\nMove through the Poolrooms, avoid dangerous ",
+          "signal_hits": [
+            "test",
+            "gameplay"
+          ]
+        },
+        {
+          "title": "MechStrikers Gameplay",
+          "link": "https://www.youtube.com/watch?v=-nlsO-ZJf6s",
+          "video_id": "-nlsO-ZJf6s",
+          "thumbnail": "https://i2.ytimg.com/vi/-nlsO-ZJf6s/hqdefault.jpg",
+          "pub_date_raw": "2026-09-10T11:50:16+00:00",
+          "pub_iso": "2026-09-10T11:50:16+00:00",
+          "pub_ts": 1789041016.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "MechStrikers follows the exact rules of 90s arcade vertical shooters.\n\nYou fire by mashing the button, charge up by holding it, summon a bomb when in danger, and pick up medals dropped in explosion spots without missing.\n\nHowever, what rises from the bottom of the screen is not a fighter jet, but a humanoid mech.\n\n▣ Stage — Orbital Dock D-7\n\nYou enter the sealed orbital dock with the nebula behind you. Turrets bolted into the dock descend along with the background, firing homing shots, and destroyed structures remain broken as they pass by.\n\nThe screen does not feature the background and enemi",
+          "signal_hits": [
+            "release",
+            "gameplay"
+          ]
+        },
         {
           "title": "Heroes of the Void: Gacha RPG Gameplay",
           "link": "https://www.youtube.com/watch?v=-_uYtA1s9do",
@@ -675,54 +724,6 @@
             "strategy",
             "rpg"
           ]
-        },
-        {
-          "title": "Ether Trinity : Boss Rush Gameplay",
-          "link": "https://www.youtube.com/watch?v=c7rCyNzvzw4",
-          "video_id": "c7rCyNzvzw4",
-          "thumbnail": "https://i4.ytimg.com/vi/c7rCyNzvzw4/hqdefault.jpg",
-          "pub_date_raw": "2026-09-08T16:30:36+00:00",
-          "pub_iso": "2026-09-08T16:30:36+00:00",
-          "pub_ts": 1788885036.0,
-          "categories": [],
-          "author": "Maximumandroid - Just Good Games",
-          "summary": "Ether Trinity is a boss raid. Every stage is one boss in one arena, and beating it is the whole game.\n\nYou bring three heroes in, and whether you walk out comes down to the team you picked and how well you play it.\n\nBRING THE RIGHT TEAM\n\nYou have five heroes and you take three into the fight. Two of them deal real damage: the Bowmaster at range, the Blademaster up close. The other three solve problems. The Cleric heals and shields, the Nature Mage roots and weakens, and the Supporter buffs and sets up one big hit. A boss that lands a few enormous attacks wants a different three than one that k",
-          "signal_hits": [
-            "gameplay",
-            "top"
-          ]
-        },
-        {
-          "title": "Escape Verity: Horror House Gameplay",
-          "link": "https://www.youtube.com/watch?v=8CCNTOqXIYs",
-          "video_id": "8CCNTOqXIYs",
-          "thumbnail": "https://i1.ytimg.com/vi/8CCNTOqXIYs/hqdefault.jpg",
-          "pub_date_raw": "2026-09-08T15:41:32+00:00",
-          "pub_iso": "2026-09-08T15:41:32+00:00",
-          "pub_ts": 1788882092.0,
-          "categories": [],
-          "author": "Maximumandroid - Just Good Games",
-          "summary": "Escape Verity is a first-person horror game about five days in a house you cannot leave, and about the small yellow helper who does not want you to.\n\nA crate is delivered to your door on the first morning. Inside it is Verity: a smiling sphere that floats at your shoulder, calls you a friend, and knows the answer to everything. \n\nOn day one that is genuinely useful. By day five it is the reason you are still in the house.\n\nFive days, five attempts. You wake in the same bed every morning, and Verity wakes one step further from the helper he was — eager on the first day, clingy on the second, je",
-          "signal_hits": [
-            "gameplay"
-          ]
-        },
-        {
-          "title": "Vex 8 Gameplay",
-          "link": "https://www.youtube.com/watch?v=AZ_hfN5la5w",
-          "video_id": "AZ_hfN5la5w",
-          "thumbnail": "https://i2.ytimg.com/vi/AZ_hfN5la5w/hqdefault.jpg",
-          "pub_date_raw": "2026-09-08T14:10:04+00:00",
-          "pub_iso": "2026-09-08T14:10:04+00:00",
-          "pub_ts": 1788876604.0,
-          "categories": [],
-          "author": "Maximumandroid - Just Good Games",
-          "summary": "Vex 8 is the ultimate stickman platformer challenge! Run, jump, slide, and dodge your way through action-packed levels filled with spikes, traps, saws, and deadly obstacles.\n\n Test your reflexes across 9 challenging Acts, collect coins and trophies, unlock skins, and take on the endless Infinite mode.\n\n Precision, speed, and skill are the key to becoming the ultimate Vex champion!\n\nDon't forget to enter the 'infinite' challenge rooms. In this special mode the level only ends when you end. There is a reason the 8 in Vex 8 is an infinity symbol.\n\nExperience Vex 8, the fast-paced stickman platfor",
-          "signal_hits": [
-            "test",
-            "release",
-            "gameplay"
-          ]
         }
       ]
     },
@@ -735,14 +736,29 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBcfEifmET-HYuu8audsPuQ",
       "channel_url": "https://www.youtube.com/channel/UCBcfEifmET-HYuu8audsPuQ",
       "focus": "专门展示新上线手游，首发开荒实机，偏轻量化新游，海外独立手游/轻度策略上线素材",
-      "fetched_at": "2026-09-10T11:25:13.691883+00:00",
+      "fetched_at": "2026-09-10T18:16:59.648390+00:00",
       "status": "ok",
       "error": "",
       "total_in_feed": 15,
-      "kept": 8,
-      "latest_pub": "2026-09-08T02:44:02+00:00",
+      "kept": 9,
+      "latest_pub": "2026-09-10T15:07:26+00:00",
       "stale": false,
       "items": [
+        {
+          "title": "PIXEL GUN 2 - Pro Sniper Gameplay! Walkthrough Part 1",
+          "link": "https://www.youtube.com/watch?v=1U9f3PTynRA",
+          "video_id": "1U9f3PTynRA",
+          "thumbnail": "https://i2.ytimg.com/vi/1U9f3PTynRA/hqdefault.jpg",
+          "pub_date_raw": "2026-09-10T15:07:26+00:00",
+          "pub_iso": "2026-09-10T15:07:26+00:00",
+          "pub_ts": 1789052846.0,
+          "categories": [],
+          "author": "NewMobileGames",
+          "summary": "PIXEL GUN 2 - Pro Sniper Gameplay! Walkthrough Part 1\n\nGame Description: Pixel Gun 2 is a multiplayer shooter built on disruption — of old rules, map architecture, traditional loadouts and more!\n\n#pixelgun2",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
         {
           "title": "Plants on Fire: Clash & Defend - Greenkeeper Showcase - Gameplay Walkthrough Part 3 (iOS, Android)",
           "link": "https://www.youtube.com/watch?v=5ozwx5Rt3KY",
@@ -878,14 +894,27 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7tDN9kJtfQjOxekZwWyFVw",
       "channel_url": "https://www.youtube.com/channel/UC7tDN9kJtfQjOxekZwWyFVw",
       "focus": "厂商提前寄送测试包/上线版本，第一时间First Look，剪辑干净，官方合作向实机演示",
-      "fetched_at": "2026-09-10T11:25:13.691883+00:00",
+      "fetched_at": "2026-09-10T18:16:59.648390+00:00",
       "status": "ok",
       "error": "",
       "total_in_feed": 15,
-      "kept": 14,
-      "latest_pub": "2026-09-10T08:11:36+00:00",
+      "kept": 15,
+      "latest_pub": "2026-09-10T15:30:30+00:00",
       "stale": false,
       "items": [
+        {
+          "title": "Back to School with Bluey! Bluey Lets Play Walkthrough",
+          "link": "https://www.youtube.com/watch?v=kq9CfB4NfXw",
+          "video_id": "kq9CfB4NfXw",
+          "thumbnail": "https://i4.ytimg.com/vi/kq9CfB4NfXw/hqdefault.jpg",
+          "pub_date_raw": "2026-09-10T15:30:30+00:00",
+          "pub_iso": "2026-09-10T15:30:30+00:00",
+          "pub_ts": 1789054230.0,
+          "categories": [],
+          "author": "MobileGamesDaily",
+          "summary": "Back to School with Bluey! Bluey Lets Play Walkthrough\n\nDress up, style silly hair & barbecue! Discover three new amazing activities with Bluey! Play hairdressers, dress-up characters in fun outfits & grill fun foods!\n\n#bluey #blueyletsplay \n\nhow to reach me - mgdailyofficial@gmail.com",
+          "signal_hits": []
+        },
         {
           "title": "HOT WHEELS UNLIMITED Walkthrough! Wrecking Raceway World Tracks!",
           "link": "https://www.youtube.com/watch?v=ThsfcnGXO8k",
@@ -1100,7 +1129,7 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTjH1fZ1-vM8-0t3H8YqYtQ",
       "channel_url": "https://www.youtube.com/channel/UCTjH1fZ1-vM8-0t3H8YqYtQ",
       "focus": "手游专业媒体，新游评测+行业资讯，最像国内\"金角游戏\"定位",
-      "fetched_at": "2026-09-10T11:25:13.691883+00:00",
+      "fetched_at": "2026-09-10T18:16:59.648390+00:00",
       "status": "fail",
       "error": "HTTPError: HTTP Error 404: Not Found",
       "total_in_feed": 0,
@@ -1118,14 +1147,47 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyo4ROy9-8ymQTBWcPA5Fjg",
       "channel_url": "https://www.youtube.com/channel/UCyo4ROy9-8ymQTBWcPA5Fjg",
       "focus": "手游新游评测/推荐，覆盖面广，更新频率高",
-      "fetched_at": "2026-09-10T11:25:13.691883+00:00",
+      "fetched_at": "2026-09-10T18:16:59.648390+00:00",
       "status": "ok",
       "error": "",
       "total_in_feed": 15,
       "kept": 15,
-      "latest_pub": "2026-09-09T05:23:51+00:00",
+      "latest_pub": "2026-09-10T16:14:20+00:00",
       "stale": false,
       "items": [
+        {
+          "title": "Bus Simulator : World Gameplay Walkthrough Part 1 (iOS / Android)",
+          "link": "https://www.youtube.com/watch?v=GF7cu5EizpU",
+          "video_id": "GF7cu5EizpU",
+          "thumbnail": "https://i4.ytimg.com/vi/GF7cu5EizpU/hqdefault.jpg",
+          "pub_date_raw": "2026-09-10T16:14:20+00:00",
+          "pub_iso": "2026-09-10T16:14:20+00:00",
+          "pub_ts": 1789056860.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "Bus Simulator : World - Realistic Bus Driving Gameplay 🚌🔥 (Android)\n\nWelcome to Bus Simulator : World, the realistic bus driving and management simulator from Edward Sir / SIR STUDIO. In this gameplay, we'll take control of different buses, pick up passengers, travel across long-distance routes, and experience the challenges of driving a coach through a living open world.\n\nDrive across Europe, the Middle East, and North America, transporting passengers through cities, highways, mountain roads, coastal routes, and tunnels. Passengers react to how you drive, so smooth braking, careful steering, ",
+          "signal_hits": [
+            "gameplay",
+            "top",
+            "open world",
+            "simulation"
+          ]
+        },
+        {
+          "title": "Crunchyroll: Hoa Mobile - Gameplay Walkthrough Part 1 (iOS / Android)",
+          "link": "https://www.youtube.com/watch?v=URGfYNTZOTA",
+          "video_id": "URGfYNTZOTA",
+          "thumbnail": "https://i2.ytimg.com/vi/URGfYNTZOTA/hqdefault.jpg",
+          "pub_date_raw": "2026-09-10T11:55:48+00:00",
+          "pub_iso": "2026-09-10T11:55:48+00:00",
+          "pub_ts": 1789041348.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "Crunchyroll: Hoa Mobile - Gameplay Walkthrough (iOS / Android)\n\nWelcome to Crunchyroll: Hoa, a beautiful 2D puzzle-platforming adventure from Crunchyroll Games. In this no-commentary gameplay walkthrough, we follow Hoa, a small fairy with the power to bring life back to the world around her, as she returns to her homeland and explores its forests, hidden caves, and peaceful landscapes.\n\nHoa focuses on peaceful exploration, environmental puzzles, platforming, and storytelling rather than combat. Explore a hand-painted world, interact with charming creatures, restore life to the surrounding ecos",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
         {
           "title": "Gangstar Mirage City - INSANE 5 STAR WANTED LEVEL ESCAPE! 🚔🔥",
           "link": "https://www.youtube.com/watch?v=ebBaKZIrYSk",
@@ -1345,43 +1407,6 @@
             "top",
             "open world"
           ]
-        },
-        {
-          "title": "Gangstar Mirage City - BANK HEIST Goes Completely WRONG! 💰🔥 Co-Op Gameplay (Android / iOS)",
-          "link": "https://www.youtube.com/watch?v=CtZoNReYetc",
-          "video_id": "CtZoNReYetc",
-          "thumbnail": "https://i4.ytimg.com/vi/CtZoNReYetc/hqdefault.jpg",
-          "pub_date_raw": "2026-09-01T04:30:04+00:00",
-          "pub_iso": "2026-09-01T04:30:04+00:00",
-          "pub_ts": 1788237004.0,
-          "categories": [],
-          "author": "Techzamazing",
-          "summary": "Gangstar Mirage City - BANK HEIST Goes Completely WRONG! 💰🔥 Co-Op Gameplay (Android / iOS)\n\nPlease use my affiliate download link below — it helps support the channel at no extra cost to you. ❤️\nhttps://gst.onelink.me/ebT2/?pid=MKT_SA&af_click_lookback=30d&af_android_store_csl=sa&c=SL3-Launch&af_adset=YouTube&af_ad=Techzamazing\n\nWelcome to Gangstar Mirage City, the open-world action RPG from Gameloft and Level Infinite. In this gameplay video, we're teaming up for a bank heist that quickly goes completely wrong! 💰🔥\n\nWhat starts as a carefully planned robbery turns into chaos as enemies, police",
-          "signal_hits": [
-            "launch",
-            "gameplay",
-            "open world",
-            "rpg"
-          ]
-        },
-        {
-          "title": "Gangstar Mirage City - 5 STAR WANTED LEVEL is INSANE! 🔥 Destructive Gameplay (Android / iOS)",
-          "link": "https://www.youtube.com/watch?v=gpCuUgKofK4",
-          "video_id": "gpCuUgKofK4",
-          "thumbnail": "https://i4.ytimg.com/vi/gpCuUgKofK4/hqdefault.jpg",
-          "pub_date_raw": "2026-08-31T10:45:33+00:00",
-          "pub_iso": "2026-08-31T10:45:33+00:00",
-          "pub_ts": 1788173133.0,
-          "categories": [],
-          "author": "Techzamazing",
-          "summary": "Gangstar Mirage City - 5 STAR WANTED LEVEL is INSANE! 🔥 Destructive Gameplay (Android / iOS)\n\nAffiliate Download Link ►► https://gst.onelink.me/ebT2/?pid=MKT_SA&af_click_lookback=30d&af_android_store_csl=sa&c=SL3-Launch&af_adset=YouTube&af_ad=Techzamazing\n\nWelcome to Gangstar Mirage City, the multiplayer open-world RPG from Gameloft and Level Infinite. In this gameplay video, we're pushing the city to the limit and triggering a 5-star wanted level while creating massive destruction across Mirage City.\n\nWatch as the police response gets more intense while we cause chaos across the open world, e",
-          "signal_hits": [
-            "test",
-            "launch",
-            "gameplay",
-            "open world",
-            "rpg"
-          ]
         }
       ]
     },
@@ -1394,14 +1419,29 @@
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW7htl9_IlxgjrXkn4Vu33w",
       "channel_url": "https://www.youtube.com/channel/UCW7htl9_IlxgjrXkn4Vu33w",
       "focus": "日本Vtuber，国产开放世界手游海外首测试玩，日系视角评测",
-      "fetched_at": "2026-09-10T11:25:13.691883+00:00",
+      "fetched_at": "2026-09-10T18:16:59.648390+00:00",
       "status": "ok",
       "error": "",
       "total_in_feed": 15,
       "kept": 15,
-      "latest_pub": "2026-09-10T05:22:50+00:00",
+      "latest_pub": "2026-09-10T14:24:44+00:00",
       "stale": false,
       "items": [
+        {
+          "title": "【#鳴潮】  マルチボスイベ来てるじゃん！！！！景燃愛でながら、楽しもうぜ～～！✨ / 2K1440p #800 #鳴潮朝月会【#Vtuber Yomi】",
+          "link": "https://www.youtube.com/watch?v=0pxjjjs6Zlo",
+          "video_id": "0pxjjjs6Zlo",
+          "thumbnail": "https://i1.ytimg.com/vi/0pxjjjs6Zlo/hqdefault.jpg",
+          "pub_date_raw": "2026-09-10T14:24:44+00:00",
+          "pub_iso": "2026-09-10T14:24:44+00:00",
+          "pub_ts": 1789050284.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "▼DLはこちらから！\nhttps://wuwa.kurogames-global.com/4i7VTkh\n\n✦────────────✦\n          🌊 WUWA\n✦────────────✦\n\n＞ ⭐夜魅のキャラ凸状況⭐　＜\n\n忌炎⇒3凸(S3 R1) \nインリン⇒完凸＋餅武器2凸(S6 R2)\nリンネー⇒両完凸(S6 R5)\n上記以外の限定/恒常キャラ⇒完凸（S6 R1）\n\n＞　鳴潮をご覧いただくときのルール　＜\n\n①過度な指示コメントはやめてね。\n②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。\n③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）\n④一緒に楽しんでくれるみんなの気分を害するようなコメントもNGです。\n\n上記を守れない場合、\n夜魅が個人的に判断してタイムアウトやBANする可能性があります。\nまた、リーク情報の流布は一発でタイムアウト、BANしてしまうのでよろしくお願いします。\nあまりルールを縛りたくないのですが夜魅とみんなが楽しむ為なので、\nご了承くださいませ。\n\n✦────────────✦\n           📢INFO\n✦────────────✦\n\n＞ Youtubeメンバーシップ ＜\n\n→   https://www.youtube.com/@Yomi_Vtuber/join\n\n【iPhoneからのメン",
+          "signal_hits": [
+            "global"
+          ]
+        },
         {
           "title": "【#鳴潮】  今、最強にメロつかれて仕方ない男、景燃実装🔥 最速完凸いくぞおおおお！！！！ / 2K1440p #799 #鳴潮朝月会【#Vtuber Yomi】",
           "link": "https://www.youtube.com/watch?v=mk1sxf7Thms",
@@ -1581,19 +1621,6 @@
           "pub_date_raw": "2026-09-03T06:15:59+00:00",
           "pub_iso": "2026-09-03T06:15:59+00:00",
           "pub_ts": 1788416159.0,
-          "categories": [],
-          "author": "夜魅ちゃんねる",
-          "summary": "✦────────────✦\n          🌊 WUWA\n✦────────────✦\n\n＞ ⭐夜魅のキャラ凸状況⭐　＜\n\n忌炎⇒3凸(S3 R1) \nインリン⇒完凸＋餅武器2凸(S6 R2)\nリンネー⇒両完凸(S6 R5)\n上記以外の限定/恒常キャラ⇒完凸（S6 R1）\n\n＞　鳴潮をご覧いただくときのルール　＜\n\n①過度な指示コメントはやめてね。\n②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。\n③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）\n④一緒に楽しんでくれるみんなの気分を害するようなコメントもNGです。\n\n上記を守れない場合、\n夜魅が個人的に判断してタイムアウトやBANする可能性があります。\nまた、リーク情報の流布は一発でタイムアウト、BANしてしまうのでよろしくお願いします。\nあまりルールを縛りたくないのですが夜魅とみんなが楽しむ為なので、\nご了承くださいませ。\n\n✦────────────✦\n           📢INFO\n✦────────────✦\n\n＞ Youtubeメンバーシップ ＜\n\n→   https://www.youtube.com/@Yomi_Vtuber/join\n\n【iPhoneからのメンバー加入方法】\n①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）\n②Safariで開いてURL",
-          "signal_hits": []
-        },
-        {
-          "title": "【#鳴潮】  実績回収サブクエ！・第二ソラリス最終日を堪能する😿 / 2K1440p #791 【#Vtuber Yomi】",
-          "link": "https://www.youtube.com/watch?v=1WfSk-8efKo",
-          "video_id": "1WfSk-8efKo",
-          "thumbnail": "https://i2.ytimg.com/vi/1WfSk-8efKo/hqdefault.jpg",
-          "pub_date_raw": "2026-09-02T06:21:51+00:00",
-          "pub_iso": "2026-09-02T06:21:51+00:00",
-          "pub_ts": 1788330111.0,
           "categories": [],
           "author": "夜魅ちゃんねる",
           "summary": "✦────────────✦\n          🌊 WUWA\n✦────────────✦\n\n＞ ⭐夜魅のキャラ凸状況⭐　＜\n\n忌炎⇒3凸(S3 R1) \nインリン⇒完凸＋餅武器2凸(S6 R2)\nリンネー⇒両完凸(S6 R5)\n上記以外の限定/恒常キャラ⇒完凸（S6 R1）\n\n＞　鳴潮をご覧いただくときのルール　＜\n\n①過度な指示コメントはやめてね。\n②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。\n③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）\n④一緒に楽しんでくれるみんなの気分を害するようなコメントもNGです。\n\n上記を守れない場合、\n夜魅が個人的に判断してタイムアウトやBANする可能性があります。\nまた、リーク情報の流布は一発でタイムアウト、BANしてしまうのでよろしくお願いします。\nあまりルールを縛りたくないのですが夜魅とみんなが楽しむ為なので、\nご了承くださいませ。\n\n✦────────────✦\n           📢INFO\n✦────────────✦\n\n＞ Youtubeメンバーシップ ＜\n\n→   https://www.youtube.com/@Yomi_Vtuber/join\n\n【iPhoneからのメンバー加入方法】\n①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）\n②Safariで開いてURL",
