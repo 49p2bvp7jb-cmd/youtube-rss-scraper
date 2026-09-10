@@ -1,0 +1,30 @@
+name: YouTube RSS Scraper
+
+on:
+  schedule:
+    - cron: '0 18 * * 4'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run scraper
+        run: |
+          python youtube_rss_scraper.py
+        env:
+          OUTPUT_DIR: output
+
+      - name: Commit results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update youtube rss snapshot $(date +%Y%m%d)" && git push)
