@@ -1,6 +1,6 @@
-# YouTube手游频道 RSS 采集（2026-10-01）
+# YouTube手游频道 RSS 采集（2026-10-08）
 
-窗口：最近 14 天（cutoff 2026-09-17 UTC）｜频道数 10｜脚本 youtube_rss_scraper.py
+窗口：最近 14 天（cutoff 2026-09-24 UTC）｜频道数 10｜脚本 youtube_rss_scraper.py
 
 
 ## Beta Games Revolution Mobile（全球 · CBT测试）
@@ -14,8 +14,16 @@
 > 老牌综合手游频道，CBT首测+全球上线首发实况双覆盖，SLG/开放世界/二游素材量大  
 > 频道: @TheMobileGamerHD | feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCBRRJOzY5mtgTWmwoDVFHIg
 
-最新视频：2026-10-01｜窗口内 15 个
+最新视频：2026-10-08｜窗口内 8 个
 
+- 🔥 10-08 **Preserve: Complete Edition — Official Launch Gameplay (Android)**
+  https://www.youtube.com/watch?v=chxaefsBEo8
+  信号词: gameplay, launch, simulation, strategy
+  > In this video I play Preserve: Complete Edition on Android and build beautiful natural habitats in a relaxing puzzle strategy game. Arrange plants, animals, and different elements of nature to create thriving ecosystems, solve environmental challenges, and discover new ways to tr
+- 🔥 10-06 **Winter Burrow — Official Mobile Launch Gameplay (Android)**
+  https://www.youtube.com/watch?v=A04C_LC6Eiw
+  信号词: gameplay, launch, simulation, survival
+  > In this video I play Winter Burrow on Android and step into a charming woodland survival adventure where a tiny mouse must rebuild its abandoned home and survive the harsh winter. Explore the snowy wilderness, gather resources, craft useful items, discover hidden secrets, and unc
 - 🔥 10-01 **Drop Duchy — Official Mobile Launch Gameplay (Android)**
   https://www.youtube.com/watch?v=E4cd4B9NxDc
   信号词: gameplay, launch, strategy
@@ -40,49 +48,46 @@
   https://www.youtube.com/watch?v=eclpy7mbWZg
   信号词: gameplay, launch
   > In this video I play Find My Frogs on Android and relax with a charming hidden-object adventure where adorable frogs are cleverly hiding in beautifully hand-drawn scenes. Search every corner, discover secret frogs, solve light puzzles, and enjoy a cozy experience packed with rela
-- 🔥 09-23 **DAVE THE DIVER: In The Jungle • Official Mobile Launch Gameplay (Android)**
-  https://www.youtube.com/watch?v=PCqqBoCxM78
-  信号词: gameplay, launch, rpg, simulation
-  > In this video I play Dave the Diver on Android and dive into an award-winning ocean adventure where deep-sea exploration meets restaurant management. Catch exotic fish during the day, battle dangerous sea creatures, discover hidden underwater mysteries, and serve fresh sushi at n
-- 🔥 09-22 **Dong Wu: Odyssey • Official Mobile Launch Gameplay (Android)**
-  https://www.youtube.com/watch?v=xy900zio_g0
-  信号词: gameplay, launch
-  > In this video I play Dong Wu: Odyssey on Android and embark on a breathtaking hand-drawn adventure inspired by Eastern mythology and ancient legends. Explore mysterious lands, solve clever puzzles, meet unforgettable characters, and uncover the secrets of a beautifully crafted wo
-- 🔥 09-22 **Flick Shot Rogues — Official Mobile Launch Gameplay (Android)**
-  https://www.youtube.com/watch?v=jqLgdu2jewM
-  信号词: gameplay, launch, launches
-  > In this video I play Flick Shot Rogues on Android and dive into a fast-paced roguelike shooter where every flick launches devastating attacks against relentless enemies. Master skill-based flick controls, build powerful combinations with unique upgrades, survive chaotic arenas, a
-- 🔥 09-21 **The Posthumous Investigation — Official Mobile Launch Gameplay (Android)**
-  https://www.youtube.com/watch?v=cv2ozoLr-TI
-  信号词: gameplay, launch
-  > In this video I play The Posthumous Investigation on Android and investigate a chilling supernatural mystery where every clue uncovers a darker truth. Explore eerie locations, examine crime scenes, solve clever puzzles, question mysterious characters, and uncover the secrets behi
-- 🔥 09-21 **Order Automatica — Official Mobile Launch Gameplay (Android)**
-  https://www.youtube.com/watch?v=eDD3ZQphriI
-  信号词: gameplay, launch, strategy
-  > In this video I play Order Automatica on Android and take control of a futuristic automated factory where conveyor belts, robots, and clever logistics puzzles keep production running. Build efficient assembly lines, optimize resource flow, unlock advanced machinery, and create th
-- 🔥 09-20 **Apple Knight 3 — Official Global Launch Gameplay (Android)**
-  https://www.youtube.com/watch?v=-mKZflOHDEg
-  信号词: gameplay, global, launch, rpg
-  > In this video I play Apple Knight 3 on Android and jump into an action-packed pixel adventure filled with fast combat, challenging platforming, and epic boss battles. Slash through dangerous enemies, master powerful abilities, collect legendary weapons, and explore a vibrant fant
-- 🔥 09-20 **Alone With You — Official Mobile Launch Gameplay (Android)**
-  https://www.youtube.com/watch?v=Jw8G81jSJY8
-  信号词: gameplay, launch
-  > In this video I play Alone With You on Android and experience an emotional sci-fi adventure where loneliness, mystery, and difficult choices shape every moment. Explore a doomed space colony, solve clever puzzles, build relationships with holographic companions, and uncover the t
-- 🔥 09-18 **Knightica — Official Mobile Launch Gameplay (Android)**
-  https://www.youtube.com/watch?v=MZgicRioJ9g
-  信号词: gameplay, launch, rpg
-  > In this video I play Knightica on Android and dive into a fast-paced roguelike RPG where powerful knight builds, endless enemy waves, and strategic upgrades decide every run. Recruit unique heroes, unlock devastating abilities, collect powerful relics, and battle through dangerou
-- 🔥 09-18 **Crunchyroll: Hoa • Official Mobile Launch Gameplay (Android)**
-  https://www.youtube.com/watch?v=bUqc6ikz0-A
-  信号词: gameplay, launch
-  > In this video I play Hoa on Android and experience a breathtaking hand-painted platform adventure filled with peaceful exploration, clever puzzles, and relaxing gameplay. Journey through beautiful forests, floating islands, and magical landscapes as you guide Hoa home in this cha
 
 ## Sameway（韩国 · CBT测试）
 > 韩语主播，国产出海二游/开放世界海外CBT核心频道，韩服首测独家实机多  
 > 频道: @sameway | feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC7SIaeUWuuIrWTIOBpayDVQ
 
-最新视频：2026-10-01｜窗口内 10 个
+最新视频：2026-10-08｜窗口内 9 个
 
+-    10-08 **샘웨 다시보기 26.10.07 | 치이카와 극장판 후기 & 무직백수 로노바**
+  https://www.youtube.com/watch?v=YYPnun7ssPA
+  > 00:00 치이카와 : 인어 섬의 비밀 후기
+1:23:31 카페탐방
+2:49:40 무직백수 로노바
+3:38:26 롤
+4:10:33 무직백수 로노바 짤
+- 🔥 10-07 **샘웨 다시보기 26.10.06 | 엔필 1.6 공방 & 젠존제 3.2 메인스토리 & 아스오라 CBT 리뷰**
+  https://www.youtube.com/watch?v=oRQid_GhBds
+  信号词: cbt
+  > 00:00 방송시작
+50:54 아스트라에 오라티오 1c차 CBT 리뷰
+1:35:15 엔드필드 1.6 공식방송
+3:11:09 젠레스 존 제로 3.2 메인스토리
+- 🔥 10-06 **샘웨 다시보기 26.10.05 | TS말포이 & 아스트라에 오라티오 1차 CBT 2일차**
+  https://www.youtube.com/watch?v=jBSa-JB6EKk
+  信号词: cbt
+  > 00:00 방송시작
+53:35 TS말포이
+1:54:48 아스트라에 오라티오 1차 CBT 2일차
+4:15:35 이터널리턴
+- 🔥 10-05 **샘웨 다시보기 26.10.04 | 아스트라에 오라티오 1차 CBT**
+  https://www.youtube.com/watch?v=43r1WNrNGDU
+  信号词: cbt
+  > 00:00 방송시작
+1:05:29 미슐랭 2스타 정식당 후기
+2:04:16 아스트라에 오라티오 1차 CBT
+2:28:33 세팅 스킵
+-    10-03 **샘웨 다시보기 26.10.01 | 원신 스네즈나야 마신임무 3,4막**
+  https://www.youtube.com/watch?v=VVn8eAbWgQc
+  > 0:00:00 스네즈나야 3막
+3:25:40 스네즈나야 4막
+7:13:09 마신임무 후기
 -    10-01 **샘웨 다시보기 26.09.30 | 스타레일 휴지통 이론**
   https://www.youtube.com/watch?v=k234i8ZNb_8
   > 00:00 방송시작
@@ -121,37 +126,6 @@
 4:15:04 몬길 이자벨라 캐릭터 PV
 4:53:26 림버스 오트쿠튀르::르누아르 브랜드 매니저 돈키호테
 5:23:31 롤
--    09-24 **샘웨 다시보기 26.09.23 | 공포게임 더 클레스룸**
-  https://www.youtube.com/watch?v=1UwheU1avE8
--    09-24 **샘웨 다시보기 26.09.23 | 이형철 배우님 초대석**
-  https://www.youtube.com/watch?v=vxcvcQ0wUIU
--    09-24 **샘웨 다시보기 26.09.23 | 사과 및 피드백 방송**
-  https://www.youtube.com/watch?v=99yK99vGoWk
--    09-22 **샘웨 다시보기 26.09.21 | 스타레일 4.6 공식방송 & 4.5 개척후문**
-  https://www.youtube.com/watch?v=y4LLqb_qY-M
-  > 00:00 방송시작
-13:03 듀오링고 일본어 배우기
-40:22 카페탐방
-46:56 아주프로 메이플 캐릭터 PV
-49:06 원신 보댜니챠 캐릭터 PV
-52:45 파레이돌리아 애니메이션 PV
-1:10:18 림버스 오트쿠튀르::수선실 로쟈
-1:13:27 파레이돌리아 비일상/일상편 PV
-1:25:14 몬길 TGS PV
-
-1:32:26 스타레일 4.6 공식방송
-2:27:35 어벤츄린·웨이브 가챠
-2:43:49 스타레일 4.5 개척후문
--    09-20 **샘웨 다시보기 26.09.19 | 명조 3.7 / 이환 1.4 공방 & 드래곤볼Z 요약 같이보기**
-  https://www.youtube.com/watch?v=9YGe3HQkpbw
-  > 00:00 방송시작
-54:26 명조 3.7 공식방송
-2:14:09 이환 1.4 공식방송
-3:47:43 드래곤볼Z 요약 같이보기 (단풍손님 영상)
--    09-18 **샘웨 다시보기 26.09.18 | TGS 2026 도쿄게임쇼 후기**
-  https://www.youtube.com/watch?v=ZvPiTJmXIwg
-  > 00:00 방송시작
-21:20 TGS 도쿄게임쇼 후기
 
 ## Only4GamersXyz（全球 · 测试版试玩）
 > 偏安卓手游，大量测试版APK试玩，策略/RPG/足球手游，附官网 only4gamers.xyz  
@@ -164,123 +138,148 @@
 > 游戏上线第一时间录实机，覆盖全品类，上线首日素材多，适合看正式版完整玩法  
 > 频道: @Maximumandroid | feed: https://www.youtube.com/feeds/videos.xml?channel_id=UChJWfOP9b-0UclIynsUuNUA
 
-最新视频：2026-10-01｜窗口内 15 个
+最新视频：2026-10-08｜窗口内 15 个
 
-- 🔥 10-01 **God of Battle: Olympus War Gameplay**
-  https://www.youtube.com/watch?v=qOKuozhei4E
+- 🔥 10-08 **Dreadhush: House of Silence Gameplay (Horror)**
+  https://www.youtube.com/watch?v=-yMcPb1P3FM
+  信号词: gameplay, survival, top
+  > Three nights. One house. Something in it is listening.
+
+You wake in a locked bedroom you have never seen, with a headache, no memory, and someone else's blood dried on the floor. The power is dead. Every door is locked. And somewhere below you, something very tall and very thin i
+- 🔥 10-08 **Mouse Journey: Simulator Gameplay**
+  https://www.youtube.com/watch?v=hyoqwmKXv70
   信号词: gameplay
-  > Enter the world of Olympus and become a legendary warrior in God of Battle: Olympus War. Fight powerful enemies, master intense combat, and battle your way through epic challenges.
+  > 🐭 Mouse Journey – The Ultimate Cat and Mouse Adventure!
+
+Welcome to Mouse Journey: Simulator Game, a fun and quirky adventure where a little mouse takes on exciting tasks around the house! Meet a clever cat, take on its challenges, and complete different missions in this entertai
+- 🔥 10-08 **Drama Trouble Brain Teaser Gameplay**
+  https://www.youtube.com/watch?v=KSUWwYyZAzo
+  信号词: gameplay, test
+  > Challenge your brain with clever tricks, surprising twists, and hilarious puzzle moments!
+
+ Each level tests your logic, observation, and imagination in unexpected ways. 
+
+Tap, drag, combine objects, and think outside the box to solve funny situations and tricky challenges. 
+
+Wit
+- 🔥 10-08 **Galactic Waves Gameplay**
+  https://www.youtube.com/watch?v=lA37CuCHlmI
+  信号词: gameplay, top
+  > THE CITY IS UNDER ATTACK. THE FIGHT STARTS WITH YOU.
+
+Cybercity has fallen into chaos. Hostile forces have seized control, dangerous enemies patrol its streets, and powerful commanders stand between you and the truth.
+
+Step into the role of Jax and fight your way through a story-
+- 🔥 10-08 **Roadline - Multiplayer Car Sim Gameplay**
+  https://www.youtube.com/watch?v=oTwqeR8OkLA
+  信号词: gameplay
+  > Drive through Roadline, customize your car, and choose an instant or private multiplayer session. 
+
+Chat with other players and keep your car collection and progress in a player profile.
+
+Explore car customization through paint, decals and performance controls. Create a private s
+- 🔥 10-08 **Fuse Breaker Protocol Gameplay**
+  https://www.youtube.com/watch?v=PUEapnRvz2k
+  信号词: gameplay, top
+  > A top-down pixel art action shooter with a noir story. Cut the power and take down the crew selling blackouts in a harbour city.
+
+Saltmarrow has been under rolling blackouts for nine nights, and everyone blames the storm. Wren Okafor, a night-shift lineworker who knows every brea
+- 🔥 10-08 **BACKROOMS: Insanity Horror Gameplay**
+  https://www.youtube.com/watch?v=GQAoqZjIUGA
+  信号词: gameplay, survival
+  > The elevator has no power. Somewhere beyond the yellow walls, something is moving.
+
+BACKROOMS: Insanity Horror is a first-person survival horror game. Explore unsettling corridors, restore power to the elevator and descend deeper into the Backrooms. Watch your insanity: the darkn
+- 🔥 10-07 **Last Light: Convoy Defense TD Gameplay**
+  https://www.youtube.com/watch?v=EhUvk7oiaj8
+  信号词: gameplay, survival, tower defense
+  > The roads belong to the horde. Your convoy is the last light still moving.
+
+Last Light is tower defense on wheels: a post-apocalyptic survival shooter where your base drives. Bolt guns onto a 3-car convoy, merge matching guns into heavier ones, swipe to change lanes, and blast th
+- 🔥 10-07 **North War 2: Island Defense 3D Gameplay**
+  https://www.youtube.com/watch?v=hZSUaFI9yD0
+  信号词: gameplay, idle, strategy
+  > Enter the fractured world born from the ashes of Ragnarok, where only the boldest warriors can prevent history from repeating itself. You are the chosen commander, entrusted by Thrúd—the fierce daughter of Thor and also the brave hero—who now stands as the last beacon of hope for
+- 🔥 10-07 **Glowling Gameplay**
+  https://www.youtube.com/watch?v=OlRM4zwAuAg
+  信号词: gameplay
+  > Glowling is a 2D side-scrolling platformer adventure for Android, developed by Atypicalverse. 
+
+Its core mechanic flips the usual rule of exploration: there's no ambient light to rely on, the only thing pushing back the dark is the glow of Glowling itself. 
+
+As your light fades, 
+- 🔥 10-07 **Gunship Air Strike: War Games Gameplay**
+  https://www.youtube.com/watch?v=WHjg-K1Bdns
+  信号词: gameplay, launch, strategy, top
+  > Gunship Air Strike: War Games puts you in intense aerial combat missions where precision, timing, and strategy matter.
+
+ Take control of a powerful gunship in helicopter, scan the battlefield from above, and support ground operations with accurate air strikes. 
+
+Each mission is b
+- 🔥 10-07 **Pirate Shove: Push Puzzle Gameplay**
+  https://www.youtube.com/watch?v=xQc4Bh6Y_Yc
+  信号词: gameplay
+  > Ahoy! The pirates have captured the princess, and only you can save her!
+
+Pirate Shove: Push Puzzle is a fun and satisfying pirate game where one swipe sends a whole crew flying into the sea. 
+
+Line up your shot, push the pirates off the ship, and watch them splash into the waves
+- 🔥 10-07 **UNBOUND: Street Racing Gameplay**
+  https://www.youtube.com/watch?v=d4v17dFi1Ts
+  信号词: gameplay
+  > The realistic and endless street racing game for mobile
 
 Google Play download URL:
-https://play.google.com/store/apps/details?&id=com.mus.god.of.battle.oly
-- 🔥 10-01 **Keep Rolling: Castle Survival Gameplay**
-  https://www.youtube.com/watch?v=5YtyP_UUuJc
-  信号词: 4x, gameplay, strategy, survival, test, top
-  > Command a massive moving castle and crush everything in your path! 🏰
+https://play.google.com/store/apps/details?id=com.gamedevme.unbound
 
-In Keep Rolling, you are the master of a mobile fortress. Your mission is simple: roll through the kingdom, eat everything you can, and obliterate all enemies in your way.
-
- From peasants to rival kingdoms, not
-- 🔥 10-01 **Bastion: Last Fence Gameplay**
-  https://www.youtube.com/watch?v=xeyzvy13zvU
-  信号词: gameplay, strategy, survival, test, tower defense
-  > Hold the last fence in a zombie survival tower defense where a horde marches down a broken highway and only your turret line stands in the way. Mix cryo cannons with machine guns, build a base defense that grows wave by wave, and keep the dead off the wall.
-
-Every stage is a tigh
-- 🔥 10-01 **Top Legion Gameplay (Early Access)**
-  https://www.youtube.com/watch?v=_zsSKMGq9gg
-  信号词: early access, gameplay, global, strategy, top
-  > Start with a humble encampment and forge it into a mighty kingdom. Develop your territory, strengthen your army, and build an empire worthy of conquest.
-
-No need to stay online constantly — your realm never stops growing. Gather resources offline, upgrade your castle, and train y
-- 🔥 10-01 **Sector Defense: Roguelike TD Gameplay**
-  https://www.youtube.com/watch?v=-93600qQOIM
-  信号词: gameplay, strategy, survival, top, tower defense
-  > Sector Defense is a sci-fi tower defense game built around a hero, a combat drone, and the base they must protect. Pick roguelike skills, upgrade your gear, and turn a small fighting force into a wall of firepower.
-
-🛡️ HOLD THE LINE
-
-The aliens are closing in. Stand your ground a
-- 🔥 10-01 **Ghoul Hospital: Horror Escape Gameplay**
-  https://www.youtube.com/watch?v=VxkZ0Fiqpvc
-  信号词: gameplay, survival
-  > 🏥 Ghoul Hospital: Horror Escape
-
-You entered the hospital. Now you have to escape.
-
-Something is wrong inside this abandoned hospital. The halls are empty, the lights are dying, and something is watching you from the darkness.
-
-Ghoul Hospital: Horror Escape is a terrifying surviv
-- 🔥 10-01 **STONE RRRUSH! Gameplay**
-  https://www.youtube.com/watch?v=090DXK9enkA
-  信号词: gameplay, strategy
-  > The brazen-faced human invasion has ravaged hell.
-Even its precious Hexstone mines have been captured by the invaders!
-
-Step into the role of the commander of Hellsquad, an elite fighting force of hell composed of powerful demons, and unleash your infernal wrath on the insolent m
-- 🔥 10-01 **GRID DEFENSE: GRID WAR Gameplay**
-  https://www.youtube.com/watch?v=bGmJWOmg6gU
-  信号词: gameplay, strategy, top, tower defense
-  > Tower defense strategy against an AI robot army, and a carrier war in the sky. Build towers, lead six heroes and drop a nuke when the horde breaks through. Then take command of a flying carrier for air combat over 25 real cities. A sci-fi strategy game you can play offline.
-
-Star
-- 🔥 10-01 **Truck Simulator Legends : USA Gameplay**
-  https://www.youtube.com/watch?v=X0YcooO1erw
+Thanks for watching UNBOUND: Street Racing gameplay and if you love UNBOUND: Street Racing review , please leave a comment for m
+- 🔥 10-07 **Titan Duel Gameplay**
+  https://www.youtube.com/watch?v=KE_PTuII6pk
   信号词: gameplay
-  > Build your American trucking career in Truck Simulator Legends: USA, a truck driving simulator where each successful cargo delivery helps you buy, customize and upgrade your own rigs.
+  > Build a giant mech. Every part you bolt on gives you a new move.
 
-Begin with quick jobs using company trucks, then work towards a rig of your own. Choose your de
-- 🔥 10-01 **Idle Empire: Knight's Quest Gameplay**
-  https://www.youtube.com/watch?v=yzkRcSRqKnw
-  信号词: gameplay, idle, rpg, strategy, top
-  > Enter a medieval world of knights, monsters, treasures, and endless adventure in **Idle Empire: Knight's Quest**!
-
-Begin your journey as a lone knight and rise to become a legendary hero. Defeat waves of enemies, collect powerful equipment, unlock new abilities, and grow stronger
-- 🔥 10-01 **Beat Zombies: Loot Rush Gameplay**
-  https://www.youtube.com/watch?v=9jf1hqutvFc
+Titan Duel is a turn-based tactical battler where the mech you build decides how you fight. Attach an arm and you gain punches. Add a cannon and you gain rockets. Fit a shield and you gain blocks. Build the machine
+- 🔥 10-07 **Bad Passengers Gameplay**
+  https://www.youtube.com/watch?v=oIndKoDauH8
   信号词: gameplay, top
-  > Zombies took the whole street. All you have is an axe, and boxes. Lots of boxes.
+  > Welcome aboard the worst airline in the sky!
 
-Open a box. Grab the gear. Cut a way out.
-OPEN BOXES, GET GEAR Every patrol drops crates: axes, armor, rings, gloves, boots, drones. What's inside is pure luck. Equip it the second you open it and h
-- 🔥 10-01 **Zombie Chopper: Dead Harvest Gameplay (Early Access)**
-  https://www.youtube.com/watch?v=tT5tXtWttAc
-  信号词: early access, gameplay
-  > The dead own the streets. Good thing you brought a saw blade.
-
-Get behind the wheel and carve your way through massive zombie hordes. Zombie Chopper is a satisfying action game about turning your vehicle into the ultimate zombie-clearing machine.
-
-DRIVE INTO THE HORDE
-Enter infes
-- 🔥 10-01 **Nobody Lives Here Gameplay**
-  https://www.youtube.com/watch?v=0eF7QvaXz7U
-  信号词: gameplay, survival
-  > A mysterious message leads you to a forgotten town that should have been abandoned long ago.
-
-The streets are empty, and no matter where you go, it always feels like something is watching.
-
-Search abandoned buildings, uncover disturbing notes, solve unsettling puzzles, and piece 
-- 🔥 09-30 **Nitro Troopers Gameplay**
-  https://www.youtube.com/watch?v=uX3VNtP76C8
-  信号词: gameplay, launch
-  > Nitro Troopers is a fast 2D action shooter. Strap on your jetpack, grab a gun and fight your way across six very different maps.
-
-FLY AND FIGHT
-Use the jetpack to fly, dodge and get the high ground. Aim and shoot with the touch controls, throw grenades, hide behind cover, swim in
-- 🔥 09-30 **Wraith Lord: Endless Vigil Gameplay**
-  https://www.youtube.com/watch?v=k83o7tr6WqY
-  信号词: gameplay, top
-  > WRAITH LORD is a dark fantasy auto-battler where your only input is movement. Guide your knight with a simple joystick, and let your spectral Wraith Limb weapons handle the rest — striking anything that dares come close.
-
-ABSORB AND GROW
-Every kill and every shattered ruin grants
+Your pilot just quit. Your boss, Mr. Cheapskate, refuses to hire a new one. Congratulations – YOU are the crew now! Load the bags, close the doors, take off, feed the passengers, fix the engine, put out the fires… and somehow land the
 
 ## NewMobileGames（全球 · 全球首发）
 > 专门展示新上线手游，首发开荒实机，偏轻量化新游，海外独立手游/轻度策略上线素材  
 > 频道: @NewMobileGames9 | feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCBcfEifmET-HYuu8audsPuQ
 
-最新视频：2026-10-01｜窗口内 11 个
+最新视频：2026-10-08｜窗口内 8 个
 
+- 🔥 10-08 **Butcher Hero: Monster Idle RPG - Area 4 Desert Mines - Gameplay Walkthrough Part 4 (iOS, Android)**
+  https://www.youtube.com/watch?v=JuFkorQGEas
+  信号词: gameplay, idle, rpg
+  > Butcher Hero: Monster Idle RPG - Area 4 Desert Mines - Gameplay Walkthrough Part 4 (iOS, Android)
+
+Game Description: Enter Butcher Hero, an idle action RPG where every enemy becomes fuel for your next upgrade. Explore hostile sand zones, throw your chain hook, pull monsters and a
+- 🔥 10-07 **Eating Healthy With Bluey! Lego Bluey Gameplay Walkthrough**
+  https://www.youtube.com/watch?v=Ero6KhxV9VM
+  信号词: gameplay
+  > Eating Healthy With Bluey! Lego Bluey Gameplay Walkthrough
+
+Game Description: lego bluey new update gameplay
+
+#bluey
+- 🔥 10-06 **Paw Patrol Mighty Pups Save Adventure Bay Walkthrough - Skye And Marshall Snowy Mountain**
+  https://www.youtube.com/watch?v=nZOlTIoAnEM
+  信号词: gameplay
+  > Paw Patrol Mighty Pups Save Adventure Bay Walkthrough - Skye And Marshall Snowy Mountain
+
+paw patrol mighty pups save adventure bay gameplay walkthrough video.
+- 🔥 10-02 **SUBWAY SURFERS CITY Phantom Park Halloween District Walkthrough (iOS Android Gameplay)**
+  https://www.youtube.com/watch?v=XE3yrZPVgaQ
+  信号词: gameplay
+  > SUBWAY SURFERS CITY Phantom Park Halloween District Walkthrough (iOS Android Gameplay)
+
+subway surfers city gameplay walkthrough video.
+
+#subwaysurferscity
 - 🔥 10-01 **River City Survivors - New Apple Arcade Release - Gameplay Walkthrough Part 1 (iOS)**
   https://www.youtube.com/watch?v=2rbc92IAByc
   信号词: gameplay, release
@@ -307,60 +306,38 @@ Game Description: FLICK SHOT ROGUES blends the tactile satisfaction of flicking 
 Game Description: lego bluey new update gameplay
 
 #bluey
-- 🔥 09-24 **PAW PATROL The Movie Adventure City Calls Gameplay Walkthrough Part 20 -  Before & After Mighty 1**
-  https://www.youtube.com/watch?v=v4Axb_XihaY
-  信号词: gameplay
-  > PAW PATROL The Movie Adventure City Calls Gameplay Walkthrough Part 20 -  Before & After Mighty 1
-
-Paw Patrol The Movie: Adventure City Calls Gameplay Walkthrough Video.
-
-#pawpatrol
-- 🔥 09-24 **GT Rivals: Real Racing Sim - Gameplay Walkthrough Part 1 (iOS, Android)**
-  https://www.youtube.com/watch?v=ayGNiBVDSHU
-  信号词: gameplay, test
-  > GT Rivals: Real Racing Sim - Gameplay Walkthrough Part 1 (iOS, Android)
-
-Game Description: Drive officially licensed cars from world-famous brands like Porsche, Ford, Pagani, Audi, Mazda, Dodge, Subaru, and Mitsubishi, on real-world tracks and compete in intense real-time multipl
--    09-23 **PIXEL GUN 2 - Death Match Game Mode! Walkthrough Part 2**
-  https://www.youtube.com/watch?v=JDPNfCuWVNA
-  > PIXEL GUN 2 - Death Match Game Mode! Walkthrough Part 2
-
-Game Description: Pixel Gun 2 is a multiplayer shooter built on disruption — of old rules, map architecture, traditional loadouts and more!
-
-#pixelgun2
-- 🔥 09-23 **Butcher Hero: Monster Idle RPG - Area 2 Dusty Gulch - Gameplay Walkthrough Part 2 (iOS, Android)**
-  https://www.youtube.com/watch?v=Mb3tFS9o1ow
-  信号词: gameplay, idle, rpg
-  > Butcher Hero: Monster Idle RPG - Area 2 Dusty Gulch - Gameplay Walkthrough Part 2 (iOS, Android)
-
-Game Description: Enter Butcher Hero, an idle action RPG where every enemy becomes fuel for your next upgrade. Explore hostile sand zones, throw your chain hook, pull monsters and al
-- 🔥 09-22 **Build A lego Treehouse With Bluey! Lego Bluey Gameplay Walkthrough**
-  https://www.youtube.com/watch?v=KHZ6BhpDHVg
-  信号词: gameplay
-  > Build A lego Treehouse With Bluey! Lego Bluey Gameplay Walkthrough
-
-Game Description: lego bluey new update gameplay
-
-#bluey
-- 🔥 09-20 **Butcher Hero: Monster Idle RPG - Tutorial Starting Area - Gameplay Walkthrough Part 1 (iOS, Android)**
-  https://www.youtube.com/watch?v=y-K5HOy6OFc
-  信号词: gameplay, idle, rpg
-  > Butcher Hero: Monster Idle RPG - Tutorial Starting Area - Gameplay Walkthrough Part 1 (iOS, Android)
-
-Game Description: Enter Butcher Hero, an idle action RPG where every enemy becomes fuel for your next upgrade. Explore hostile sand zones, throw your chain hook, pull monsters an
-- 🔥 09-18 **Divine Throne: Idle RPG - Gameplay Walkthrough Part 1 (iOS, Android)**
-  https://www.youtube.com/watch?v=rrCV3KPZcEg
-  信号词: gameplay, idle, rpg
-  > Divine Throne: Idle RPG - Gameplay Walkthrough Part 1 (iOS, Android)
-
-Game Description: When the supreme Throne shattered, divine order collapsed, and the laws of all realms began to decay. Forgotten goddesses stir from myth, drawn not only by fate, but by a lingering darkness wi
 
 ## MobileGamesDaily（全球 · 全球首发）
 > 厂商提前寄送测试包/上线版本，第一时间First Look，剪辑干净，官方合作向实机演示  
 > 频道: @MobileGamesDaily | feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC7tDN9kJtfQjOxekZwWyFVw
 
-最新视频：2026-10-01｜窗口内 15 个
+最新视频：2026-10-08｜窗口内 11 个
 
+-    10-08 **HOT WHEELS UNLIMITED Walkthrough! Snowy Mountains Tracks!**
+  https://www.youtube.com/watch?v=F-jEFtKuHTc
+  > HOT WHEELS UNLIMITED Walkthrough! Snowy Mountains Tracks!
+
+New Wrecking Raceway! Create ultimate chaos in this new Builder Mode! Build with new track pieces and decorations, including the epic Crushzilla! Smash breakable pieces in race mode!
+
+how to reach me - mgdailyofficial@gma
+- 🔥 10-07 **LEGO Bluey Gameplay Walkthrough Part 46 - Halloween Game Update!**
+  https://www.youtube.com/watch?v=oxwevzTRYHc
+  信号词: gameplay
+  > LEGO Bluey Gameplay Walkthrough Part 46 - Halloween Game Update!
+
+It’s bedtime in the Heeler’s house, but the fun isn’t over yet. There’s hide and seek to play, the Bath Burger Shop is open for business, and then it’s lights out… if you can keep everyone in bed.
+
+iTunes Link - ht
+- 🔥 10-06 **Paw Patrol Mighty Pups Save Adventure Bay Walkthrough! Chase's Mighty Powers Origin Story**
+  https://www.youtube.com/watch?v=sZmWTWYHRYY
+  信号词: gameplay
+  > Paw Patrol Mighty Pups Save Adventure Bay Walkthrough! Chase's Mighty Powers Origin Story
+
+Paw Patrol Mighty Pups Save Adventure Bay gameplay video.
+
+#pawpatrol #pawpatrolmightypupssaveadventurebay 
+
+how to reach me - mgdailyofficial@gmail.com
 - 🔥 10-01 **TouchGrind BMX 2 Apple Arcade Gameplay**
   https://www.youtube.com/watch?v=L4jQvMZfRwM
   信号词: gameplay
@@ -428,65 +405,6 @@ Googl
 New Wrecking Raceway! Create ultimate chaos in this new Builder Mode! Build with new track pieces and decorations, including the epic Crushzilla! Smash breakable pieces in race mode!
 
 how to reach me - mgdailyofficial@g
-- 🔥 09-24 **PAW PATROL DINO WORLD - The Paw Patrol Crew Feed The Hungry Dinosaurs!**
-  https://www.youtube.com/watch?v=5WLwF7eXjrs
-  信号词: gameplay
-  > PAW PATROL DINO WORLD - The Paw Patrol Crew Feed The Hungry Dinosaurs!
-
-Paw Patrol Dino World Gameplay Walkthrough Video. 
-
-how to reach me - mgdailyofficial@gmail.com
--    09-24 **Drive Me Crazy Heist Story Mission! Gangstar Mirage City Walkthrough Part 5 (iOS Android)**
-  https://www.youtube.com/watch?v=Fc-olB3Z9pw
-  > Drive Me Crazy Heist Story Mission! Gangstar Mirage City Walkthrough Part 5 (iOS Android)
-
-walkthrough playlist - https://www.youtube.com/playlist?list=PLSjPMT4kzRNw
-
-Enter Mirage City — a living open-world city built on heists, garages, street clashes, and underground power. Joi
-- 🔥 09-23 **LEGO Bluey Gameplay Walkthrough Part 44 - learn How To Make Friend Eggs with Bluey!**
-  https://www.youtube.com/watch?v=zkP4VBWJW6U
-  信号词: gameplay
-  > LEGO Bluey Gameplay Walkthrough Part 44 - learn How To Make Friend Eggs with Bluey!
-
-It’s bedtime in the Heeler’s house, but the fun isn’t over yet. There’s hide and seek to play, the Bath Burger Shop is open for business, and then it’s lights out… if you can keep everyone in bed
-- 🔥 09-22 **Paw Patrol Mighty Pups Save Adventure Bay Walkthrough! Volcano Ryder And Paw Patrol To The Rescue!**
-  https://www.youtube.com/watch?v=eO0XU82o2ko
-  信号词: gameplay
-  > Paw Patrol Mighty Pups Save Adventure Bay Walkthrough! Volcano Ryder And Paw Patrol To The Rescue!
-
-Paw Patrol Mighty Pups Save Adventure Bay gameplay video.
-
-#pawpatrol #pawpatrolmightypupssaveadventurebay 
-
-how to reach me - mgdailyofficial@gmail.com
-- 🔥 09-21 **Play in the School Yard with Bluey and her friends!! Bluey Lets Play Walkthrough Gameplay**
-  https://www.youtube.com/watch?v=GLGyZKpP27k
-  信号词: gameplay
-  > Play in the School Yard with Bluey and her friends!! Bluey Lets Play Walkthrough Gameplay
-
-Dress up, style silly hair & barbecue! Discover three new amazing activities with Bluey! Play hairdressers, dress-up characters in fun outfits & grill fun foods!
-
-#bluey #blueyletsplay 
-
-ho
-- 🔥 09-20 **SNEAKY SASQUATCH - Gameplay Walkthrough Part 28 - Brand New Bird Sanctuary Update (Apple Arcade)**
-  https://www.youtube.com/watch?v=vJ337YXUaMg
-  信号词: gameplay
-  > SNEAKY SASQUATCH - Gameplay Walkthrough Part 28 - Brand New Bird Sanctuary Update (Apple Arcade)
-
-In this video I showcase the brand new Bird Sanctuary Update for Sneaky Sasquatch
-
-#SneakySasquatch
-
-how to reach me - mgdailyofficial@gmail.com
-- 🔥 09-20 **SUBWAY SURFERS CITY - Gameplay Walkthrough Part 8 - New Surfer Yutani**
-  https://www.youtube.com/watch?v=Y61BFhE9yYc
-  信号词: gameplay
-  > SUBWAY SURFERS CITY - Gameplay Walkthrough Part 8 - New Surfer Yutani 
-
-gameplay part 7 for Subway Surfers: City.
-
-how to reach me - mgdailyofficial@gmail.com
 
 ## Pocket Gamer（英国 · 专业媒体）
 > 手游专业媒体，新游评测+行业资讯，最像国内"金角游戏"定位  
@@ -499,8 +417,72 @@ how to reach me - mgdailyofficial@gmail.com
 > 手游新游评测/推荐，覆盖面广，更新频率高  
 > 频道: @Techzamazing | feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCyo4ROy9-8ymQTBWcPA5Fjg
 
-最新视频：2026-10-01｜窗口内 15 个
+最新视频：2026-10-08｜窗口内 15 个
 
+- 🔥 10-08 **PVZ: First Person Mobile - Android Gameplay Walkthrough Part 1**
+  https://www.youtube.com/watch?v=IM_0oO-nFPo
+  信号词: gameplay, strategy, survival
+  > PVZ: First Person Mobile - Gameplay Walkthrough (Android)
+
+Welcome to PVZ: First Person, a unique first-person strategy and survival game where you grow plants and build your defense to protect your home from waves of zombies.
+
+In this gameplay walkthrough, we begin building our 
+- 🔥 10-08 **Adrenaline Rampage Mobile - Gameplay Walkthrough Part 1 (Android)**
+  https://www.youtube.com/watch?v=1ohBAq1aC8g
+  信号词: gameplay, launch, rpg, survival
+  > Adrenaline Rampage Mobile - Gameplay Walkthrough Part 1 (Android)
+
+Welcome to Adrenaline Rampage, a fast-paced platformer roguelike shooter set in a dark sci-fi world filled with techno-zombies. In Part 1 of this gameplay walkthrough, we begin our fight for survival and take on w
+- 🔥 10-07 **Monster Hunter Rise Mobile - Android Gameplay Walkthrough Part 1**
+  https://www.youtube.com/watch?v=yHfTCBuspL0
+  信号词: gameplay, rpg
+  > Monster Hunter Rise Mobile - Gameplay Walkthrough Part 1 (Android)
+
+Welcome to Monster Hunter Rise Mobile! In Part 1 of this gameplay walkthrough, we begin our journey in the village of Kamura and prepare for our first hunting quests.
+
+Take on fierce monsters, explore the beautif
+- 🔥 10-07 **Helicopter Flight School Mobile - Gameplay Walkthrough Part 1 (Android)**
+  https://www.youtube.com/watch?v=aEaDj9EK4Nw
+  信号词: gameplay, open world, simulation
+  > Helicopter Flight School Mobile - Gameplay Walkthrough (Android)
+
+Welcome to Helicopter Flight School, a helicopter flight simulation game from Game Pickle. In this gameplay walkthrough, we begin our pilot training and work through a full helicopter flight school program in a lar
+- 🔥 10-06 **OverPeak Mobile Android Gameplay Walkthrough - Part 2**
+  https://www.youtube.com/watch?v=-6RYJdHEYD8
+  信号词: gameplay
+  > OverPeak Mobile - Gameplay Walkthrough Part 2 (Android)
+
+Welcome back to OverPeak! In Part 2 of this gameplay walkthrough, we continue our journey through Prism City with more open-world exploration, intense combat, superpower abilities, destruction, and chaotic action.
+
+Continue
+- 🔥 10-05 **Gangstar Mirage City - STARRY-EYED Skin is SO GOOD! 🔥 New Skin Showcase (Android / iOS)**
+  https://www.youtube.com/watch?v=L_9gCStLwJE
+  信号词: gameplay, open world
+  > Gangstar Mirage City - STARRY-EYED Skin is SO GOOD! 🔥 New Skin Showcase (Android / iOS)
+
+Check out the awesome **Starry-Eyed Skin** in Gangstar Mirage City! In this gameplay video, we showcase the new skin, take it into the open world, and see how it looks during gameplay.
+
+Take 
+- 🔥 10-04 **Disney Epic Mickey: Rebrushed Mobile - Gameplay Walkthrough Part 3 (iOS / Android)**
+  https://www.youtube.com/watch?v=k-KLvX5b2Go
+  信号词: gameplay
+  > Disney Epic Mickey: Rebrushed Mobile - Gameplay Walkthrough Part 2 (iOS / Android)
+
+Welcome back to Disney Epic Mickey: Rebrushed, the colorful 3D platforming adventure featuring Mickey Mouse. In Part 3 of this no-commentary gameplay walkthrough, we continue Mickey's journey thro
+- 🔥 10-04 **LITA Level 65 EASY WIN! 🔥 How to Beat Lita Level 65 - Aniimo**
+  https://www.youtube.com/watch?v=rcOHop63R_4
+  信号词: gameplay, global, launch, rpg, strategy
+  > Aniimo - LITA Level 65 EASY WIN! 🔥 How to Beat Lita Level 65
+
+In this Aniimo gameplay video, we take on **Lita Level 65** and show an easy way to win the battle.
+
+Watch the full Lita Lv. 65 battle, see the strategy used to defeat her, and learn how to handle this challenging enco
+- 🔥 10-02 **DCKO Gameplay Walkthrough Part 1 (iOS / Android)**
+  https://www.youtube.com/watch?v=RHPet_f-oWo
+  信号词: gameplay
+  > DCKO: Super Hero Fighting Game Mobile - Gameplay Walkthrough Part 1 (iOS / Android)
+
+Welcome to DCKO: Super Hero Fighting Game, a real-time 2v2 tag-team fighting game featuring iconic DC Super Heroes and Super-Villains. In Part 1 of this gameplay walkthrough, we begin our journey
 - 🔥 10-01 **Bloxfun Mobile - Open World RPG & Life Simulation Gameplay! 🌿🔥 (Android)**
   https://www.youtube.com/watch?v=UyH1vf5tQKM
   信号词: gameplay, open world, rpg, simulation, test
@@ -509,7 +491,7 @@ how to reach me - mgdailyofficial@gmail.com
 Welcome to Bloxfun, an open-world role-playing and simulation game from YK.GAME. In this gameplay, we'll explore the beautiful continent of Seofar, discover lost ruins, gather resources, build our own home,
 - 🔥 10-01 **Aniimo FINAL BOSS & ENDING! 🔥 Irelia Final Boss Battle (iOS / Android / PC)**
   https://www.youtube.com/watch?v=oycyN64qPf4
-  信号词: gameplay, launch, rpg
+  信号词: gameplay, global, launch, rpg
   > Aniimo Android Gameplay - FINAL BOSS & ENDING! 🔥 Irelia Final Boss Battle
 
 Welcome to the final chapter of the Aniimo launch story! In this gameplay video, we take on the **final boss Irelia** and experience the story ending of Aniimo.
@@ -533,7 +515,7 @@ Welcome back to PUBG MOBILE FLASH! In Part 2, we continue our gameplay adventure
 PUBG MOBILE FLASH brings the classic PUBG MOBILE battle royale experie
 - 🔥 09-27 **Aniimo - Catching a SPARKLING PRISMANO! ✨ Rare Aniimo Encounter & Capture (Android / iOS)**
   https://www.youtube.com/watch?v=YxuZ5JVjwtY
-  信号词: gameplay
+  信号词: gameplay, global, launch
   > ✨ Aniimo - Catching a SPARKLING PRISMANO!
 
 In this Aniimo gameplay video, we're on the hunt for a rare Sparkling Prismano and attempt to catch it! ✨ Watch the full encounter, capture attempt, and the exciting moment we add this sparkling Aniimo to our collection.
@@ -546,74 +528,263 @@ In this Aniimo gameplay video, we're on the hunt for a rare Sparkling Prismano a
   > PUBG MOBILE FLASH - NEW Lightweight PUBG! 🔥 Gameplay (Android / iOS)
 
 Welcome to PUBG MOBILE FLASH, a lighter version of the original PUBG MOBILE experience designed to bring the battle royale experience to more devices. In this gameplay video, we're checking out PUBG MOBILE FLAS
-- 🔥 09-26 **Gothic Classic Mobile - Gameplay Walkthrough (iOS)**
-  https://www.youtube.com/watch?v=8j5tS5QfXBA
-  信号词: gameplay, now available, open world, rpg
-  > Gothic Classic Mobile - Gameplay Walkthrough (iOS)
-
-Welcome to Gothic Classic, the legendary dark-fantasy RPG from Piranha Bytes and THQ Nordic, now available on iPhone and iPad. In this no-commentary gameplay walkthrough, we enter the dangerous penal colony of Khorinis and begin
-- 🔥 09-25 **Little Kitty, Big City Mobile - Gameplay Walkthrough Part 1 (iOS / Android)**
-  https://www.youtube.com/watch?v=PU27cgfx4kc
-  信号词: gameplay
-  > Little Kitty, Big City Mobile - Gameplay Walkthrough Part 1 (iOS / Android)
-
-Welcome to Little Kitty, Big City, the relaxing cat adventure game from Double Dagger Studio. In Part 1 of this no-commentary gameplay walkthrough, we begin our adventure as a curious little kitty trying
-- 🔥 09-25 **Aniimo Android Gameplay - Level 50**
-  https://www.youtube.com/watch?v=NdFhQwLUKOg
-  信号词: gameplay, global, launch, rpg
-  > Aniimo Android Gameplay Level 50 🔥 Reached Level 50!
-
-♥️ Twitter - http://twitter.com/techzamazing
-♥️ Facebook - http://facebook.com/techzamazing
-♥️ Instagram - https://www.instagram.com/techzamazing_yt/
-♥️ Official Site - http://techzamazing.com
-
-Note: This gameplay video is pur
-- 🔥 09-24 **Aniimo Mobile - Reached Level 45! 🔥 High-Level Gameplay (iOS / Android)**
-  https://www.youtube.com/watch?v=bnU2L4M8LgA
-  信号词: gameplay, global, launch, rpg, test
-  > Aniimo Mobile Level 45 Gameplay (iOS / Android)
-Aniimo Mobile - Reached Level 45! 🔥 High-Level Gameplay (iOS / Android)
-
-Welcome back to Aniimo, the open-world creature-catching RPG from Pawprint Studio. In this gameplay video, we're showcasing Level 45 gameplay on mobile and con
-- 🔥 09-23 **Aniimo Mobile - GLOBAL LAUNCH Gameplay! (iOS / Android)**
-  https://www.youtube.com/watch?v=Af7bOwAXn1s
-  信号词: gameplay, global, launch, open world, rpg
-  > Aniimo Mobile - GLOBAL LAUNCH Gameplay! 🔥 Open-World Creature Adventure (iOS / Android)
-
-Welcome to Aniimo, the open-world creature-catching RPG from Pawprint Studio, now officially launching globally on mobile! In this gameplay video, we're jumping into the global launch version
-- 🔥 09-23 **Aniimo Gameplay Walkthrough Part 4 (iOS / Android / PC)**
-  https://www.youtube.com/watch?v=_05AMiKH5G4
-  信号词: gameplay, global, launch, launches, rpg
-  > Aniimo Mobile - Gameplay Walkthrough Part 4 (iOS / Android)
-
-Welcome back to Aniimo, the next-generation creature-catching open-world RPG from Pawprint Studio. In Part 4 of this no-commentary gameplay walkthrough, we continue our adventure across the vast continent of Idyll, expl
-- 🔥 09-22 **Warhammer 40,000: Boltgun Boom Mobile - Gameplay Walkthrough Part 1 (iOS / Android)**
-  https://www.youtube.com/watch?v=I3rL9-RU2zA
-  信号词: gameplay, test
-  > Warhammer 40,000: Boltgun Boom Mobile - Gameplay Walkthrough Part 1 (iOS / Android)
-
-Welcome to Warhammer 40,000: Boltgun Boom, a brutal retro-inspired FPS built specifically for mobile by Nitro Games. In Part 1 of this no-commentary gameplay walkthrough, we step into the power a
-- 🔥 09-22 **Blast: Gun Shooting Game 5v5 Gameplay Walkthrough Part 1 (iOS / Android)**
-  https://www.youtube.com/watch?v=BQtbKPKusL0
-  信号词: beta, closed beta, coming soon, gameplay, new game, test
-  > Blast: Gun Shooting Game 5v5 - NEW 5v5 FPS Gameplay! 🔥 (Android)
-
-Welcome to Blast: Gun Shooting Game 5v5, a fast-paced online multiplayer hero shooter from Ashforge Game and KRAFTON. In this gameplay video, we're jumping into intense 5v5 Team Deathmatch battles, testing differen
-- 🔥 09-22 **DAVE THE DIVER: In the Jungle DLC Mobile - Gameplay Walkthrough Part 1 (iOS / Android)**
-  https://www.youtube.com/watch?v=PNXQdeWRS5Y
-  信号词: gameplay, launch, now available, rpg
-  > DAVE THE DIVER: In the Jungle DLC Mobile - Gameplay Walkthrough Part 1 (iOS / Android)
-
-Welcome to DAVE THE DIVER: In the Jungle, the major story expansion for DAVE THE DIVER from MINTROCKET, now available on mobile. In Part 1 of this no-commentary gameplay walkthrough, we leave 
 
 ## Yomi_Vtuber（日本 · 日系二游测试）
 > 日本Vtuber，国产开放世界手游海外首测试玩，日系视角评测  
 > 频道: @Yomi_Vtuber | feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCW7htl9_IlxgjrXkn4Vu33w
 
-最新视频：2026-10-01｜窗口内 15 个
+最新视频：2026-10-08｜窗口内 15 个
 
-- 🔥 10-01 **【#鳴潮】  奇譚任務🦊璇心、月の如く世の情を寄す を読む📚 / 2K1440p #821 #鳴潮朝月会【#Vtuber Yomi】**
+-    10-08 **【#NTE】 炭団子🍡・鏡の国の小人たち他ルート探し・軌道外領域更新じゃああああ⚔ ＃PR 【Neverness to Everness】**
+  https://www.youtube.com/watch?v=dAS5PN00fsk
+  > ▼Neverness to Everness のDLはこちらから！
+https://pwgam.es/4y3JvXr
+
+✦────────────✦
+           📢INFO
+✦────────────✦
+
+＞ Youtubeメンバーシップ ＜
+
+→   https://www.youtube.com/@Yomi_Vtuber/join
+
+【iPhoneからのメンバー加入方法】
+①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）
+②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ
+③ページにとんだら
+- 🔥 10-08 **【#鳴潮】  マトリクス初回挑戦🔥 ダンダンラストに最新情報✨/ 2K1440p #828 #鳴潮朝月会 【#Vtuber Yomi】**
+  https://www.youtube.com/watch?v=ltZmf-Z065Q
+  信号词: global
+  > ▼DLはこちらから！
+https://wuwa.kurogames-global.com/4i7VTkh
+
+▼イベントページ
+https://lp.gamewith.jp/wutheringwaves/vtuber_vol1
+
+#鳴潮朝月会 Dチームのメンバー！
+
+・まなめおさん
+https://www.youtube.com/@manameo
+
+・サファルビさん
+https://www.youtube.com/@サファルビ
+
+・まんまるさん
+https://www.youtube.com/@manmaruch-onigami
+
+✦───────────
+- 🔥 10-08 **【#鳴潮】  リリー属性武器？二人目くる？待機しながら夢枢天羅探索100%へ🦊/ 2K1440p #827 #鳴潮朝月会 【#Vtuber Yomi】**
+  https://www.youtube.com/watch?v=r8bml8fEw7I
+  信号词: global
+  > ▼DLはこちらから！
+https://wuwa.kurogames-global.com/4i7VTkh
+
+▼イベントページ
+https://lp.gamewith.jp/wutheringwaves/vtuber_vol1
+
+#鳴潮朝月会 Dチームのメンバー！
+
+・まなめおさん
+https://www.youtube.com/@manameo
+
+・サファルビさん
+https://www.youtube.com/@サファルビ
+
+・まんまるさん
+https://www.youtube.com/@manmaruch-onigami
+
+✦───────────
+-    10-07 **【#NTE】 新しい異象依頼全部網羅したい・プカランド報酬回収じゃああああ！！！！💜 ＃PR 【Neverness to Everness】**
+  https://www.youtube.com/watch?v=MBv_Zp24ESw
+  > ▼Neverness to Everness のDLはこちらから！
+https://pwgam.es/4y3JvXr
+
+✦────────────✦
+           📢INFO
+✦────────────✦
+
+＞ Youtubeメンバーシップ ＜
+
+→   https://www.youtube.com/@Yomi_Vtuber/join
+
+【iPhoneからのメンバー加入方法】
+①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）
+②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ
+③ページにとんだら
+- 🔥 10-07 **【#鳴潮】  心様の先駆ラジオきたああ！ダンダンアドベンチャーモード完走・探索も🍡/ 2K1440p #826 #鳴潮朝月会 【#Vtuber Yomi】**
+  https://www.youtube.com/watch?v=Rg0YilB5mtI
+  信号词: global
+  > ▼DLはこちらから！
+https://wuwa.kurogames-global.com/4i7VTkh
+
+▼イベントページ
+https://lp.gamewith.jp/wutheringwaves/vtuber_vol1
+
+#鳴潮朝月会 Dチームのメンバー！
+
+・まなめおさん
+https://www.youtube.com/@manameo
+
+・サファルビさん
+https://www.youtube.com/@サファルビ
+
+・まんまるさん
+https://www.youtube.com/@manmaruch-onigami
+
+✦───────────
+- 🔥 10-06 **【#鳴潮】  新キャラ待機しながらサブクエ🍀 もう少しで探索100%じゃ！最新情報も👀/ 2K1440p #825 #鳴潮朝月会【#Vtuber Yomi】**
+  https://www.youtube.com/watch?v=NkcrGOSwmFg
+  信号词: global
+  > ▼DLはこちらから！
+https://wuwa.kurogames-global.com/4i7VTkh
+
+▼イベントページ
+https://lp.gamewith.jp/wutheringwaves/vtuber_vol1
+
+#鳴潮朝月会 Dチームのメンバー！
+
+・まなめおさん
+https://www.youtube.com/@manameo
+
+・サファルビさん
+https://www.youtube.com/@サファルビ
+
+・まんまるさん
+https://www.youtube.com/@manmaruch-onigami
+
+✦───────────
+-    10-05 **【#NTE】 次Verの新キャラトーク・クロバネサブクエやります✨異象依頼も…？ ＃PR 【Neverness to Everness】**
+  https://www.youtube.com/watch?v=bH4uktUxMxQ
+  > ▼Neverness to Everness のDLはこちらから！
+https://pwgam.es/4y3JvXr
+
+✦────────────✦
+           📢INFO
+✦────────────✦
+
+＞ Youtubeメンバーシップ ＜
+
+→   https://www.youtube.com/@Yomi_Vtuber/join
+
+【iPhoneからのメンバー加入方法】
+①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）
+②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ
+③ページにとんだら
+- 🔥 10-05 **【#鳴潮】  なんだあ！？この探索ボリューム！！！頭フル回転で今日も挑戦していく🔥 / 2K1440p #824 #鳴潮朝月会【#Vtuber Yomi】**
+  https://www.youtube.com/watch?v=9tj-p2QakCA
+  信号词: global
+  > ▼DLはこちらから！
+https://wuwa.kurogames-global.com/4i7VTkh
+
+▼イベントページ
+https://lp.gamewith.jp/wutheringwaves/vtuber_vol1
+
+#鳴潮朝月会 Dチームのメンバー！
+
+・まなめおさん
+https://www.youtube.com/@manameo
+
+・サファルビさん
+https://www.youtube.com/@サファルビ
+
+・まんまるさん
+https://www.youtube.com/@manmaruch-onigami
+
+✦───────────
+-    10-04 **【#パニグレ】  時崎狂三実装！ガチャしてどんな感じか見る～✨そして30章10話から続きも👀！  Part111 【#Vtuber Yomi】**
+  https://www.youtube.com/watch?v=oRtFZgD1Xxg
+  > 必ず概要欄をお読みくださいね。
+
+①過度な指示コメントはやめてね。（あれやってこれやって等）
+②匂わせ(ここは泣ける～とか)・ネタバレ等(誰誰が犯人だよ、最後はこうなるよ)はやめてね。
+③一緒に楽しんでくれるみんなの気分を害するようなコメントもNGです。
+④よくないコメントだと判断した場合はタイムアウトやBANをする可能性があります。
+⑤初見ストーリーは人生で一度だけ！みんなで楽しもう！
+
+✦────────────✦
+           📢INFO
+✦────────────✦
+
+＞ Youtubeメンバーシップ ＜
+
+→   https://www
+- 🔥 10-04 **【#鳴潮】  いよいよ夢枢天羅のガチ探索スタート！隠し実績もやります👀💜 / 2K1440p #823 #鳴潮朝月会【#Vtuber Yomi】**
+  https://www.youtube.com/watch?v=vCKMNJxMktk
+  信号词: global
+  > ▼DLはこちらから！
+https://wuwa.kurogames-global.com/4i7VTkh
+
+▼イベントページ
+https://lp.gamewith.jp/wutheringwaves/vtuber_vol1
+
+#鳴潮朝月会 Dチームのメンバー！
+
+・まなめおさん
+https://www.youtube.com/@manameo
+
+・サファルビさん
+https://www.youtube.com/@サファルビ
+
+・まんまるさん
+https://www.youtube.com/@manmaruch-onigami
+
+✦───────────
+-    10-03 **【#NTE】 クロバネさんサブクエ＆プカランド完全制覇への道① ＃PR 【Neverness to Everness】**
+  https://www.youtube.com/watch?v=zMexPTv3DG0
+  > ▼Neverness to Everness のDLはこちらから！
+https://pwgam.es/4y3JvXr
+
+✦────────────✦
+           📢INFO
+✦────────────✦
+
+＞ Youtubeメンバーシップ ＜
+
+→   https://www.youtube.com/@Yomi_Vtuber/join
+
+【iPhoneからのメンバー加入方法】
+①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）
+②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ
+③ページにとんだら
+- 🔥 10-03 **【#鳴潮】  勇者ダンダン大乱闘触ってみるよ～✨新団子ズかわいい～～～！ / 2K1440p #822 #鳴潮朝月会【#Vtuber Yomi】**
+  https://www.youtube.com/watch?v=86wea0lkKao
+  信号词: global
+  > ▼DLはこちらから！
+https://wuwa.kurogames-global.com/4i7VTkh
+
+▼イベントページ
+https://lp.gamewith.jp/wutheringwaves/vtuber_vol1
+
+#鳴潮朝月会 Dチームのメンバー！
+
+・まなめおさん
+https://www.youtube.com/@manameo
+
+・サファルビさん
+https://www.youtube.com/@サファルビ
+
+・まんまるさん
+https://www.youtube.com/@manmaruch-onigami
+
+✦───────────
+-    10-02 **【#NTE】 Ver1.4 メインストーリー「魔女」を完走まで読む！激重らしい・・・！？🔥 ＃PR 【Neverness to Everness】**
+  https://www.youtube.com/watch?v=tfDWNVr9-Qc
+  > ▼Neverness to Everness のDLはこちらから！
+https://pwgam.es/4y3JvXr
+
+✦────────────✦
+           📢INFO
+✦────────────✦
+
+＞ Youtubeメンバーシップ ＜
+
+→   https://www.youtube.com/@Yomi_Vtuber/join
+
+【iPhoneからのメンバー加入方法】
+①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）
+②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ
+③ページにとんだら
+- 🔥 10-02 **【#鳴潮】  奇譚任務🦊璇心、月の如く世の情を寄す を読む📚 / 2K1440p #821 #鳴潮朝月会【#Vtuber Yomi】**
   https://www.youtube.com/watch?v=8m3I2-_6ap4
   信号词: global
   > ▼DLはこちらから！
@@ -634,28 +805,7 @@ https://www.youtube.com/@サファルビ
 https://www.youtube.com/@manmaruch-onigami
 
 ✦───────────
-- 🔥 10-01 **【#鳴潮】  潮汐任務🌊第四章第四幕🦊夢枢の有り様、心のまま生ず  読む…！✨ / 2K1440p #820 #鳴潮朝月会【#Vtuber Yomi】**
-  https://www.youtube.com/watch?v=2y7yU2Cv39E
-  信号词: global
-  > ▼DLはこちらから！
-https://wuwa.kurogames-global.com/4i7VTkh
-
-▼イベントページ
-https://lp.gamewith.jp/wutheringwaves/vtuber_vol1
-
-#鳴潮朝月会 Dチームのメンバー！
-
-・まなめおさん
-https://www.youtube.com/@manameo
-
-・サファルビさん
-https://www.youtube.com/@サファルビ
-
-・まんまるさん
-https://www.youtube.com/@manmaruch-onigami
-
-✦───────────
--    10-01 **【#雑談】 乾杯後20分ぐらい潮汐任務感想会・まだまだ一週間頑張るべく飲むぞ～💜 / 居酒屋夜魅🍷初見さん大歓迎  #224 【#Vtuber】**
+-    10-02 **【#雑談】 乾杯後20分ぐらい潮汐任務感想会・まだまだ一週間頑張るべく飲むぞ～💜 / 居酒屋夜魅🍷初見さん大歓迎  #224 【#Vtuber】**
   https://www.youtube.com/watch?v=7rKfaD1qzws
   > ✦────────────✦
            📢INFO
@@ -671,221 +821,3 @@ https://www.youtube.com/@manmaruch-onigami
 ③ページにとんだら「デスクトップ用webサイト」を押す！
 　（左上or下にあるURLの【ぁあ】【AA】をタップ）
 ④チャンネルトップに メ
--    09-30 **【#NTE】 ㊗Ver1.4✨ クロバネ実装！新アプデ全力で楽しみにいこう！！！ ＃PR 【Neverness to Everness】**
-  https://www.youtube.com/watch?v=-xbAEVFF6Ss
-  > ▼Neverness to Everness のDLはこちらから！
-https://pwgam.es/3QEfQDW
-
-✦────────────✦
-           📢INFO
-✦────────────✦
-
-＞ Youtubeメンバーシップ ＜
-
-→   https://www.youtube.com/@Yomi_Vtuber/join
-
-【iPhoneからのメンバー加入方法】
-①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）
-②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ
-③ページにとんだら
-- 🔥 09-30 **【#鳴潮】  今日はVer3.7✨ 心実装じゃ～🦊💜 課金報酬チェックや新機能も！！！ / 2K1440p #819 #鳴潮朝月会【#Vtuber Yomi】**
-  https://www.youtube.com/watch?v=CoLjFPtRFtQ
-  信号词: global
-  > ▼DLはこちらから！
-https://wuwa.kurogames-global.com/4i7VTkh
-
-▼イベントページ
-https://lp.gamewith.jp/wutheringwaves/vtuber_vol1
-
-#鳴潮朝月会 Dチームのメンバー！
-
-・まなめおさん
-https://www.youtube.com/@manameo
-
-・サファルビさん
-https://www.youtube.com/@サファルビ
-
-・まんまるさん
-https://www.youtube.com/@manmaruch-onigami
-
-✦───────────
--    09-29 **【#鳴潮】 心様前日準備と最新情報・声骸甜品店(音骸マスコット）開ける！✨ / 2K1440p #818 【#Vtuber Yomi】**
-  https://www.youtube.com/watch?v=lyVyIF1D8ww
-  > ✦────────────✦
-          🌊 WUWA
-✦────────────✦
-
-＞ ⭐夜魅のキャラ凸状況⭐　＜
-
-忌炎⇒3凸(S3 R1) 
-インリン⇒完凸＋餅武器1凸(S6 R2)
-リンネー⇒両完凸(S6 R5)
-景燃⇒完凸＋餅武器1凸(S6 R2)
-上記以外の限定/恒常キャラ⇒完凸（S6 R1）
-
-＞　鳴潮をご覧いただくときのルール　＜
-
-①過度な指示コメントはやめてね。
-②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。
-③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）
-④一緒に楽しんでくれる
--    09-28 **【#鳴潮】 心様PVくるか！？廃墟更新もくるのでクリアしていく～✨ / 2K1440p #817 【#Vtuber Yomi】**
-  https://www.youtube.com/watch?v=CH7Hk3SK5DI
-  > ✦────────────✦
-          🌊 WUWA
-✦────────────✦
-
-＞ ⭐夜魅のキャラ凸状況⭐　＜
-
-忌炎⇒3凸(S3 R1) 
-インリン⇒完凸＋餅武器1凸(S6 R2)
-リンネー⇒両完凸(S6 R5)
-景燃⇒完凸＋餅武器1凸(S6 R2)
-上記以外の限定/恒常キャラ⇒完凸（S6 R1）
-
-＞　鳴潮をご覧いただくときのルール　＜
-
-①過度な指示コメントはやめてね。
-②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。
-③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）
-④一緒に楽しんでくれる
--    09-28 **【#雑談】  最近お酒控え気味堕天使が今宵はみんなとぱーっと飲む！！！ / BAR夜魅🍷初見さん大歓迎  #223 【#Vtuber】**
-  https://www.youtube.com/watch?v=x_U4g0G96x0
-  > ✦────────────✦
-           📢INFO
-✦────────────✦
-
-＞ Youtubeメンバーシップ ＜
-
-→   https://www.youtube.com/@Yomi_Vtuber/join
-
-【iPhoneからのメンバー加入方法】
-①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）
-②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ
-③ページにとんだら「デスクトップ用webサイト」を押す！
-　（左上or下にあるURLの【ぁあ】【AA】をタップ）
-④チャンネルトップに メ
--    09-27 **【#NTE】 潮風ツーリング今日全員終えます🌟 軌道外領域やシティスタミナ消化も！ ＃PR 【Neverness to Everness】**
-  https://www.youtube.com/watch?v=4wx7u6w_U0g
-  > ▼Neverness to Everness のDLはこちらから！
-https://pwgam.es/3QEfQDW
-
-✦────────────✦
-           📢INFO
-✦────────────✦
-
-＞ Youtubeメンバーシップ ＜
-
-→   https://www.youtube.com/@Yomi_Vtuber/join
-
-【iPhoneからのメンバー加入方法】
-①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）
-②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ
-③ページにとんだら
--    09-27 **【#鳴潮】 ゼツ猫杯お疲れ様でした🌟感想会・心トレーラーコマ送り・鳴潮対決開封してみるよ✨/ 2K1440p #816 【#Vtuber Yomi】**
-  https://www.youtube.com/watch?v=AG34I1SDGDw
-  > ✦────────────✦
-          🌊 WUWA
-✦────────────✦
-
-＞ ⭐夜魅のキャラ凸状況⭐　＜
-
-忌炎⇒3凸(S3 R1) 
-インリン⇒完凸＋餅武器2凸(S6 R2)
-リンネー⇒両完凸(S6 R5)
-上記以外の限定/恒常キャラ⇒完凸（S6 R1）
-
-＞　鳴潮をご覧いただくときのルール　＜
-
-①過度な指示コメントはやめてね。
-②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。
-③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）
-④一緒に楽しんでくれるみんなの気分を害するようなコメントもN
-- 🔥 09-26 **【#鳴潮】 ゼツ猫杯、本番🏆 ♰ナイトフォール♰勝つぞー！おー！ 👀夜魅視点 / 2K1440p 【#Vtuber Yomi】**
-  https://www.youtube.com/watch?v=tCuKx71t2cc
-  信号词: global
-  > ＝＝＝＝＝
-プロモーション：鳴潮
-▼DLはこちらから
-https://wuwa.kurogames-global.com/4azPLNa
-
-#鳴潮
-#wutheringwaves
-
-＝＝＝＝＝
-
-▼本配信
-https://www.youtube.com/live/t1c1gVuxUWU?si=XEM7s-tL0eKMUwIn
-
-♰ナイトフォール♰　チームメイト✨
-あまくだりさん(@DuelistAmakudari)
-https://www.youtube.com/live/yxMtiYf1T1I?si=NWFi7T9s9801qdL8
-
-✦───────
--    09-26 **【#鳴潮】 まさか…今日か！？ 心様トレーラー・性能待機～✨ 14:00からはゼツ猫杯ラスト練習も🔥/ 2K1440p #815 【#Vtuber Yomi】**
-  https://www.youtube.com/watch?v=s-DIj5Jnsr0
-  > ✦────────────✦
-          🌊 WUWA
-✦────────────✦
-
-＞ ⭐夜魅のキャラ凸状況⭐　＜
-
-忌炎⇒3凸(S3 R1) 
-インリン⇒完凸＋餅武器2凸(S6 R2)
-リンネー⇒両完凸(S6 R5)
-上記以外の限定/恒常キャラ⇒完凸（S6 R1）
-
-＞　鳴潮をご覧いただくときのルール　＜
-
-①過度な指示コメントはやめてね。
-②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。
-③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）
-④一緒に楽しんでくれるみんなの気分を害するようなコメントもN
--    09-25 **【#パニグレ】  ゲームサークル同時視聴！ 新アプデ内容やアデレーネ・新塗装も見るよ✅💜  Part110 【#Vtuber Yomi】**
-  https://www.youtube.com/watch?v=GUiLf7IkTw4
-  > この配信は、パニグレ公式様をミラーリングしています。
-https://www.youtube.com/live/LxWfmVzW_RU?si=mzhLyn3pCx0AveV8
-
-必ず概要欄をお読みくださいね。
-
-①過度な指示コメントはやめてね。（あれやってこれやって等）
-②匂わせ(ここは泣ける～とか)・ネタバレ等(誰誰が犯人だよ、最後はこうなるよ)はやめてね。
-③一緒に楽しんでくれるみんなの気分を害するようなコメントもNGです。
-④よくないコメントだと判断した場合はタイムアウトやBANをする可能性があります。
-⑤初見ストーリーは人生で一度だけ！みんなで楽
--    09-25 **【#鳴潮】 ゼツ猫杯ホロタク練習2日目…！私はドライブとシギルムを許さない…！！！最新情報も！！/ 2K1440p #814 【#Vtuber Yomi】**
-  https://www.youtube.com/watch?v=HKlPlSxXQps
-  > ✦────────────✦
-          🌊 WUWA
-✦────────────✦
-
-＞ ⭐夜魅のキャラ凸状況⭐　＜
-
-忌炎⇒3凸(S3 R1) 
-インリン⇒完凸＋餅武器2凸(S6 R2)
-リンネー⇒両完凸(S6 R5)
-上記以外の限定/恒常キャラ⇒完凸（S6 R1）
-
-＞　鳴潮をご覧いただくときのルール　＜
-
-①過度な指示コメントはやめてね。
-②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。
-③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）
-④一緒に楽しんでくれるみんなの気分を害するようなコメントもN
--    09-24 **【#NTE】 Ver1.3アンケートに答えたり、クロバネ動画を見る👀！イベント消化も…！ ＃PR 【Neverness to Everness】**
-  https://www.youtube.com/watch?v=85NOgyjDZ2g
-  > ▼Neverness to Everness のDLはこちらから！
-https://pwgam.es/3QEfQDW
-
-✦────────────✦
-           📢INFO
-✦────────────✦
-
-＞ Youtubeメンバーシップ ＜
-
-→   https://www.youtube.com/@Yomi_Vtuber/join
-
-【iPhoneからのメンバー加入方法】
-①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）
-②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ
-③ページにとんだら

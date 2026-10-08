@@ -1,0 +1,1445 @@
+{
+  "meta": {
+    "script": "youtube_rss_scraper.py",
+    "version": "v1.0",
+    "generated_at": "2026-10-08T23:08:32.568129+00:00",
+    "days_window": 14,
+    "channels_total": 10,
+    "channels_ok": 9,
+    "channels_fail": 1,
+    "channels_stale": 2,
+    "total_kept_videos": 81
+  },
+  "channels": [
+    {
+      "name": "Beta Games Revolution Mobile",
+      "handle": "@BetaGamesMobile",
+      "channel_id": "UCfKqMs1pvtASaunLYeAvtbQ",
+      "region": "全球",
+      "category": "CBT测试",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfKqMs1pvtASaunLYeAvtbQ",
+      "channel_url": "https://www.youtube.com/channel/UCfKqMs1pvtASaunLYeAvtbQ",
+      "focus": "手游Beta封闭测试录播，生存/开放世界/SLG/ARPG，NDA解禁后首测一手画面",
+      "fetched_at": "2026-10-08T23:08:32.568129+00:00",
+      "status": "ok",
+      "error": "",
+      "total_in_feed": 15,
+      "kept": 0,
+      "latest_pub": "",
+      "stale": true,
+      "items": []
+    },
+    {
+      "name": "TheMobileGamerHD",
+      "handle": "@TheMobileGamerHD",
+      "channel_id": "UCBRRJOzY5mtgTWmwoDVFHIg",
+      "region": "全球",
+      "category": "CBT测试+首发",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBRRJOzY5mtgTWmwoDVFHIg",
+      "channel_url": "https://www.youtube.com/channel/UCBRRJOzY5mtgTWmwoDVFHIg",
+      "focus": "老牌综合手游频道，CBT首测+全球上线首发实况双覆盖，SLG/开放世界/二游素材量大",
+      "fetched_at": "2026-10-08T23:08:32.568129+00:00",
+      "status": "ok",
+      "error": "",
+      "total_in_feed": 15,
+      "kept": 8,
+      "latest_pub": "2026-10-08T11:52:34+00:00",
+      "stale": false,
+      "items": [
+        {
+          "title": "Preserve: Complete Edition — Official Launch Gameplay (Android)",
+          "link": "https://www.youtube.com/watch?v=chxaefsBEo8",
+          "video_id": "chxaefsBEo8",
+          "thumbnail": "https://i4.ytimg.com/vi/chxaefsBEo8/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T11:52:34+00:00",
+          "pub_iso": "2026-10-08T11:52:34+00:00",
+          "pub_ts": 1791460354.0,
+          "categories": [],
+          "author": "TheMobileGamer",
+          "summary": "In this video I play Preserve: Complete Edition on Android and build beautiful natural habitats in a relaxing puzzle strategy game. Arrange plants, animals, and different elements of nature to create thriving ecosystems, solve environmental challenges, and discover new ways to transform the landscape.\n\n🎮 Game Details:\n• Game: Preserve: Complete Edition\n• Developer: Bitmap Galaxy\n• Platform: Android\n• Genre: Puzzle / Strategy / Nature Simulation\n• Mode: Single Player\n\n📥 Download the game:\nhttps://play.google.com/store/apps/details?id=com.pid.preserve_complete\n\n🔥 Game Highlights:\n• Relaxing natu",
+          "signal_hits": [
+            "launch",
+            "gameplay",
+            "strategy",
+            "simulation"
+          ]
+        },
+        {
+          "title": "Winter Burrow — Official Mobile Launch Gameplay (Android)",
+          "link": "https://www.youtube.com/watch?v=A04C_LC6Eiw",
+          "video_id": "A04C_LC6Eiw",
+          "thumbnail": "https://i2.ytimg.com/vi/A04C_LC6Eiw/hqdefault.jpg",
+          "pub_date_raw": "2026-10-06T09:05:53+00:00",
+          "pub_iso": "2026-10-06T09:05:53+00:00",
+          "pub_ts": 1791277553.0,
+          "categories": [],
+          "author": "TheMobileGamer",
+          "summary": "In this video I play Winter Burrow on Android and step into a charming woodland survival adventure where a tiny mouse must rebuild its abandoned home and survive the harsh winter. Explore the snowy wilderness, gather resources, craft useful items, discover hidden secrets, and uncover the story behind your family’s old burrow.\n\n🎮 Game Details:\n• Game: Winter Burrow\n• Developer: Noodlecake\n• Platform: Android\n• Genre: Survival / Adventure / Simulation\n• Mode: Single Player\n\n📥 Download the game:\nhttps://play.google.com/store/apps/details?id=com.noodlecake.wb\n\n🔥 Game Highlights:\n• Cozy woodland su",
+          "signal_hits": [
+            "launch",
+            "gameplay",
+            "survival",
+            "simulation"
+          ]
+        },
+        {
+          "title": "Drop Duchy — Official Mobile Launch Gameplay (Android)",
+          "link": "https://www.youtube.com/watch?v=E4cd4B9NxDc",
+          "video_id": "E4cd4B9NxDc",
+          "thumbnail": "https://i2.ytimg.com/vi/E4cd4B9NxDc/hqdefault.jpg",
+          "pub_date_raw": "2026-10-01T13:30:16+00:00",
+          "pub_iso": "2026-10-01T13:30:16+00:00",
+          "pub_ts": 1790861416.0,
+          "categories": [],
+          "author": "TheMobileGamer",
+          "summary": "In this video I play Drop Duchy on Android, a unique puzzle strategy game where falling blocks become the key to building and expanding your own kingdom. Place blocks carefully, create powerful combinations, manage your territory, and use clever strategies to overcome your opponents.\n\n🎮 Game Details:\n• Game: Drop Duchy\n• Developer: The Flossy\n• Platform: Android\n• Genre: Puzzle / Strategy / Roguelike\n• Mode: Single Player\n\n📥 Download the game:\nhttps://play.google.com/store/apps/details?id=com.doghowl.DropDuchy\n\n🔥 Game Highlights:\n• Unique falling-block puzzle gameplay\n• Combine blocks to expan",
+          "signal_hits": [
+            "launch",
+            "gameplay",
+            "strategy"
+          ]
+        },
+        {
+          "title": "Overpeak: Action Game — Official Launch Gameplay (Android)",
+          "link": "https://www.youtube.com/watch?v=mr0khMQuINM",
+          "video_id": "mr0khMQuINM",
+          "thumbnail": "https://i2.ytimg.com/vi/mr0khMQuINM/hqdefault.jpg",
+          "pub_date_raw": "2026-10-01T10:19:59+00:00",
+          "pub_iso": "2026-10-01T10:19:59+00:00",
+          "pub_ts": 1790849999.0,
+          "categories": [],
+          "author": "TheMobileGamer",
+          "summary": "In this video I play Overpeak: Action Game on Android and jump into a fast-paced action adventure filled with intense combat, dangerous enemies, and challenging encounters. Fight your way through hostile environments, improve your abilities, and see how far you can survive in this action-packed mobile experience.\n\n🎮 Game Details:\n• Game: Overpeak: Action Game\n• Developer: Ruser Games\n• Platform: Android\n• Genre: Action / Adventure\n• Mode: Single Player\n\n📥 Download the game:\nhttps://play.google.com/store/apps/details?id=com.rusergames.overpeak\n\n🔥 Game Highlights:\n• Fast-paced action gameplay\n• ",
+          "signal_hits": [
+            "test",
+            "launch",
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Kingdom Rush 6: Genesis TD — Official Launch Android Gameplay",
+          "link": "https://www.youtube.com/watch?v=s5NLTDTgFcU",
+          "video_id": "s5NLTDTgFcU",
+          "thumbnail": "https://i4.ytimg.com/vi/s5NLTDTgFcU/hqdefault.jpg",
+          "pub_date_raw": "2026-09-29T15:00:00+00:00",
+          "pub_iso": "2026-09-29T15:00:00+00:00",
+          "pub_ts": 1790694000.0,
+          "categories": [],
+          "author": "TheMobileGamer",
+          "summary": "In this video I play Kingdom Rush 6: Genesis TD on Android and defend the realm against relentless waves of enemies in an epic tower defense strategy adventure. Build powerful towers, command legendary heroes, unleash devastating abilities, and develop the perfect strategy to protect the kingdom from mysterious threats.\n\n🎮 Game Details:\n• Game: Kingdom Rush 6: Genesis TD\n• Developer: Ironhide Game Studio\n• Platform: Android\n• Genre: Tower Defense / Strategy / Action\n• Mode: Single Player\n\n📥 Download the game:\nhttps://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush6.",
+          "signal_hits": [
+            "launch",
+            "gameplay",
+            "strategy",
+            "tower defense"
+          ]
+        },
+        {
+          "title": "Little Kitty Big City — Official Mobile Launch Gameplay (Android)",
+          "link": "https://www.youtube.com/watch?v=4GzEeOSszTk",
+          "video_id": "4GzEeOSszTk",
+          "thumbnail": "https://i1.ytimg.com/vi/4GzEeOSszTk/hqdefault.jpg",
+          "pub_date_raw": "2026-09-29T12:06:58+00:00",
+          "pub_iso": "2026-09-29T12:06:58+00:00",
+          "pub_ts": 1790683618.0,
+          "categories": [],
+          "author": "TheMobileGamer",
+          "summary": "Little Kitty, Big City invites players to embark on a whimsical adventure as a spirited kitty navigating the urban landscape. In this charming game, players explore the city, forge friendships with fellow stray animals, don enchanting hats, and create delightful mischief. As players guide their feline protagonist on a quest to return home, they’ll experience the playful chaos that only a curious cat can bring to the world around them.\n\n🔥 New mobile gameplay videos uploaded regularly.\n\n👉 Subscribe for more:\nyoutube.com/@TheMobileGamerHD\n\n💬 Join our Discord Community:\nhttps://discord.gg/HnRWUEpd",
+          "signal_hits": [
+            "launch",
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Warhammer 40000: Boltgun Boom • Official Launch Gameplay (Android)",
+          "link": "https://www.youtube.com/watch?v=vpdqaUCh3F0",
+          "video_id": "vpdqaUCh3F0",
+          "thumbnail": "https://i3.ytimg.com/vi/vpdqaUCh3F0/hqdefault.jpg",
+          "pub_date_raw": "2026-09-26T11:30:25+00:00",
+          "pub_iso": "2026-09-26T11:30:25+00:00",
+          "pub_ts": 1790422225.0,
+          "categories": [],
+          "author": "TheMobileGamer",
+          "summary": "In this video I play Warhammer 40,000: Boltgun Boom on Android and unleash explosive retro boomer shooter action as a legendary Space Marine. Blast through hordes of Chaos enemies, wield devastating Warhammer weapons, survive relentless battles, and experience fast-paced arcade carnage inspired by classic 90s shooters.\n\n🎮 Game Details:\n• Game: Warhammer 40,000: Boltgun Boom\n• Developer: Nitro Games\n• Platform: Android / iOS\n• Genre: Boomer Shooter / Action / Arcade\n• Mode: Single Player\n\n📥 Download the game:\nhttps://play.google.com/store/apps/details?id=com.nitrogames.boltgunboom\n\n🔥 Game Highl",
+          "signal_hits": [
+            "launch",
+            "gameplay",
+            "top"
+          ]
+        },
+        {
+          "title": "Find My Frogs: Official Mobile Launch Gameplay (Android)",
+          "link": "https://www.youtube.com/watch?v=eclpy7mbWZg",
+          "video_id": "eclpy7mbWZg",
+          "thumbnail": "https://i2.ytimg.com/vi/eclpy7mbWZg/hqdefault.jpg",
+          "pub_date_raw": "2026-09-26T08:30:20+00:00",
+          "pub_iso": "2026-09-26T08:30:20+00:00",
+          "pub_ts": 1790411420.0,
+          "categories": [],
+          "author": "TheMobileGamer",
+          "summary": "In this video I play Find My Frogs on Android and relax with a charming hidden-object adventure where adorable frogs are cleverly hiding in beautifully hand-drawn scenes. Search every corner, discover secret frogs, solve light puzzles, and enjoy a cozy experience packed with relaxing gameplay and delightful surprises.\n\n🎮 Game Details:\n• Game: Find My Frogs\n• Developer: My Eye Studio\n• Platform: Android\n• Genre: Hidden Object / Puzzle / Casual\n• Mode: Single Player\n\n📥 Download the game:\nhttps://play.google.com/store/apps/details?id=com.MyEyeStudio.FindMyFrogs\n\n🔥 Game Highlights:\n• Search for ad",
+          "signal_hits": [
+            "launch",
+            "gameplay"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sameway",
+      "handle": "@sameway",
+      "channel_id": "UC7SIaeUWuuIrWTIOBpayDVQ",
+      "region": "韩国",
+      "category": "CBT测试",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7SIaeUWuuIrWTIOBpayDVQ",
+      "channel_url": "https://www.youtube.com/channel/UC7SIaeUWuuIrWTIOBpayDVQ",
+      "focus": "韩语主播，国产出海二游/开放世界海外CBT核心频道，韩服首测独家实机多",
+      "fetched_at": "2026-10-08T23:08:32.568129+00:00",
+      "status": "ok",
+      "error": "",
+      "total_in_feed": 15,
+      "kept": 9,
+      "latest_pub": "2026-10-08T04:12:22+00:00",
+      "stale": false,
+      "items": [
+        {
+          "title": "샘웨 다시보기 26.10.07 | 치이카와 극장판 후기 & 무직백수 로노바",
+          "link": "https://www.youtube.com/watch?v=YYPnun7ssPA",
+          "video_id": "YYPnun7ssPA",
+          "thumbnail": "https://i2.ytimg.com/vi/YYPnun7ssPA/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T04:12:22+00:00",
+          "pub_iso": "2026-10-08T04:12:22+00:00",
+          "pub_ts": 1791432742.0,
+          "categories": [],
+          "author": "롱웨",
+          "summary": "00:00 치이카와 : 인어 섬의 비밀 후기\n1:23:31 카페탐방\n2:49:40 무직백수 로노바\n3:38:26 롤\n4:10:33 무직백수 로노바 짤",
+          "signal_hits": []
+        },
+        {
+          "title": "샘웨 다시보기 26.10.06 | 엔필 1.6 공방 & 젠존제 3.2 메인스토리 & 아스오라 CBT 리뷰",
+          "link": "https://www.youtube.com/watch?v=oRQid_GhBds",
+          "video_id": "oRQid_GhBds",
+          "thumbnail": "https://i4.ytimg.com/vi/oRQid_GhBds/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T00:51:52+00:00",
+          "pub_iso": "2026-10-07T00:51:52+00:00",
+          "pub_ts": 1791334312.0,
+          "categories": [],
+          "author": "롱웨",
+          "summary": "00:00 방송시작\n50:54 아스트라에 오라티오 1c차 CBT 리뷰\n1:35:15 엔드필드 1.6 공식방송\n3:11:09 젠레스 존 제로 3.2 메인스토리",
+          "signal_hits": [
+            "cbt"
+          ]
+        },
+        {
+          "title": "샘웨 다시보기 26.10.05 | TS말포이 & 아스트라에 오라티오 1차 CBT 2일차",
+          "link": "https://www.youtube.com/watch?v=jBSa-JB6EKk",
+          "video_id": "jBSa-JB6EKk",
+          "thumbnail": "https://i3.ytimg.com/vi/jBSa-JB6EKk/hqdefault.jpg",
+          "pub_date_raw": "2026-10-06T01:34:15+00:00",
+          "pub_iso": "2026-10-06T01:34:15+00:00",
+          "pub_ts": 1791250455.0,
+          "categories": [],
+          "author": "롱웨",
+          "summary": "00:00 방송시작\n53:35 TS말포이\n1:54:48 아스트라에 오라티오 1차 CBT 2일차\n4:15:35 이터널리턴",
+          "signal_hits": [
+            "cbt"
+          ]
+        },
+        {
+          "title": "샘웨 다시보기 26.10.04 | 아스트라에 오라티오 1차 CBT",
+          "link": "https://www.youtube.com/watch?v=43r1WNrNGDU",
+          "video_id": "43r1WNrNGDU",
+          "thumbnail": "https://i1.ytimg.com/vi/43r1WNrNGDU/hqdefault.jpg",
+          "pub_date_raw": "2026-10-05T04:53:14+00:00",
+          "pub_iso": "2026-10-05T04:53:14+00:00",
+          "pub_ts": 1791175994.0,
+          "categories": [],
+          "author": "롱웨",
+          "summary": "00:00 방송시작\n1:05:29 미슐랭 2스타 정식당 후기\n2:04:16 아스트라에 오라티오 1차 CBT\n2:28:33 세팅 스킵",
+          "signal_hits": [
+            "cbt"
+          ]
+        },
+        {
+          "title": "샘웨 다시보기 26.10.01 | 원신 스네즈나야 마신임무 3,4막",
+          "link": "https://www.youtube.com/watch?v=VVn8eAbWgQc",
+          "video_id": "VVn8eAbWgQc",
+          "thumbnail": "https://i3.ytimg.com/vi/VVn8eAbWgQc/hqdefault.jpg",
+          "pub_date_raw": "2026-10-03T03:36:57+00:00",
+          "pub_iso": "2026-10-03T03:36:57+00:00",
+          "pub_ts": 1790998617.0,
+          "categories": [],
+          "author": "롱웨",
+          "summary": "0:00:00 스네즈나야 3막\n3:25:40 스네즈나야 4막\n7:13:09 마신임무 후기",
+          "signal_hits": []
+        },
+        {
+          "title": "샘웨 다시보기 26.09.30 | 스타레일 휴지통 이론",
+          "link": "https://www.youtube.com/watch?v=k234i8ZNb_8",
+          "video_id": "k234i8ZNb_8",
+          "thumbnail": "https://i4.ytimg.com/vi/k234i8ZNb_8/hqdefault.jpg",
+          "pub_date_raw": "2026-10-01T04:18:24+00:00",
+          "pub_iso": "2026-10-01T04:18:24+00:00",
+          "pub_ts": 1790828304.0,
+          "categories": [],
+          "author": "롱웨",
+          "summary": "00:00 방송시작\n22:28 이환 레이븐 캐릭터 애니메이션\n31:36 젠존제 록시 캐릭터 PV\n1:39:40 스타레일 떡밥 추측회\n4:01:25 스타레일 계정 응급수술\n5:05:24 몬길 반주년 콘텐츠",
+          "signal_hits": []
+        },
+        {
+          "title": "샘웨 다시보기 26.09.29 | 스타레일 4.6 개척임무 & 에반게리온 설명회",
+          "link": "https://www.youtube.com/watch?v=tp5ug4g9xUY",
+          "video_id": "tp5ug4g9xUY",
+          "thumbnail": "https://i1.ytimg.com/vi/tp5ug4g9xUY/hqdefault.jpg",
+          "pub_date_raw": "2026-09-29T19:50:48+00:00",
+          "pub_iso": "2026-09-29T19:50:48+00:00",
+          "pub_ts": 1790711448.0,
+          "categories": [],
+          "author": "롱웨",
+          "summary": "00:00 방송시작\n36:34 스타레일 펄 캐릭터 PV\n1:07:14 명조 여우의 별자리 캐릭터 트레일러\n1:16:05 에반게리온 설명회\n2:37:49 안노 히데아키에 관해\n3:26:27 펄 가챠\n3:32:11 스타레일 4.6 개척임무\n7:25:06 개척임무 후",
+          "signal_hits": []
+        },
+        {
+          "title": "샘웨 다시보기 26.09.27 | 신세기 에반게리온 후기 & EOE 상영회",
+          "link": "https://www.youtube.com/watch?v=5HCifLk9gUs",
+          "video_id": "5HCifLk9gUs",
+          "thumbnail": "https://i2.ytimg.com/vi/5HCifLk9gUs/hqdefault.jpg",
+          "pub_date_raw": "2026-09-28T05:09:54+00:00",
+          "pub_iso": "2026-09-28T05:09:54+00:00",
+          "pub_ts": 1790572194.0,
+          "categories": [],
+          "author": "롱웨",
+          "summary": "00:00 방송시작\n0:55:08 22화 후기\n1:06:42 25화 후기\n1:20:35 26화 후기\n\n1:46:38 엔드 오브 에반게리온 상영회\n3:20:18 후기",
+          "signal_hits": []
+        },
+        {
+          "title": "샘웨 다시보기 26.09.25 | 공포게임 파라소셜 & 메이드 인 코리아 시즌1 요약회",
+          "link": "https://www.youtube.com/watch?v=zA_FjTje_l8",
+          "video_id": "zA_FjTje_l8",
+          "thumbnail": "https://i3.ytimg.com/vi/zA_FjTje_l8/hqdefault.jpg",
+          "pub_date_raw": "2026-09-26T05:05:59+00:00",
+          "pub_iso": "2026-09-26T05:05:59+00:00",
+          "pub_ts": 1790399159.0,
+          "categories": [],
+          "author": "롱웨",
+          "summary": "00:00 방송시작\n14:43 원신 보댜니차 캐릭터 트레일러\n43:35 이환 레이븐 캐릭터 PV\n47:07 스타레일 즉흥 순회공연 PV「이로써, 예술이 완성되었습니다」\n56:24 메이드 인 코리아 시즌1 요약회\n2:17:58  공포게임 파라소셜\n4:15:04 몬길 이자벨라 캐릭터 PV\n4:53:26 림버스 오트쿠튀르::르누아르 브랜드 매니저 돈키호테\n5:23:31 롤",
+          "signal_hits": []
+        }
+      ]
+    },
+    {
+      "name": "Only4GamersXyz",
+      "handle": "@Only4GamersXyz",
+      "channel_id": "UCfTBJHPAhpsHyvilX8MWzgQ",
+      "region": "全球",
+      "category": "测试版试玩",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfTBJHPAhpsHyvilX8MWzgQ",
+      "channel_url": "https://www.youtube.com/channel/UCfTBJHPAhpsHyvilX8MWzgQ",
+      "focus": "偏安卓手游，大量测试版APK试玩，策略/RPG/足球手游，附官网 only4gamers.xyz",
+      "fetched_at": "2026-10-08T23:08:32.568129+00:00",
+      "status": "ok",
+      "error": "",
+      "total_in_feed": 15,
+      "kept": 0,
+      "latest_pub": "",
+      "stale": true,
+      "items": []
+    },
+    {
+      "name": "Maximumandroid",
+      "handle": "@Maximumandroid",
+      "channel_id": "UChJWfOP9b-0UclIynsUuNUA",
+      "region": "全球",
+      "category": "全球首发",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChJWfOP9b-0UclIynsUuNUA",
+      "channel_url": "https://www.youtube.com/channel/UChJWfOP9b-0UclIynsUuNUA",
+      "focus": "游戏上线第一时间录实机，覆盖全品类，上线首日素材多，适合看正式版完整玩法",
+      "fetched_at": "2026-10-08T23:08:32.568129+00:00",
+      "status": "ok",
+      "error": "",
+      "total_in_feed": 15,
+      "kept": 15,
+      "latest_pub": "2026-10-08T14:37:29+00:00",
+      "stale": false,
+      "items": [
+        {
+          "title": "Dreadhush: House of Silence Gameplay (Horror)",
+          "link": "https://www.youtube.com/watch?v=-yMcPb1P3FM",
+          "video_id": "-yMcPb1P3FM",
+          "thumbnail": "https://i2.ytimg.com/vi/-yMcPb1P3FM/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T14:37:29+00:00",
+          "pub_iso": "2026-10-08T14:37:29+00:00",
+          "pub_ts": 1791470249.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "Three nights. One house. Something in it is listening.\n\nYou wake in a locked bedroom you have never seen, with a headache, no memory, and someone else's blood dried on the floor. The power is dead. Every door is locked. And somewhere below you, something very tall and very thin is walking.\n\ntap... drag... tap... drag...\n\nThat is the only warning you get. Use it well. Most people don't.\n\nMEET THE HUSHER\nAlmost human. Almost. Too thin, legs bent the wrong way, no face to read. They call it the Husher because the house goes quiet when it is near — no wind, no insects, no creaking wood. Even your ",
+          "signal_hits": [
+            "gameplay",
+            "top",
+            "survival"
+          ]
+        },
+        {
+          "title": "Mouse Journey: Simulator Gameplay",
+          "link": "https://www.youtube.com/watch?v=hyoqwmKXv70",
+          "video_id": "hyoqwmKXv70",
+          "thumbnail": "https://i1.ytimg.com/vi/hyoqwmKXv70/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T13:49:26+00:00",
+          "pub_iso": "2026-10-08T13:49:26+00:00",
+          "pub_ts": 1791467366.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "🐭 Mouse Journey – The Ultimate Cat and Mouse Adventure!\n\nWelcome to Mouse Journey: Simulator Game, a fun and quirky adventure where a little mouse takes on exciting tasks around the house! Meet a clever cat, take on its challenges, and complete different missions in this entertaining mouse simulator.\n\n🎮Explore, Complete Tasks and Have Fun\n\nGet ready for a unique cat and mouse adventure filled with funny moments, interactive objects, and surprising challenges. The cat assigns you different tasks, and your job is to find a way to complete each one. From kicking a football and bursting balloons t",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Drama Trouble Brain Teaser Gameplay",
+          "link": "https://www.youtube.com/watch?v=KSUWwYyZAzo",
+          "video_id": "KSUWwYyZAzo",
+          "thumbnail": "https://i4.ytimg.com/vi/KSUWwYyZAzo/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T13:18:51+00:00",
+          "pub_iso": "2026-10-08T13:18:51+00:00",
+          "pub_ts": 1791465531.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "Challenge your brain with clever tricks, surprising twists, and hilarious puzzle moments!\n\n Each level tests your logic, observation, and imagination in unexpected ways. \n\nTap, drag, combine objects, and think outside the box to solve funny situations and tricky challenges. \n\nWith simple controls, creative puzzles, and satisfying solutions, every stage offers something new to discover. \n\nEasy to play but hard to master, this game is perfect for quick breaks or long sessions. Can you solve them all, too?\n\nGoogle Play download URL:\nhttps://play.google.com/store/apps/details?id=com.vgames.tricky.",
+          "signal_hits": [
+            "test",
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Galactic Waves Gameplay",
+          "link": "https://www.youtube.com/watch?v=lA37CuCHlmI",
+          "video_id": "lA37CuCHlmI",
+          "thumbnail": "https://i1.ytimg.com/vi/lA37CuCHlmI/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T12:38:09+00:00",
+          "pub_iso": "2026-10-08T12:38:09+00:00",
+          "pub_ts": 1791463089.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "THE CITY IS UNDER ATTACK. THE FIGHT STARTS WITH YOU.\n\nCybercity has fallen into chaos. Hostile forces have seized control, dangerous enemies patrol its streets, and powerful commanders stand between you and the truth.\n\nStep into the role of Jax and fight your way through a story-driven sci-fi action adventure packed with fast-paced hack-and-slash combat, roguelike progression, challenging missions, powerful skills, and intense boss battles.\n\nEvery chapter pushes you deeper into the conflict. Battle through hostile streets, futuristic facilities and dangerous strongholds as you complete objecti",
+          "signal_hits": [
+            "gameplay",
+            "top"
+          ]
+        },
+        {
+          "title": "Roadline - Multiplayer Car Sim Gameplay",
+          "link": "https://www.youtube.com/watch?v=oTwqeR8OkLA",
+          "video_id": "oTwqeR8OkLA",
+          "thumbnail": "https://i4.ytimg.com/vi/oTwqeR8OkLA/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T10:42:44+00:00",
+          "pub_iso": "2026-10-08T10:42:44+00:00",
+          "pub_ts": 1791456164.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "Drive through Roadline, customize your car, and choose an instant or private multiplayer session. \n\nChat with other players and keep your car collection and progress in a player profile.\n\nExplore car customization through paint, decals and performance controls. Create a private session or join a multiplayer drive.\n\nSupport: contact@nova-games.studio\n\nGoogle Play download URL:\nhttps://play.google.com/store/apps/details?&id=com.novagames.roadline.multiplayer.car.sim\n\nThanks for watching Roadline gameplay and if you love Roadline review , please leave a comment for more content like this .",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Fuse Breaker Protocol Gameplay",
+          "link": "https://www.youtube.com/watch?v=PUEapnRvz2k",
+          "video_id": "PUEapnRvz2k",
+          "thumbnail": "https://i1.ytimg.com/vi/PUEapnRvz2k/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T09:14:18+00:00",
+          "pub_iso": "2026-10-08T09:14:18+00:00",
+          "pub_ts": 1791450858.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "A top-down pixel art action shooter with a noir story. Cut the power and take down the crew selling blackouts in a harbour city.\n\nSaltmarrow has been under rolling blackouts for nine nights, and everyone blames the storm. Wren Okafor, a night-shift lineworker who knows every breaker in the city, finds out the dark is being sold. A crew called the Sootline cuts the power to a block so their clients can work unseen.\n\nWren turns their trick against them. She cuts the lights and comes in fast.\n\nFIGHT IN THE DARK\nLit rooms favour the crew's eyes. Dark rooms favour yours. Throw a breaker and the roo",
+          "signal_hits": [
+            "gameplay",
+            "top"
+          ]
+        },
+        {
+          "title": "BACKROOMS: Insanity Horror Gameplay",
+          "link": "https://www.youtube.com/watch?v=GQAoqZjIUGA",
+          "video_id": "GQAoqZjIUGA",
+          "thumbnail": "https://i4.ytimg.com/vi/GQAoqZjIUGA/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T07:34:40+00:00",
+          "pub_iso": "2026-10-08T07:34:40+00:00",
+          "pub_ts": 1791444880.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "The elevator has no power. Somewhere beyond the yellow walls, something is moving.\n\nBACKROOMS: Insanity Horror is a first-person survival horror game. Explore unsettling corridors, restore power to the elevator and descend deeper into the Backrooms. Watch your insanity: the darkness is not your only problem.\n\nTWO PANELS. ONE WAY DOWN.\nFind and activate two electrical panels, then make it back to the elevator. Remember the route as you explore. Getting the power on is only part of the escape: you still need to survive the return trip.\n\nKEEP YOUR LIGHT. KEEP YOUR NERVE.\nUse your flashlight to se",
+          "signal_hits": [
+            "gameplay",
+            "survival"
+          ]
+        },
+        {
+          "title": "Last Light: Convoy Defense TD Gameplay",
+          "link": "https://www.youtube.com/watch?v=EhUvk7oiaj8",
+          "video_id": "EhUvk7oiaj8",
+          "thumbnail": "https://i2.ytimg.com/vi/EhUvk7oiaj8/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T19:55:40+00:00",
+          "pub_iso": "2026-10-07T19:55:40+00:00",
+          "pub_ts": 1791402940.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "The roads belong to the horde. Your convoy is the last light still moving.\n\nLast Light is tower defense on wheels: a post-apocalyptic survival shooter where your base drives. Bolt guns onto a 3-car convoy, merge matching guns into heavier ones, swipe to change lanes, and blast through raider war parties and mutant hordes to bring survivors home.\n\n🚚 BUILD A FORTRESS THAT DRIVES\n• Drag guns onto 6 mounts across 3 cars. Lead car or tail, left flank or right: placement decides what gets hit.\n• Guns fire automatically. Your job is where they go and what they become.\n• Merge two identical guns to fo",
+          "signal_hits": [
+            "gameplay",
+            "survival",
+            "tower defense"
+          ]
+        },
+        {
+          "title": "North War 2: Island Defense 3D Gameplay",
+          "link": "https://www.youtube.com/watch?v=hZSUaFI9yD0",
+          "video_id": "hZSUaFI9yD0",
+          "thumbnail": "https://i1.ytimg.com/vi/hZSUaFI9yD0/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T19:27:55+00:00",
+          "pub_iso": "2026-10-07T19:27:55+00:00",
+          "pub_ts": 1791401275.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "Enter the fractured world born from the ashes of Ragnarok, where only the boldest warriors can prevent history from repeating itself. You are the chosen commander, entrusted by Thrúd—the fierce daughter of Thor and also the brave hero—who now stands as the last beacon of hope for the Nine Realms.\n\nAs the commander, your duty is to build troops, equip them with powerful gears, and train them into elite warriors. You must master real-time tactics, outwit relentless attacks, and lead your forces to reclaim what was lost. The fate of realms lies in your strategic hero combinations and intelligent ",
+          "signal_hits": [
+            "gameplay",
+            "strategy",
+            "idle"
+          ]
+        },
+        {
+          "title": "Glowling Gameplay",
+          "link": "https://www.youtube.com/watch?v=OlRM4zwAuAg",
+          "video_id": "OlRM4zwAuAg",
+          "thumbnail": "https://i4.ytimg.com/vi/OlRM4zwAuAg/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T18:39:54+00:00",
+          "pub_iso": "2026-10-07T18:39:54+00:00",
+          "pub_ts": 1791398394.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "Glowling is a 2D side-scrolling platformer adventure for Android, developed by Atypicalverse. \n\nIts core mechanic flips the usual rule of exploration: there's no ambient light to rely on, the only thing pushing back the dark is the glow of Glowling itself. \n\nAs your light fades, so does your view of the world, turning every jump and every step into a small act of trust.\n\nGoogle Play download URL:\nhttps://play.google.com/store/apps/details?&id=com.AtypicalVerse.Glowling\n\nThanks for watching Glowling gameplay and if you love Glowling review , please leave a comment for more content like this .",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Gunship Air Strike: War Games Gameplay",
+          "link": "https://www.youtube.com/watch?v=WHjg-K1Bdns",
+          "video_id": "WHjg-K1Bdns",
+          "thumbnail": "https://i4.ytimg.com/vi/WHjg-K1Bdns/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T18:20:09+00:00",
+          "pub_iso": "2026-10-07T18:20:09+00:00",
+          "pub_ts": 1791397209.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "Gunship Air Strike: War Games puts you in intense aerial combat missions where precision, timing, and strategy matter.\n\n Take control of a powerful gunship in helicopter, scan the battlefield from above, and support ground operations with accurate air strikes. \n\nEach mission is built around fast decisions, clear objectives, and action-focused shooting gameplay.\n\nUse heavy weapons, rockets, and missile attacks to stop enemy forces before they reach key locations. \n\nAim carefully, choose the right moment to fire, and complete tactical missions across dangerous combat zones. \n\nThe gameplay focuse",
+          "signal_hits": [
+            "launch",
+            "gameplay",
+            "top",
+            "strategy"
+          ]
+        },
+        {
+          "title": "Pirate Shove: Push Puzzle Gameplay",
+          "link": "https://www.youtube.com/watch?v=xQc4Bh6Y_Yc",
+          "video_id": "xQc4Bh6Y_Yc",
+          "thumbnail": "https://i1.ytimg.com/vi/xQc4Bh6Y_Yc/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T17:44:48+00:00",
+          "pub_iso": "2026-10-07T17:44:48+00:00",
+          "pub_ts": 1791395088.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "Ahoy! The pirates have captured the princess, and only you can save her!\n\nPirate Shove: Push Puzzle is a fun and satisfying pirate game where one swipe sends a whole crew flying into the sea. \n\nLine up your shot, push the pirates off the ship, and watch them splash into the waves!\n\nSWIPE & SHOVE\nJust swipe to push. Knock one pirate into the next and shove the whole line overboard in a single move. Easy to learn, hard to master!\n\nPLAN EVERY PUSH\nEach level gives you a limited number of shoves. Think ahead, find the best angle, and clear the deck before you run out of moves. Every level is a new",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "UNBOUND: Street Racing Gameplay",
+          "link": "https://www.youtube.com/watch?v=d4v17dFi1Ts",
+          "video_id": "d4v17dFi1Ts",
+          "thumbnail": "https://i1.ytimg.com/vi/d4v17dFi1Ts/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T17:11:29+00:00",
+          "pub_iso": "2026-10-07T17:11:29+00:00",
+          "pub_ts": 1791393089.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "The realistic and endless street racing game for mobile\n\nGoogle Play download URL:\nhttps://play.google.com/store/apps/details?id=com.gamedevme.unbound\n\nThanks for watching UNBOUND: Street Racing gameplay and if you love UNBOUND: Street Racing review , please leave a comment for more content like this .",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Titan Duel Gameplay",
+          "link": "https://www.youtube.com/watch?v=KE_PTuII6pk",
+          "video_id": "KE_PTuII6pk",
+          "thumbnail": "https://i4.ytimg.com/vi/KE_PTuII6pk/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T16:11:21+00:00",
+          "pub_iso": "2026-10-07T16:11:21+00:00",
+          "pub_ts": 1791389481.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "Build a giant mech. Every part you bolt on gives you a new move.\n\nTitan Duel is a turn-based tactical battler where the mech you build decides how you fight. Attach an arm and you gain punches. Add a cannon and you gain rockets. Fit a shield and you gain blocks. Build the machine, and the machine builds your moveset.\n\nCHOOSE WHERE TO STRIKE\nEvery mech has five limbs: two arms, a body, a head and legs. Each one has its own health bar. Drag a move onto the limb you want to hit. Smashing the right limb can shut down an enemy's best attacks, and protecting your own can save the fight.\n\nLOSE LIMBS,",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Bad Passengers Gameplay",
+          "link": "https://www.youtube.com/watch?v=oIndKoDauH8",
+          "video_id": "oIndKoDauH8",
+          "thumbnail": "https://i4.ytimg.com/vi/oIndKoDauH8/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T15:40:45+00:00",
+          "pub_iso": "2026-10-07T15:40:45+00:00",
+          "pub_ts": 1791387645.0,
+          "categories": [],
+          "author": "Maximumandroid - Just Good Games",
+          "summary": "Welcome aboard the worst airline in the sky!\n\nYour pilot just quit. Your boss, Mr. Cheapskate, refuses to hire a new one. Congratulations – YOU are the crew now! Load the bags, close the doors, take off, feed the passengers, fix the engine, put out the fires… and somehow land the plane in one piece.\n\n✈️ EVERY FLIGHT IS A NEW ADVENTURE\nNo two flights are the same. Each trip throws something new and ridiculous at you:\n• LOST IN SPACE – dodge meteors, fight off UFO raids and survive the alien mothership\n• PIRATE AIRWAYS – protect the treasure chest from a cabin full of pirates, battle a flying pi",
+          "signal_hits": [
+            "gameplay",
+            "top"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NewMobileGames",
+      "handle": "@NewMobileGames9",
+      "channel_id": "UCBcfEifmET-HYuu8audsPuQ",
+      "region": "全球",
+      "category": "全球首发",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBcfEifmET-HYuu8audsPuQ",
+      "channel_url": "https://www.youtube.com/channel/UCBcfEifmET-HYuu8audsPuQ",
+      "focus": "专门展示新上线手游，首发开荒实机，偏轻量化新游，海外独立手游/轻度策略上线素材",
+      "fetched_at": "2026-10-08T23:08:32.568129+00:00",
+      "status": "ok",
+      "error": "",
+      "total_in_feed": 15,
+      "kept": 8,
+      "latest_pub": "2026-10-08T08:00:36+00:00",
+      "stale": false,
+      "items": [
+        {
+          "title": "Butcher Hero: Monster Idle RPG - Area 4 Desert Mines - Gameplay Walkthrough Part 4 (iOS, Android)",
+          "link": "https://www.youtube.com/watch?v=JuFkorQGEas",
+          "video_id": "JuFkorQGEas",
+          "thumbnail": "https://i3.ytimg.com/vi/JuFkorQGEas/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T08:00:36+00:00",
+          "pub_iso": "2026-10-08T08:00:36+00:00",
+          "pub_ts": 1791446436.0,
+          "categories": [],
+          "author": "NewMobileGames",
+          "summary": "Butcher Hero: Monster Idle RPG - Area 4 Desert Mines - Gameplay Walkthrough Part 4 (iOS, Android)\n\nGame Description: Enter Butcher Hero, an idle action RPG where every enemy becomes fuel for your next upgrade. Explore hostile sand zones, throw your chain hook, pull monsters and aliens into range, earn XP, and devour their power to build a stronger hero.\n\niOS - https://apps.apple.com/us/app/butcher-hero-hooknchew-rpg/id6757722046\nAndroid - https://play.google.com/store/apps/details?id=com.multicastgames.butcher&hl=en",
+          "signal_hits": [
+            "gameplay",
+            "idle",
+            "rpg"
+          ]
+        },
+        {
+          "title": "Eating Healthy With Bluey! Lego Bluey Gameplay Walkthrough",
+          "link": "https://www.youtube.com/watch?v=Ero6KhxV9VM",
+          "video_id": "Ero6KhxV9VM",
+          "thumbnail": "https://i2.ytimg.com/vi/Ero6KhxV9VM/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T10:23:15+00:00",
+          "pub_iso": "2026-10-07T10:23:15+00:00",
+          "pub_ts": 1791368595.0,
+          "categories": [],
+          "author": "NewMobileGames",
+          "summary": "Eating Healthy With Bluey! Lego Bluey Gameplay Walkthrough\n\nGame Description: lego bluey new update gameplay\n\n#bluey",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Paw Patrol Mighty Pups Save Adventure Bay Walkthrough - Skye And Marshall Snowy Mountain",
+          "link": "https://www.youtube.com/watch?v=nZOlTIoAnEM",
+          "video_id": "nZOlTIoAnEM",
+          "thumbnail": "https://i3.ytimg.com/vi/nZOlTIoAnEM/hqdefault.jpg",
+          "pub_date_raw": "2026-10-06T15:15:20+00:00",
+          "pub_iso": "2026-10-06T15:15:20+00:00",
+          "pub_ts": 1791299720.0,
+          "categories": [],
+          "author": "NewMobileGames",
+          "summary": "Paw Patrol Mighty Pups Save Adventure Bay Walkthrough - Skye And Marshall Snowy Mountain\n\npaw patrol mighty pups save adventure bay gameplay walkthrough video.",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "SUBWAY SURFERS CITY Phantom Park Halloween District Walkthrough (iOS Android Gameplay)",
+          "link": "https://www.youtube.com/watch?v=XE3yrZPVgaQ",
+          "video_id": "XE3yrZPVgaQ",
+          "thumbnail": "https://i1.ytimg.com/vi/XE3yrZPVgaQ/hqdefault.jpg",
+          "pub_date_raw": "2026-10-02T05:36:19+00:00",
+          "pub_iso": "2026-10-02T05:36:19+00:00",
+          "pub_ts": 1790919379.0,
+          "categories": [],
+          "author": "NewMobileGames",
+          "summary": "SUBWAY SURFERS CITY Phantom Park Halloween District Walkthrough (iOS Android Gameplay)\n\nsubway surfers city gameplay walkthrough video.\n\n#subwaysurferscity",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "River City Survivors - New Apple Arcade Release - Gameplay Walkthrough Part 1 (iOS)",
+          "link": "https://www.youtube.com/watch?v=2rbc92IAByc",
+          "video_id": "2rbc92IAByc",
+          "thumbnail": "https://i3.ytimg.com/vi/2rbc92IAByc/hqdefault.jpg",
+          "pub_date_raw": "2026-10-01T16:04:12+00:00",
+          "pub_iso": "2026-10-01T16:04:12+00:00",
+          "pub_ts": 1790870652.0,
+          "categories": [],
+          "author": "NewMobileGames",
+          "summary": "River City Survivors - New Apple Arcade Release - Gameplay Walkthrough Part 1 (iOS)\n\nGame Description: River City Survivors (also known as River City Survivors: Downtown of the Dead) is an action-packed, \"survivors-like\" rogue-lite game set in the legendary River City / Kunio-kun universe, released on Apple Arcade.\n\niOS - https://apps.apple.com/us/app/river-city-survivors/id6749604300",
+          "signal_hits": [
+            "release",
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Butcher Hero: Monster Idle RPG - Area 3 Crystal Tundra - Gameplay Walkthrough Part 3 (iOS, Android)",
+          "link": "https://www.youtube.com/watch?v=k6G4wQ65T60",
+          "video_id": "k6G4wQ65T60",
+          "thumbnail": "https://i4.ytimg.com/vi/k6G4wQ65T60/hqdefault.jpg",
+          "pub_date_raw": "2026-09-29T13:00:05+00:00",
+          "pub_iso": "2026-09-29T13:00:05+00:00",
+          "pub_ts": 1790686805.0,
+          "categories": [],
+          "author": "NewMobileGames",
+          "summary": "Butcher Hero: Monster Idle RPG - Area 3 Crystal Tundra - Gameplay Walkthrough Part 3 (iOS, Android)\n\nGame Description: Enter Butcher Hero, an idle action RPG where every enemy becomes fuel for your next upgrade. Explore hostile sand zones, throw your chain hook, pull monsters and aliens into range, earn XP, and devour their power to build a stronger hero.\n\niOS - https://apps.apple.com/us/app/butcher-hero-hooknchew-rpg/id6757722046\nAndroid - https://play.google.com/store/apps/details?id=com.multicastgames.butcher&hl=en",
+          "signal_hits": [
+            "gameplay",
+            "idle",
+            "rpg"
+          ]
+        },
+        {
+          "title": "Flick Shot Rogues - Gameplay Walkthrough Part 1 (iOS, Android)",
+          "link": "https://www.youtube.com/watch?v=pmVZ-m-BlHs",
+          "video_id": "pmVZ-m-BlHs",
+          "thumbnail": "https://i1.ytimg.com/vi/pmVZ-m-BlHs/hqdefault.jpg",
+          "pub_date_raw": "2026-09-29T08:11:17+00:00",
+          "pub_iso": "2026-09-29T08:11:17+00:00",
+          "pub_ts": 1790669477.0,
+          "categories": [],
+          "author": "NewMobileGames",
+          "summary": "Flick Shot Rogues - Gameplay Walkthrough Part 1 (iOS, Android)\n\nGame Description: FLICK SHOT ROGUES blends the tactile satisfaction of flicking stuff across a table with the strategic depth of your favourite turnbased roguelikes. Chain together ridiculous combos, unlock characters, items and skills, and conquer the island!\n\niOS - https://apps.apple.com/us/app/flick-shot-rogues/id6758023730\nAndroid - https://play.google.com/store/apps/details?id=com.noodlecake.flickshotrogues&hl=en",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Bluey Runs A Sushi Restaurant! Lego Bluey Gameplay Walkthrough",
+          "link": "https://www.youtube.com/watch?v=05vjcbzMZh8",
+          "video_id": "05vjcbzMZh8",
+          "thumbnail": "https://i1.ytimg.com/vi/05vjcbzMZh8/hqdefault.jpg",
+          "pub_date_raw": "2026-09-28T12:32:08+00:00",
+          "pub_iso": "2026-09-28T12:32:08+00:00",
+          "pub_ts": 1790598728.0,
+          "categories": [],
+          "author": "NewMobileGames",
+          "summary": "Bluey Runs A Sushi Restaurant! Lego Bluey Gameplay Walkthrough\n\nGame Description: lego bluey new update gameplay\n\n#bluey",
+          "signal_hits": [
+            "gameplay"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MobileGamesDaily",
+      "handle": "@MobileGamesDaily",
+      "channel_id": "UC7tDN9kJtfQjOxekZwWyFVw",
+      "region": "全球",
+      "category": "全球首发",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7tDN9kJtfQjOxekZwWyFVw",
+      "channel_url": "https://www.youtube.com/channel/UC7tDN9kJtfQjOxekZwWyFVw",
+      "focus": "厂商提前寄送测试包/上线版本，第一时间First Look，剪辑干净，官方合作向实机演示",
+      "fetched_at": "2026-10-08T23:08:32.568129+00:00",
+      "status": "ok",
+      "error": "",
+      "total_in_feed": 15,
+      "kept": 11,
+      "latest_pub": "2026-10-08T05:45:40+00:00",
+      "stale": false,
+      "items": [
+        {
+          "title": "HOT WHEELS UNLIMITED Walkthrough! Snowy Mountains Tracks!",
+          "link": "https://www.youtube.com/watch?v=F-jEFtKuHTc",
+          "video_id": "F-jEFtKuHTc",
+          "thumbnail": "https://i3.ytimg.com/vi/F-jEFtKuHTc/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T05:45:40+00:00",
+          "pub_iso": "2026-10-08T05:45:40+00:00",
+          "pub_ts": 1791438340.0,
+          "categories": [],
+          "author": "MobileGamesDaily",
+          "summary": "HOT WHEELS UNLIMITED Walkthrough! Snowy Mountains Tracks!\n\nNew Wrecking Raceway! Create ultimate chaos in this new Builder Mode! Build with new track pieces and decorations, including the epic Crushzilla! Smash breakable pieces in race mode!\n\nhow to reach me - mgdailyofficial@gmail.com",
+          "signal_hits": []
+        },
+        {
+          "title": "LEGO Bluey Gameplay Walkthrough Part 46 - Halloween Game Update!",
+          "link": "https://www.youtube.com/watch?v=oxwevzTRYHc",
+          "video_id": "oxwevzTRYHc",
+          "thumbnail": "https://i4.ytimg.com/vi/oxwevzTRYHc/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T08:44:43+00:00",
+          "pub_iso": "2026-10-07T08:44:43+00:00",
+          "pub_ts": 1791362683.0,
+          "categories": [],
+          "author": "MobileGamesDaily",
+          "summary": "LEGO Bluey Gameplay Walkthrough Part 46 - Halloween Game Update!\n\nIt’s bedtime in the Heeler’s house, but the fun isn’t over yet. There’s hide and seek to play, the Bath Burger Shop is open for business, and then it’s lights out… if you can keep everyone in bed.\n\niTunes Link - https://apps.apple.com/us/app/lego-bluey/id6740210196\nGoogle Play Link - https://play.google.com/store/apps/details?id=com.storytoys.lego.bluey.googleplay&hl=en\n\nhow to reach me - mgdailyofficial@gmail.com",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Paw Patrol Mighty Pups Save Adventure Bay Walkthrough! Chase's Mighty Powers Origin Story",
+          "link": "https://www.youtube.com/watch?v=sZmWTWYHRYY",
+          "video_id": "sZmWTWYHRYY",
+          "thumbnail": "https://i4.ytimg.com/vi/sZmWTWYHRYY/hqdefault.jpg",
+          "pub_date_raw": "2026-10-06T11:01:14+00:00",
+          "pub_iso": "2026-10-06T11:01:14+00:00",
+          "pub_ts": 1791284474.0,
+          "categories": [],
+          "author": "MobileGamesDaily",
+          "summary": "Paw Patrol Mighty Pups Save Adventure Bay Walkthrough! Chase's Mighty Powers Origin Story\n\nPaw Patrol Mighty Pups Save Adventure Bay gameplay video.\n\n#pawpatrol #pawpatrolmightypupssaveadventurebay \n\nhow to reach me - mgdailyofficial@gmail.com",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "TouchGrind BMX 2 Apple Arcade Gameplay",
+          "link": "https://www.youtube.com/watch?v=L4jQvMZfRwM",
+          "video_id": "L4jQvMZfRwM",
+          "thumbnail": "https://i1.ytimg.com/vi/L4jQvMZfRwM/hqdefault.jpg",
+          "pub_date_raw": "2026-10-01T17:16:25+00:00",
+          "pub_iso": "2026-10-01T17:16:25+00:00",
+          "pub_ts": 1790874985.0,
+          "categories": [],
+          "author": "MobileGamesDaily",
+          "summary": "TouchGrind BMX 2 Apple Arcade Gameplay\n\nTouchgrind BMX 2 is a physics-driven extreme sports mobile game developed by Illusion Labs that utilizes unique, revolutionary two-finger controls to simulate riding and performing stunts on a customizable BMX bike\n\niTunes Link - https://apps.apple.com/us/app/touchgrind-bmx-2/id6751571320\n\nhow to reach me - mgdailyofficial@gmail.com",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Jackie Rescue Story Mission! Gangstar Mirage City Walkthrough Part 6 (iOS Android)",
+          "link": "https://www.youtube.com/watch?v=gbAn005PQZ8",
+          "video_id": "gbAn005PQZ8",
+          "thumbnail": "https://i4.ytimg.com/vi/gbAn005PQZ8/hqdefault.jpg",
+          "pub_date_raw": "2026-10-01T15:43:09+00:00",
+          "pub_iso": "2026-10-01T15:43:09+00:00",
+          "pub_ts": 1790869389.0,
+          "categories": [],
+          "author": "MobileGamesDaily",
+          "summary": "Jackie Rescue Story Mission! Gangstar Mirage City Walkthrough Part 6 (iOS Android)\n\nwalkthrough playlist - https://www.youtube.com/playlist?list=PLSjPMT4kzRNw\n\nEnter Mirage City — a living open-world city built on heists, garages, street clashes, and underground power. Join your crew, take the right jobs, drive anything that can get you out alive, and build a name the whole city will recognize.\n\niTunes Link - https://apps.apple.com/ae/app/gangstar-mirage-city-online/id6472700792\nGoogle Play Link - https://play.google.com/store/apps/details?id=com.levelinfinite.gst&hl=en\n\nhow to reach me - mgda",
+          "signal_hits": []
+        },
+        {
+          "title": "LEGO Bluey Gameplay Walkthrough Part 45 - School Day With Bluey!",
+          "link": "https://www.youtube.com/watch?v=ak-TIOx-YmQ",
+          "video_id": "ak-TIOx-YmQ",
+          "thumbnail": "https://i2.ytimg.com/vi/ak-TIOx-YmQ/hqdefault.jpg",
+          "pub_date_raw": "2026-09-30T13:25:49+00:00",
+          "pub_iso": "2026-09-30T13:25:49+00:00",
+          "pub_ts": 1790774749.0,
+          "categories": [],
+          "author": "MobileGamesDaily",
+          "summary": "LEGO Bluey Gameplay Walkthrough Part 45 - School Day With Bluey!\n\nIt’s bedtime in the Heeler’s house, but the fun isn’t over yet. There’s hide and seek to play, the Bath Burger Shop is open for business, and then it’s lights out… if you can keep everyone in bed.\n\niTunes Link - https://apps.apple.com/us/app/lego-bluey/id6740210196\nGoogle Play Link - https://play.google.com/store/apps/details?id=com.storytoys.lego.bluey.googleplay&hl=en\n\nhow to reach me - mgdailyofficial@gmail.com",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Dress Up Party With Bluey And Friends! Bluey Lets Play Walkthrough Gameplay",
+          "link": "https://www.youtube.com/watch?v=3Q38-IVoJCk",
+          "video_id": "3Q38-IVoJCk",
+          "thumbnail": "https://i4.ytimg.com/vi/3Q38-IVoJCk/hqdefault.jpg",
+          "pub_date_raw": "2026-09-29T17:01:24+00:00",
+          "pub_iso": "2026-09-29T17:01:24+00:00",
+          "pub_ts": 1790701284.0,
+          "categories": [],
+          "author": "MobileGamesDaily",
+          "summary": "Dress Up Party With Bluey And Friends! Bluey Lets Play Walkthrough Gameplay\n\nDress up, style silly hair & barbecue! Discover three new amazing activities with Bluey! Play hairdressers, dress-up characters in fun outfits & grill fun foods!\n\n#bluey #blueyletsplay \n\nhow to reach me - mgdailyofficial@gmail.com",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "SUBWAY SURFERS CITY - Gameplay Walkthrough Part 9 - Ninja One Monofantastic Outfit Unlocked",
+          "link": "https://www.youtube.com/watch?v=IV4LNFRvs6w",
+          "video_id": "IV4LNFRvs6w",
+          "thumbnail": "https://i2.ytimg.com/vi/IV4LNFRvs6w/hqdefault.jpg",
+          "pub_date_raw": "2026-09-29T15:40:29+00:00",
+          "pub_iso": "2026-09-29T15:40:29+00:00",
+          "pub_ts": 1790696429.0,
+          "categories": [],
+          "author": "MobileGamesDaily",
+          "summary": "SUBWAY SURFERS CITY - Gameplay Walkthrough Part 9 - Ninja One Monofantastic Outfit Unlocked\n\ngameplay part 9 for Subway Surfers: City.\n\nhow to reach me - mgdailyofficial@gmail.com",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Paw Patrol Mighty Pups Save Adventure Bay Walkthrough! Everest Origin Story Mission",
+          "link": "https://www.youtube.com/watch?v=o9uHKLUivYU",
+          "video_id": "o9uHKLUivYU",
+          "thumbnail": "https://i4.ytimg.com/vi/o9uHKLUivYU/hqdefault.jpg",
+          "pub_date_raw": "2026-09-28T18:10:22+00:00",
+          "pub_iso": "2026-09-28T18:10:22+00:00",
+          "pub_ts": 1790619022.0,
+          "categories": [],
+          "author": "MobileGamesDaily",
+          "summary": "Paw Patrol Mighty Pups Save Adventure Bay Walkthrough! Everest Origin Story Mission\n\nPaw Patrol Mighty Pups Save Adventure Bay gameplay video.\n\n#pawpatrol #pawpatrolmightypupssaveadventurebay \n\nhow to reach me - mgdailyofficial@gmail.com",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "PIXEL GUN 2 - Gameplay Walkthrough Part 3 - Bounty Hunter Team Mode (iOS Android)",
+          "link": "https://www.youtube.com/watch?v=X0f0m_Ns8wQ",
+          "video_id": "X0f0m_Ns8wQ",
+          "thumbnail": "https://i1.ytimg.com/vi/X0f0m_Ns8wQ/hqdefault.jpg",
+          "pub_date_raw": "2026-09-28T01:32:29+00:00",
+          "pub_iso": "2026-09-28T01:32:29+00:00",
+          "pub_ts": 1790559149.0,
+          "categories": [],
+          "author": "MobileGamesDaily",
+          "summary": "PIXEL GUN 2 - Gameplay Walkthrough Part 3 - Bounty Hunter Team Mode (iOS Android)\n\nPixel Gun 2 is a multiplayer shooter built on disruption — of old rules, map architecture, traditional loadouts and more!\n\niTunes Link - https://apps.apple.com/us/app/pixel-gun-2/id6758299956\nGoogle Play Link - https://play.google.com/store/apps/details?id=com.pixelgun2&hl=en\n\nhow to reach me - mgdailyofficial@gmail.com",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "HOT WHEELS UNLIMITED Walkthrough! All Track Pieces Updated!",
+          "link": "https://www.youtube.com/watch?v=do9NB1m70uE",
+          "video_id": "do9NB1m70uE",
+          "thumbnail": "https://i1.ytimg.com/vi/do9NB1m70uE/hqdefault.jpg",
+          "pub_date_raw": "2026-09-27T10:11:20+00:00",
+          "pub_iso": "2026-09-27T10:11:20+00:00",
+          "pub_ts": 1790503880.0,
+          "categories": [],
+          "author": "MobileGamesDaily",
+          "summary": "HOT WHEELS UNLIMITED Walkthrough! All Track Pieces Updated!\n\nNew Wrecking Raceway! Create ultimate chaos in this new Builder Mode! Build with new track pieces and decorations, including the epic Crushzilla! Smash breakable pieces in race mode!\n\nhow to reach me - mgdailyofficial@gmail.com",
+          "signal_hits": []
+        }
+      ]
+    },
+    {
+      "name": "Pocket Gamer",
+      "handle": "@PocketGamerVideo",
+      "channel_id": "UCTjH1fZ1-vM8-0t3H8YqYtQ",
+      "region": "英国",
+      "category": "专业媒体",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTjH1fZ1-vM8-0t3H8YqYtQ",
+      "channel_url": "https://www.youtube.com/channel/UCTjH1fZ1-vM8-0t3H8YqYtQ",
+      "focus": "手游专业媒体，新游评测+行业资讯，最像国内\"金角游戏\"定位",
+      "fetched_at": "2026-10-08T23:08:32.568129+00:00",
+      "status": "fail",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "total_in_feed": 0,
+      "kept": 0,
+      "latest_pub": "",
+      "stale": false,
+      "items": []
+    },
+    {
+      "name": "Techzamazing",
+      "handle": "@Techzamazing",
+      "channel_id": "UCyo4ROy9-8ymQTBWcPA5Fjg",
+      "region": "全球",
+      "category": "新游评测",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyo4ROy9-8ymQTBWcPA5Fjg",
+      "channel_url": "https://www.youtube.com/channel/UCyo4ROy9-8ymQTBWcPA5Fjg",
+      "focus": "手游新游评测/推荐，覆盖面广，更新频率高",
+      "fetched_at": "2026-10-08T23:08:32.568129+00:00",
+      "status": "ok",
+      "error": "",
+      "total_in_feed": 15,
+      "kept": 15,
+      "latest_pub": "2026-10-08T15:42:54+00:00",
+      "stale": false,
+      "items": [
+        {
+          "title": "PVZ: First Person Mobile - Android Gameplay Walkthrough Part 1",
+          "link": "https://www.youtube.com/watch?v=IM_0oO-nFPo",
+          "video_id": "IM_0oO-nFPo",
+          "thumbnail": "https://i2.ytimg.com/vi/IM_0oO-nFPo/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T15:42:54+00:00",
+          "pub_iso": "2026-10-08T15:42:54+00:00",
+          "pub_ts": 1791474174.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "PVZ: First Person Mobile - Gameplay Walkthrough (Android)\n\nWelcome to PVZ: First Person, a unique first-person strategy and survival game where you grow plants and build your defense to protect your home from waves of zombies.\n\nIn this gameplay walkthrough, we begin building our plant-based defense and prepare for incoming zombie attacks. Grow different plants, manage resources, improve your setup, and use the right strategy to survive increasingly difficult waves of zombies.\n\nUnlike traditional zombie shooting games, the plants do the fighting while you focus on positioning, planning, and ada",
+          "signal_hits": [
+            "gameplay",
+            "strategy",
+            "survival"
+          ]
+        },
+        {
+          "title": "Adrenaline Rampage Mobile - Gameplay Walkthrough Part 1 (Android)",
+          "link": "https://www.youtube.com/watch?v=1ohBAq1aC8g",
+          "video_id": "1ohBAq1aC8g",
+          "thumbnail": "https://i2.ytimg.com/vi/1ohBAq1aC8g/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T05:11:02+00:00",
+          "pub_iso": "2026-10-08T05:11:02+00:00",
+          "pub_ts": 1791436262.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "Adrenaline Rampage Mobile - Gameplay Walkthrough Part 1 (Android)\n\nWelcome to Adrenaline Rampage, a fast-paced platformer roguelike shooter set in a dark sci-fi world filled with techno-zombies. In Part 1 of this gameplay walkthrough, we begin our fight for survival and take on waves of dangerous enemies.\n\nBattle through challenging levels, use different weapons and abilities, defeat powerful enemies and bosses, collect rewards, upgrade your character, and discover new ways to become stronger. Every run offers different challenges as you fight through the ruined world.\n\nAdrenaline Rampage comb",
+          "signal_hits": [
+            "launch",
+            "gameplay",
+            "survival",
+            "rpg"
+          ]
+        },
+        {
+          "title": "Monster Hunter Rise Mobile - Android Gameplay Walkthrough Part 1",
+          "link": "https://www.youtube.com/watch?v=yHfTCBuspL0",
+          "video_id": "yHfTCBuspL0",
+          "thumbnail": "https://i2.ytimg.com/vi/yHfTCBuspL0/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T13:08:38+00:00",
+          "pub_iso": "2026-10-07T13:08:38+00:00",
+          "pub_ts": 1791378518.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "Monster Hunter Rise Mobile - Gameplay Walkthrough Part 1 (Android)\n\nWelcome to Monster Hunter Rise Mobile! In Part 1 of this gameplay walkthrough, we begin our journey in the village of Kamura and prepare for our first hunting quests.\n\nTake on fierce monsters, explore the beautiful environments, fight alongside your Palico and Palamute companions, and use powerful weapons and Wirebugs to move around the world. Gather materials from defeated monsters and use them to craft stronger weapons, armor, and items as you progress through the adventure.\n\nThe mobile version features redesigned touch cont",
+          "signal_hits": [
+            "gameplay",
+            "rpg"
+          ]
+        },
+        {
+          "title": "Helicopter Flight School Mobile - Gameplay Walkthrough Part 1 (Android)",
+          "link": "https://www.youtube.com/watch?v=aEaDj9EK4Nw",
+          "video_id": "aEaDj9EK4Nw",
+          "thumbnail": "https://i2.ytimg.com/vi/aEaDj9EK4Nw/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T06:43:33+00:00",
+          "pub_iso": "2026-10-07T06:43:33+00:00",
+          "pub_ts": 1791355413.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "Helicopter Flight School Mobile - Gameplay Walkthrough (Android)\n\nWelcome to Helicopter Flight School, a helicopter flight simulation game from Game Pickle. In this gameplay walkthrough, we begin our pilot training and work through a full helicopter flight school program in a large open world.\n\nStart as a student pilot and complete 20 challenging flight lessons to improve your flying skills and earn License Points. Learn the basic controls, master difficult manoeuvres, perform rescue operations, fight fires, transport heavy cargo, and handle dangerous weather conditions.\n\nThe game features a d",
+          "signal_hits": [
+            "gameplay",
+            "open world",
+            "simulation"
+          ]
+        },
+        {
+          "title": "OverPeak Mobile Android Gameplay Walkthrough - Part 2",
+          "link": "https://www.youtube.com/watch?v=-6RYJdHEYD8",
+          "video_id": "-6RYJdHEYD8",
+          "thumbnail": "https://i2.ytimg.com/vi/-6RYJdHEYD8/hqdefault.jpg",
+          "pub_date_raw": "2026-10-06T12:06:48+00:00",
+          "pub_iso": "2026-10-06T12:06:48+00:00",
+          "pub_ts": 1791288408.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "OverPeak Mobile - Gameplay Walkthrough Part 2 (Android)\n\nWelcome back to OverPeak! In Part 2 of this gameplay walkthrough, we continue our journey through Prism City with more open-world exploration, intense combat, superpower abilities, destruction, and chaotic action.\n\nContinue exploring the city, take on enemies, unleash powerful abilities, fly across Prism City, destroy the environment, and discover more of what OverPeak has to offer.\n\nEnjoy this OverPeak mobile gameplay walkthrough in high resolution without commentary.\n\nOverPeak Gameplay Walkthrough Playlist ►►\n\nFull Game Walkthroughs - ",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Gangstar Mirage City - STARRY-EYED Skin is SO GOOD! 🔥 New Skin Showcase (Android / iOS)",
+          "link": "https://www.youtube.com/watch?v=L_9gCStLwJE",
+          "video_id": "L_9gCStLwJE",
+          "thumbnail": "https://i1.ytimg.com/vi/L_9gCStLwJE/hqdefault.jpg",
+          "pub_date_raw": "2026-10-05T12:12:54+00:00",
+          "pub_iso": "2026-10-05T12:12:54+00:00",
+          "pub_ts": 1791202374.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "Gangstar Mirage City - STARRY-EYED Skin is SO GOOD! 🔥 New Skin Showcase (Android / iOS)\n\nCheck out the awesome **Starry-Eyed Skin** in Gangstar Mirage City! In this gameplay video, we showcase the new skin, take it into the open world, and see how it looks during gameplay.\n\nTake a closer look at the Starry-Eyed outfit, explore Mirage City, and enjoy the stylish new look in different gameplay situations.\n\nEnjoy this Gangstar Mirage City skin showcase in high resolution without commentary.\n\nGangstar Mirage City Gameplay Walkthrough Playlist ►► https://youtube.com/playlist?list=PLDjm9On6Vqf4&si=9",
+          "signal_hits": [
+            "gameplay",
+            "open world"
+          ]
+        },
+        {
+          "title": "Disney Epic Mickey: Rebrushed Mobile - Gameplay Walkthrough Part 3 (iOS / Android)",
+          "link": "https://www.youtube.com/watch?v=k-KLvX5b2Go",
+          "video_id": "k-KLvX5b2Go",
+          "thumbnail": "https://i4.ytimg.com/vi/k-KLvX5b2Go/hqdefault.jpg",
+          "pub_date_raw": "2026-10-04T12:23:46+00:00",
+          "pub_iso": "2026-10-04T12:23:46+00:00",
+          "pub_ts": 1791116626.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "Disney Epic Mickey: Rebrushed Mobile - Gameplay Walkthrough Part 2 (iOS / Android)\n\nWelcome back to Disney Epic Mickey: Rebrushed, the colorful 3D platforming adventure featuring Mickey Mouse. In Part 3 of this no-commentary gameplay walkthrough, we continue Mickey's journey through Wasteland, exploring new areas, taking on enemies, solving environmental puzzles, and uncovering more secrets along the way.\n\nIn this part, we'll continue progressing through the story, explore new locations, use Mickey's magical Paint and Thinner, overcome platforming challenges, battle enemies, collect Disney Pin",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "LITA Level 65 EASY WIN! 🔥 How to Beat Lita Level 65 - Aniimo",
+          "link": "https://www.youtube.com/watch?v=rcOHop63R_4",
+          "video_id": "rcOHop63R_4",
+          "thumbnail": "https://i3.ytimg.com/vi/rcOHop63R_4/hqdefault.jpg",
+          "pub_date_raw": "2026-10-04T04:47:03+00:00",
+          "pub_iso": "2026-10-04T04:47:03+00:00",
+          "pub_ts": 1791089223.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "Aniimo - LITA Level 65 EASY WIN! 🔥 How to Beat Lita Level 65\n\nIn this Aniimo gameplay video, we take on **Lita Level 65** and show an easy way to win the battle.\n\nWatch the full Lita Lv. 65 battle, see the strategy used to defeat her, and learn how to handle this challenging encounter without struggling. A simple and effective Aniimo battle guide for anyone having trouble with Lita Level 65.\n\nEnjoy this Aniimo gameplay and Lita Level 65 battle in high resolution without commentary.\n\nAniimo Gameplay Walkthrough Playlist ►► YOUR_PLAYLIST_LINK\nFull Game Walkthroughs - Premium Mobile Games (Androi",
+          "signal_hits": [
+            "launch",
+            "global",
+            "gameplay",
+            "strategy",
+            "rpg"
+          ]
+        },
+        {
+          "title": "DCKO Gameplay Walkthrough Part 1 (iOS / Android)",
+          "link": "https://www.youtube.com/watch?v=RHPet_f-oWo",
+          "video_id": "RHPet_f-oWo",
+          "thumbnail": "https://i3.ytimg.com/vi/RHPet_f-oWo/hqdefault.jpg",
+          "pub_date_raw": "2026-10-02T13:57:41+00:00",
+          "pub_iso": "2026-10-02T13:57:41+00:00",
+          "pub_ts": 1790949461.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "DCKO: Super Hero Fighting Game Mobile - Gameplay Walkthrough Part 1 (iOS / Android)\n\nWelcome to DCKO: Super Hero Fighting Game, a real-time 2v2 tag-team fighting game featuring iconic DC Super Heroes and Super-Villains. In Part 1 of this gameplay walkthrough, we begin our journey through the DC Universe and experience the fast-paced combat, tag-team battles, and character progression.\n\nBuild your ultimate duo, switch between two Legends during battle, chain combos, use assists, unleash powerful Super moves, and take on opponents across PvP and PvE battles. DCKO also features customizable Super",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Bloxfun Mobile - Open World RPG & Life Simulation Gameplay! 🌿🔥 (Android)",
+          "link": "https://www.youtube.com/watch?v=UyH1vf5tQKM",
+          "video_id": "UyH1vf5tQKM",
+          "thumbnail": "https://i2.ytimg.com/vi/UyH1vf5tQKM/hqdefault.jpg",
+          "pub_date_raw": "2026-10-01T10:51:28+00:00",
+          "pub_iso": "2026-10-01T10:51:28+00:00",
+          "pub_ts": 1790851888.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "Bloxfun Mobile - Open World RPG & Life Simulation Gameplay! 🌿🔥 (Android)\n\nWelcome to Bloxfun, an open-world role-playing and simulation game from YK.GAME. In this gameplay, we'll explore the beautiful continent of Seofar, discover lost ruins, gather resources, build our own home, farm, capture pets, and begin creating a new life in this colorful open world.\n\nExplore areas such as Wedge Rift Valley, Serpent Creek Land, Oran River Valley, and Misty Deep Valley while collecting materials through logging, mining, and breaking stones. Use resources to craft items, build and decorate your home, plan",
+          "signal_hits": [
+            "test",
+            "gameplay",
+            "open world",
+            "rpg",
+            "simulation"
+          ]
+        },
+        {
+          "title": "Aniimo FINAL BOSS & ENDING! 🔥 Irelia Final Boss Battle (iOS / Android / PC)",
+          "link": "https://www.youtube.com/watch?v=oycyN64qPf4",
+          "video_id": "oycyN64qPf4",
+          "thumbnail": "https://i4.ytimg.com/vi/oycyN64qPf4/hqdefault.jpg",
+          "pub_date_raw": "2026-10-01T05:16:23+00:00",
+          "pub_iso": "2026-10-01T05:16:23+00:00",
+          "pub_ts": 1790831783.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "Aniimo Android Gameplay - FINAL BOSS & ENDING! 🔥 Irelia Final Boss Battle\n\nWelcome to the final chapter of the Aniimo launch story! In this gameplay video, we take on the **final boss Irelia** and experience the story ending of Aniimo.\n\nAfter investigating Irelia's condition, we face the Lv. 50 Irelia at Tideblossom Coast and battle through the different phases of the encounter. After defeating the final boss, we'll watch the full ending cutscenes and see how the launch story concludes.\n\nExperience the final battle, story ending, character dialogue, and epilogue in this immersive Aniimo Androi",
+          "signal_hits": [
+            "launch",
+            "global",
+            "gameplay",
+            "rpg"
+          ]
+        },
+        {
+          "title": "OverPeak Mobile - Android Gameplay Walkthrough - Part 1",
+          "link": "https://www.youtube.com/watch?v=Zsjf5Ig7-lc",
+          "video_id": "Zsjf5Ig7-lc",
+          "thumbnail": "https://i3.ytimg.com/vi/Zsjf5Ig7-lc/hqdefault.jpg",
+          "pub_date_raw": "2026-09-30T06:28:00+00:00",
+          "pub_iso": "2026-09-30T06:28:00+00:00",
+          "pub_ts": 1790749680.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "OverPeak Mobile - Gameplay Walkthrough (Android)\n\nWelcome to OverPeak, a chaotic open-world action game set in Prism City. In this gameplay walkthrough, we play as Jason Fieldway, also known as Subject OP, a Starbridge experiment resurrected with extraordinary powers.\n\nExplore the open world, fight enemies, unleash powerful abilities, destroy buildings and objects, fly across the city, and experience the destructive gameplay of OverPeak. Your actions can also affect your reputation as you choose whether to save civilians, cause chaos, or take down anyone standing in your way.\n\nEnjoy this OverP",
+          "signal_hits": [
+            "gameplay",
+            "open world"
+          ]
+        },
+        {
+          "title": "PUBG MOBILE FLASH - Gameplay Walkthrough Part 2 🔥 (Android / iOS)",
+          "link": "https://www.youtube.com/watch?v=lI4rCoiCAIQ",
+          "video_id": "lI4rCoiCAIQ",
+          "thumbnail": "https://i1.ytimg.com/vi/lI4rCoiCAIQ/hqdefault.jpg",
+          "pub_date_raw": "2026-09-28T17:55:56+00:00",
+          "pub_iso": "2026-09-28T17:55:56+00:00",
+          "pub_ts": 1790618156.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "🎮 PUBG MOBILE FLASH - Gameplay Walkthrough Part 2!\n\nWelcome back to PUBG MOBILE FLASH! In Part 2, we continue our gameplay adventure with more intense battles, exploration, looting, and action across Erangel.\n\nPUBG MOBILE FLASH brings the classic PUBG MOBILE battle royale experience with a lighter download designed for more devices. In this episode, we'll jump into more matches, collect weapons and gear, engage enemy players, and fight to survive until the end.\n\n🎮 Game: PUBG MOBILE FLASH\n📱 Platform: Android / iOS\n🗺️ Map: Erangel\n🎥 Gameplay: No Commentary\n\n📱 Full Game Walkthroughs - Premium Mob",
+          "signal_hits": [
+            "gameplay"
+          ]
+        },
+        {
+          "title": "Aniimo - Catching a SPARKLING PRISMANO! ✨ Rare Aniimo Encounter & Capture (Android / iOS)",
+          "link": "https://www.youtube.com/watch?v=YxuZ5JVjwtY",
+          "video_id": "YxuZ5JVjwtY",
+          "thumbnail": "https://i2.ytimg.com/vi/YxuZ5JVjwtY/hqdefault.jpg",
+          "pub_date_raw": "2026-09-27T14:52:27+00:00",
+          "pub_iso": "2026-09-27T14:52:27+00:00",
+          "pub_ts": 1790520747.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "✨ Aniimo - Catching a SPARKLING PRISMANO!\n\nIn this Aniimo gameplay video, we're on the hunt for a rare Sparkling Prismano and attempt to catch it! ✨ Watch the full encounter, capture attempt, and the exciting moment we add this sparkling Aniimo to our collection.\n\n🎮 Game: Aniimo\n📱 Platform: Android / iOS\n✨ Feature: Sparkling Prismano Catch\n🎥 Gameplay: No Commentary\n\n🎮 More Aniimo Gameplay\nSubscribe for more Aniimo gameplay, captures, exploration, rare Aniimo encounters and mobile gaming videos.\n\n📱 Full Game Walkthroughs - Premium Mobile Games (Android / iOS) ►► https://www.youtube.com/playlist",
+          "signal_hits": [
+            "launch",
+            "global",
+            "gameplay"
+          ]
+        },
+        {
+          "title": "PUBG MOBILE FLASH Gameplay (Android / iOS)",
+          "link": "https://www.youtube.com/watch?v=KQLNCElomkg",
+          "video_id": "KQLNCElomkg",
+          "thumbnail": "https://i4.ytimg.com/vi/KQLNCElomkg/hqdefault.jpg",
+          "pub_date_raw": "2026-09-27T06:56:34+00:00",
+          "pub_iso": "2026-09-27T06:56:34+00:00",
+          "pub_ts": 1790492194.0,
+          "categories": [],
+          "author": "Techzamazing",
+          "summary": "PUBG MOBILE FLASH - NEW Lightweight PUBG! 🔥 Gameplay (Android / iOS)\n\nWelcome to PUBG MOBILE FLASH, a lighter version of the original PUBG MOBILE experience designed to bring the battle royale experience to more devices. In this gameplay video, we're checking out PUBG MOBILE FLASH, jumping into Erangel, exploring the new lightweight experience, and testing the gameplay on mobile.\n\nPUBG MOBILE FLASH lets players start playing with Erangel pre-installed without requiring a secondary download before the first battle. Additional maps and modes can be downloaded whenever you need them, helping save",
+          "signal_hits": [
+            "test",
+            "gameplay"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yomi_Vtuber",
+      "handle": "@Yomi_Vtuber",
+      "channel_id": "UCW7htl9_IlxgjrXkn4Vu33w",
+      "region": "日本",
+      "category": "日系二游测试",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW7htl9_IlxgjrXkn4Vu33w",
+      "channel_url": "https://www.youtube.com/channel/UCW7htl9_IlxgjrXkn4Vu33w",
+      "focus": "日本Vtuber，国产开放世界手游海外首测试玩，日系视角评测",
+      "fetched_at": "2026-10-08T23:08:32.568129+00:00",
+      "status": "ok",
+      "error": "",
+      "total_in_feed": 15,
+      "kept": 15,
+      "latest_pub": "2026-10-08T15:53:05+00:00",
+      "stale": false,
+      "items": [
+        {
+          "title": "【#NTE】 炭団子🍡・鏡の国の小人たち他ルート探し・軌道外領域更新じゃああああ⚔ ＃PR 【Neverness to Everness】",
+          "link": "https://www.youtube.com/watch?v=dAS5PN00fsk",
+          "video_id": "dAS5PN00fsk",
+          "thumbnail": "https://i1.ytimg.com/vi/dAS5PN00fsk/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T15:53:05+00:00",
+          "pub_iso": "2026-10-08T15:53:05+00:00",
+          "pub_ts": 1791474785.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "▼Neverness to Everness のDLはこちらから！\nhttps://pwgam.es/4y3JvXr\n\n✦────────────✦\n           📢INFO\n✦────────────✦\n\n＞ Youtubeメンバーシップ ＜\n\n→   https://www.youtube.com/@Yomi_Vtuber/join\n\n【iPhoneからのメンバー加入方法】\n①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）\n②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ\n③ページにとんだら「デスクトップ用webサイト」を押す！\n　（左上or下にあるURLの【ぁあ】【AA】をタップ）\n④チャンネルトップに メンバーになる がでるよ！\n\n＞ よみたろ。最新動画はこちら ＜\n\nhttps://youtu.be/gndhg3w3cAI?si=zRsThw69KEmSkRYA\n\n✦────────────✦\n            ⛓LINK\n✦────────────✦\n\n🍷Twitch→https://www.twitch.tv/yomi_streamer\n🍷BOOTH→https://yomivtuber.booth.pm/\n🍷X→ https://x.com/Yomi_Vtuber\n🍷質問箱【Mond】→https:/",
+          "signal_hits": []
+        },
+        {
+          "title": "【#鳴潮】  マトリクス初回挑戦🔥 ダンダンラストに最新情報✨/ 2K1440p #828 #鳴潮朝月会 【#Vtuber Yomi】",
+          "link": "https://www.youtube.com/watch?v=ltZmf-Z065Q",
+          "video_id": "ltZmf-Z065Q",
+          "thumbnail": "https://i1.ytimg.com/vi/ltZmf-Z065Q/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T15:44:45+00:00",
+          "pub_iso": "2026-10-08T15:44:45+00:00",
+          "pub_ts": 1791474285.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "▼DLはこちらから！\nhttps://wuwa.kurogames-global.com/4i7VTkh\n\n▼イベントページ\nhttps://lp.gamewith.jp/wutheringwaves/vtuber_vol1\n\n#鳴潮朝月会 Dチームのメンバー！\n\n・まなめおさん\nhttps://www.youtube.com/@manameo\n\n・サファルビさん\nhttps://www.youtube.com/@サファルビ\n\n・まんまるさん\nhttps://www.youtube.com/@manmaruch-onigami\n\n✦────────────✦\n          🌊 WUWA\n✦────────────✦\n\n＞ ⭐夜魅のキャラ凸状況⭐　＜\n\n忌炎⇒3凸(S3 R1) \nインリン⇒完凸＋餅武器1凸(S6 R2)\nリンネー⇒両完凸(S6 R5)\n景燃⇒完凸＋餅武器1凸(S6 R2)\n上記以外の限定/恒常キャラ⇒完凸（S6 R1）\n\n＞　鳴潮をご覧いただくときのルール　＜\n\n①過度な指示コメントはやめてね。\n②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。\n③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）\n④一緒に楽しんでくれるみんなの気分を害するようなコメントもNGです。\n\n上記を守れない場合、\n夜魅が個人的に判断してタイムアウ",
+          "signal_hits": [
+            "global"
+          ]
+        },
+        {
+          "title": "【#鳴潮】  リリー属性武器？二人目くる？待機しながら夢枢天羅探索100%へ🦊/ 2K1440p #827 #鳴潮朝月会 【#Vtuber Yomi】",
+          "link": "https://www.youtube.com/watch?v=r8bml8fEw7I",
+          "video_id": "r8bml8fEw7I",
+          "thumbnail": "https://i3.ytimg.com/vi/r8bml8fEw7I/hqdefault.jpg",
+          "pub_date_raw": "2026-10-08T06:19:55+00:00",
+          "pub_iso": "2026-10-08T06:19:55+00:00",
+          "pub_ts": 1791440395.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "▼DLはこちらから！\nhttps://wuwa.kurogames-global.com/4i7VTkh\n\n▼イベントページ\nhttps://lp.gamewith.jp/wutheringwaves/vtuber_vol1\n\n#鳴潮朝月会 Dチームのメンバー！\n\n・まなめおさん\nhttps://www.youtube.com/@manameo\n\n・サファルビさん\nhttps://www.youtube.com/@サファルビ\n\n・まんまるさん\nhttps://www.youtube.com/@manmaruch-onigami\n\n✦────────────✦\n          🌊 WUWA\n✦────────────✦\n\n＞ ⭐夜魅のキャラ凸状況⭐　＜\n\n忌炎⇒3凸(S3 R1) \nインリン⇒完凸＋餅武器1凸(S6 R2)\nリンネー⇒両完凸(S6 R5)\n景燃⇒完凸＋餅武器1凸(S6 R2)\n上記以外の限定/恒常キャラ⇒完凸（S6 R1）\n\n＞　鳴潮をご覧いただくときのルール　＜\n\n①過度な指示コメントはやめてね。\n②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。\n③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）\n④一緒に楽しんでくれるみんなの気分を害するようなコメントもNGです。\n\n上記を守れない場合、\n夜魅が個人的に判断してタイムアウ",
+          "signal_hits": [
+            "global"
+          ]
+        },
+        {
+          "title": "【#NTE】 新しい異象依頼全部網羅したい・プカランド報酬回収じゃああああ！！！！💜 ＃PR 【Neverness to Everness】",
+          "link": "https://www.youtube.com/watch?v=MBv_Zp24ESw",
+          "video_id": "MBv_Zp24ESw",
+          "thumbnail": "https://i2.ytimg.com/vi/MBv_Zp24ESw/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T15:42:47+00:00",
+          "pub_iso": "2026-10-07T15:42:47+00:00",
+          "pub_ts": 1791387767.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "▼Neverness to Everness のDLはこちらから！\nhttps://pwgam.es/4y3JvXr\n\n✦────────────✦\n           📢INFO\n✦────────────✦\n\n＞ Youtubeメンバーシップ ＜\n\n→   https://www.youtube.com/@Yomi_Vtuber/join\n\n【iPhoneからのメンバー加入方法】\n①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）\n②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ\n③ページにとんだら「デスクトップ用webサイト」を押す！\n　（左上or下にあるURLの【ぁあ】【AA】をタップ）\n④チャンネルトップに メンバーになる がでるよ！\n\n＞ よみたろ。最新動画はこちら ＜\n\nhttps://youtu.be/gndhg3w3cAI?si=zRsThw69KEmSkRYA\n\n✦────────────✦\n            ⛓LINK\n✦────────────✦\n\n🍷Twitch→https://www.twitch.tv/yomi_streamer\n🍷BOOTH→https://yomivtuber.booth.pm/\n🍷X→ https://x.com/Yomi_Vtuber\n🍷質問箱【Mond】→https:/",
+          "signal_hits": []
+        },
+        {
+          "title": "【#鳴潮】  心様の先駆ラジオきたああ！ダンダンアドベンチャーモード完走・探索も🍡/ 2K1440p #826 #鳴潮朝月会 【#Vtuber Yomi】",
+          "link": "https://www.youtube.com/watch?v=Rg0YilB5mtI",
+          "video_id": "Rg0YilB5mtI",
+          "thumbnail": "https://i3.ytimg.com/vi/Rg0YilB5mtI/hqdefault.jpg",
+          "pub_date_raw": "2026-10-07T06:18:54+00:00",
+          "pub_iso": "2026-10-07T06:18:54+00:00",
+          "pub_ts": 1791353934.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "▼DLはこちらから！\nhttps://wuwa.kurogames-global.com/4i7VTkh\n\n▼イベントページ\nhttps://lp.gamewith.jp/wutheringwaves/vtuber_vol1\n\n#鳴潮朝月会 Dチームのメンバー！\n\n・まなめおさん\nhttps://www.youtube.com/@manameo\n\n・サファルビさん\nhttps://www.youtube.com/@サファルビ\n\n・まんまるさん\nhttps://www.youtube.com/@manmaruch-onigami\n\n✦────────────✦\n          🌊 WUWA\n✦────────────✦\n\n＞ ⭐夜魅のキャラ凸状況⭐　＜\n\n忌炎⇒3凸(S3 R1) \nインリン⇒完凸＋餅武器1凸(S6 R2)\nリンネー⇒両完凸(S6 R5)\n景燃⇒完凸＋餅武器1凸(S6 R2)\n上記以外の限定/恒常キャラ⇒完凸（S6 R1）\n\n＞　鳴潮をご覧いただくときのルール　＜\n\n①過度な指示コメントはやめてね。\n②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。\n③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）\n④一緒に楽しんでくれるみんなの気分を害するようなコメントもNGです。\n\n上記を守れない場合、\n夜魅が個人的に判断してタイムアウ",
+          "signal_hits": [
+            "global"
+          ]
+        },
+        {
+          "title": "【#鳴潮】  新キャラ待機しながらサブクエ🍀 もう少しで探索100%じゃ！最新情報も👀/ 2K1440p #825 #鳴潮朝月会【#Vtuber Yomi】",
+          "link": "https://www.youtube.com/watch?v=NkcrGOSwmFg",
+          "video_id": "NkcrGOSwmFg",
+          "thumbnail": "https://i3.ytimg.com/vi/NkcrGOSwmFg/hqdefault.jpg",
+          "pub_date_raw": "2026-10-06T06:19:08+00:00",
+          "pub_iso": "2026-10-06T06:19:08+00:00",
+          "pub_ts": 1791267548.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "▼DLはこちらから！\nhttps://wuwa.kurogames-global.com/4i7VTkh\n\n▼イベントページ\nhttps://lp.gamewith.jp/wutheringwaves/vtuber_vol1\n\n#鳴潮朝月会 Dチームのメンバー！\n\n・まなめおさん\nhttps://www.youtube.com/@manameo\n\n・サファルビさん\nhttps://www.youtube.com/@サファルビ\n\n・まんまるさん\nhttps://www.youtube.com/@manmaruch-onigami\n\n✦────────────✦\n          🌊 WUWA\n✦────────────✦\n\n＞ ⭐夜魅のキャラ凸状況⭐　＜\n\n忌炎⇒3凸(S3 R1) \nインリン⇒完凸＋餅武器1凸(S6 R2)\nリンネー⇒両完凸(S6 R5)\n景燃⇒完凸＋餅武器1凸(S6 R2)\n上記以外の限定/恒常キャラ⇒完凸（S6 R1）\n\n＞　鳴潮をご覧いただくときのルール　＜\n\n①過度な指示コメントはやめてね。\n②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。\n③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）\n④一緒に楽しんでくれるみんなの気分を害するようなコメントもNGです。\n\n上記を守れない場合、\n夜魅が個人的に判断してタイムアウ",
+          "signal_hits": [
+            "global"
+          ]
+        },
+        {
+          "title": "【#NTE】 次Verの新キャラトーク・クロバネサブクエやります✨異象依頼も…？ ＃PR 【Neverness to Everness】",
+          "link": "https://www.youtube.com/watch?v=bH4uktUxMxQ",
+          "video_id": "bH4uktUxMxQ",
+          "thumbnail": "https://i3.ytimg.com/vi/bH4uktUxMxQ/hqdefault.jpg",
+          "pub_date_raw": "2026-10-05T15:29:59+00:00",
+          "pub_iso": "2026-10-05T15:29:59+00:00",
+          "pub_ts": 1791214199.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "▼Neverness to Everness のDLはこちらから！\nhttps://pwgam.es/4y3JvXr\n\n✦────────────✦\n           📢INFO\n✦────────────✦\n\n＞ Youtubeメンバーシップ ＜\n\n→   https://www.youtube.com/@Yomi_Vtuber/join\n\n【iPhoneからのメンバー加入方法】\n①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）\n②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ\n③ページにとんだら「デスクトップ用webサイト」を押す！\n　（左上or下にあるURLの【ぁあ】【AA】をタップ）\n④チャンネルトップに メンバーになる がでるよ！\n\n＞ よみたろ。最新動画はこちら ＜\n\nhttps://youtu.be/gndhg3w3cAI?si=zRsThw69KEmSkRYA\n\n✦────────────✦\n            ⛓LINK\n✦────────────✦\n\n🍷Twitch→https://www.twitch.tv/yomi_streamer\n🍷BOOTH→https://yomivtuber.booth.pm/\n🍷X→ https://x.com/Yomi_Vtuber\n🍷質問箱【Mond】→https:/",
+          "signal_hits": []
+        },
+        {
+          "title": "【#鳴潮】  なんだあ！？この探索ボリューム！！！頭フル回転で今日も挑戦していく🔥 / 2K1440p #824 #鳴潮朝月会【#Vtuber Yomi】",
+          "link": "https://www.youtube.com/watch?v=9tj-p2QakCA",
+          "video_id": "9tj-p2QakCA",
+          "thumbnail": "https://i2.ytimg.com/vi/9tj-p2QakCA/hqdefault.jpg",
+          "pub_date_raw": "2026-10-05T06:22:49+00:00",
+          "pub_iso": "2026-10-05T06:22:49+00:00",
+          "pub_ts": 1791181369.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "▼DLはこちらから！\nhttps://wuwa.kurogames-global.com/4i7VTkh\n\n▼イベントページ\nhttps://lp.gamewith.jp/wutheringwaves/vtuber_vol1\n\n#鳴潮朝月会 Dチームのメンバー！\n\n・まなめおさん\nhttps://www.youtube.com/@manameo\n\n・サファルビさん\nhttps://www.youtube.com/@サファルビ\n\n・まんまるさん\nhttps://www.youtube.com/@manmaruch-onigami\n\n✦────────────✦\n          🌊 WUWA\n✦────────────✦\n\n＞ ⭐夜魅のキャラ凸状況⭐　＜\n\n忌炎⇒3凸(S3 R1) \nインリン⇒完凸＋餅武器1凸(S6 R2)\nリンネー⇒両完凸(S6 R5)\n景燃⇒完凸＋餅武器1凸(S6 R2)\n上記以外の限定/恒常キャラ⇒完凸（S6 R1）\n\n＞　鳴潮をご覧いただくときのルール　＜\n\n①過度な指示コメントはやめてね。\n②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。\n③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）\n④一緒に楽しんでくれるみんなの気分を害するようなコメントもNGです。\n\n上記を守れない場合、\n夜魅が個人的に判断してタイムアウ",
+          "signal_hits": [
+            "global"
+          ]
+        },
+        {
+          "title": "【#パニグレ】  時崎狂三実装！ガチャしてどんな感じか見る～✨そして30章10話から続きも👀！  Part111 【#Vtuber Yomi】",
+          "link": "https://www.youtube.com/watch?v=oRtFZgD1Xxg",
+          "video_id": "oRtFZgD1Xxg",
+          "thumbnail": "https://i4.ytimg.com/vi/oRtFZgD1Xxg/hqdefault.jpg",
+          "pub_date_raw": "2026-10-04T15:21:14+00:00",
+          "pub_iso": "2026-10-04T15:21:14+00:00",
+          "pub_ts": 1791127274.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "必ず概要欄をお読みくださいね。\n\n①過度な指示コメントはやめてね。（あれやってこれやって等）\n②匂わせ(ここは泣ける～とか)・ネタバレ等(誰誰が犯人だよ、最後はこうなるよ)はやめてね。\n③一緒に楽しんでくれるみんなの気分を害するようなコメントもNGです。\n④よくないコメントだと判断した場合はタイムアウトやBANをする可能性があります。\n⑤初見ストーリーは人生で一度だけ！みんなで楽しもう！\n\n✦────────────✦\n           📢INFO\n✦────────────✦\n\n＞ Youtubeメンバーシップ ＜\n\n→   https://www.youtube.com/@Yomi_Vtuber/join\n\n【iPhoneからのメンバー加入方法】\n①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）\n②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ\n③ページにとんだら「デスクトップ用webサイト」を押す！\n　（左上or下にあるURLの【ぁあ】【AA】をタップ）\n④チャンネルトップに メンバーになる がでるよ！\n\n＞ よみたろ。最新動画はこちら ＜\n\nhttps://youtu.be/U4RCZlnAxiw\n\n＞ 鳴潮再生リストはこちら ＜\n\nhttps://youtube.com/playlist?list=PLFA30A3i",
+          "signal_hits": []
+        },
+        {
+          "title": "【#鳴潮】  いよいよ夢枢天羅のガチ探索スタート！隠し実績もやります👀💜 / 2K1440p #823 #鳴潮朝月会【#Vtuber Yomi】",
+          "link": "https://www.youtube.com/watch?v=vCKMNJxMktk",
+          "video_id": "vCKMNJxMktk",
+          "thumbnail": "https://i3.ytimg.com/vi/vCKMNJxMktk/hqdefault.jpg",
+          "pub_date_raw": "2026-10-04T06:32:47+00:00",
+          "pub_iso": "2026-10-04T06:32:47+00:00",
+          "pub_ts": 1791095567.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "▼DLはこちらから！\nhttps://wuwa.kurogames-global.com/4i7VTkh\n\n▼イベントページ\nhttps://lp.gamewith.jp/wutheringwaves/vtuber_vol1\n\n#鳴潮朝月会 Dチームのメンバー！\n\n・まなめおさん\nhttps://www.youtube.com/@manameo\n\n・サファルビさん\nhttps://www.youtube.com/@サファルビ\n\n・まんまるさん\nhttps://www.youtube.com/@manmaruch-onigami\n\n✦────────────✦\n          🌊 WUWA\n✦────────────✦\n\n＞ ⭐夜魅のキャラ凸状況⭐　＜\n\n忌炎⇒3凸(S3 R1) \nインリン⇒完凸＋餅武器1凸(S6 R2)\nリンネー⇒両完凸(S6 R5)\n景燃⇒完凸＋餅武器1凸(S6 R2)\n上記以外の限定/恒常キャラ⇒完凸（S6 R1）\n\n＞　鳴潮をご覧いただくときのルール　＜\n\n①過度な指示コメントはやめてね。\n②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。\n③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）\n④一緒に楽しんでくれるみんなの気分を害するようなコメントもNGです。\n\n上記を守れない場合、\n夜魅が個人的に判断してタイムアウ",
+          "signal_hits": [
+            "global"
+          ]
+        },
+        {
+          "title": "【#NTE】 クロバネさんサブクエ＆プカランド完全制覇への道① ＃PR 【Neverness to Everness】",
+          "link": "https://www.youtube.com/watch?v=zMexPTv3DG0",
+          "video_id": "zMexPTv3DG0",
+          "thumbnail": "https://i3.ytimg.com/vi/zMexPTv3DG0/hqdefault.jpg",
+          "pub_date_raw": "2026-10-03T15:28:55+00:00",
+          "pub_iso": "2026-10-03T15:28:55+00:00",
+          "pub_ts": 1791041335.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "▼Neverness to Everness のDLはこちらから！\nhttps://pwgam.es/4y3JvXr\n\n✦────────────✦\n           📢INFO\n✦────────────✦\n\n＞ Youtubeメンバーシップ ＜\n\n→   https://www.youtube.com/@Yomi_Vtuber/join\n\n【iPhoneからのメンバー加入方法】\n①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）\n②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ\n③ページにとんだら「デスクトップ用webサイト」を押す！\n　（左上or下にあるURLの【ぁあ】【AA】をタップ）\n④チャンネルトップに メンバーになる がでるよ！\n\n＞ よみたろ。最新動画はこちら ＜\n\nhttps://youtu.be/gndhg3w3cAI?si=zRsThw69KEmSkRYA\n\n✦────────────✦\n            ⛓LINK\n✦────────────✦\n\n🍷Twitch→https://www.twitch.tv/yomi_streamer\n🍷BOOTH→https://yomivtuber.booth.pm/\n🍷X→ https://x.com/Yomi_Vtuber\n🍷質問箱【Mond】→https:/",
+          "signal_hits": []
+        },
+        {
+          "title": "【#鳴潮】  勇者ダンダン大乱闘触ってみるよ～✨新団子ズかわいい～～～！ / 2K1440p #822 #鳴潮朝月会【#Vtuber Yomi】",
+          "link": "https://www.youtube.com/watch?v=86wea0lkKao",
+          "video_id": "86wea0lkKao",
+          "thumbnail": "https://i1.ytimg.com/vi/86wea0lkKao/hqdefault.jpg",
+          "pub_date_raw": "2026-10-03T06:20:48+00:00",
+          "pub_iso": "2026-10-03T06:20:48+00:00",
+          "pub_ts": 1791008448.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "▼DLはこちらから！\nhttps://wuwa.kurogames-global.com/4i7VTkh\n\n▼イベントページ\nhttps://lp.gamewith.jp/wutheringwaves/vtuber_vol1\n\n#鳴潮朝月会 Dチームのメンバー！\n\n・まなめおさん\nhttps://www.youtube.com/@manameo\n\n・サファルビさん\nhttps://www.youtube.com/@サファルビ\n\n・まんまるさん\nhttps://www.youtube.com/@manmaruch-onigami\n\n✦────────────✦\n          🌊 WUWA\n✦────────────✦\n\n＞ ⭐夜魅のキャラ凸状況⭐　＜\n\n忌炎⇒3凸(S3 R1) \nインリン⇒完凸＋餅武器1凸(S6 R2)\nリンネー⇒両完凸(S6 R5)\n景燃⇒完凸＋餅武器1凸(S6 R2)\n上記以外の限定/恒常キャラ⇒完凸（S6 R1）\n\n＞　鳴潮をご覧いただくときのルール　＜\n\n①過度な指示コメントはやめてね。\n②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。\n③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）\n④一緒に楽しんでくれるみんなの気分を害するようなコメントもNGです。\n\n上記を守れない場合、\n夜魅が個人的に判断してタイムアウ",
+          "signal_hits": [
+            "global"
+          ]
+        },
+        {
+          "title": "【#NTE】 Ver1.4 メインストーリー「魔女」を完走まで読む！激重らしい・・・！？🔥 ＃PR 【Neverness to Everness】",
+          "link": "https://www.youtube.com/watch?v=tfDWNVr9-Qc",
+          "video_id": "tfDWNVr9-Qc",
+          "thumbnail": "https://i1.ytimg.com/vi/tfDWNVr9-Qc/hqdefault.jpg",
+          "pub_date_raw": "2026-10-02T16:34:38+00:00",
+          "pub_iso": "2026-10-02T16:34:38+00:00",
+          "pub_ts": 1790958878.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "▼Neverness to Everness のDLはこちらから！\nhttps://pwgam.es/4y3JvXr\n\n✦────────────✦\n           📢INFO\n✦────────────✦\n\n＞ Youtubeメンバーシップ ＜\n\n→   https://www.youtube.com/@Yomi_Vtuber/join\n\n【iPhoneからのメンバー加入方法】\n①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）\n②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ\n③ページにとんだら「デスクトップ用webサイト」を押す！\n　（左上or下にあるURLの【ぁあ】【AA】をタップ）\n④チャンネルトップに メンバーになる がでるよ！\n\n＞ よみたろ。最新動画はこちら ＜\n\nhttps://youtu.be/gndhg3w3cAI?si=zRsThw69KEmSkRYA\n\n✦────────────✦\n            ⛓LINK\n✦────────────✦\n\n🍷Twitch→https://www.twitch.tv/yomi_streamer\n🍷BOOTH→https://yomivtuber.booth.pm/\n🍷X→ https://x.com/Yomi_Vtuber\n🍷質問箱【Mond】→https:/",
+          "signal_hits": []
+        },
+        {
+          "title": "【#鳴潮】  奇譚任務🦊璇心、月の如く世の情を寄す を読む📚 / 2K1440p #821 #鳴潮朝月会【#Vtuber Yomi】",
+          "link": "https://www.youtube.com/watch?v=8m3I2-_6ap4",
+          "video_id": "8m3I2-_6ap4",
+          "thumbnail": "https://i1.ytimg.com/vi/8m3I2-_6ap4/hqdefault.jpg",
+          "pub_date_raw": "2026-10-02T07:08:18+00:00",
+          "pub_iso": "2026-10-02T07:08:18+00:00",
+          "pub_ts": 1790924898.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "▼DLはこちらから！\nhttps://wuwa.kurogames-global.com/4i7VTkh\n\n▼イベントページ\nhttps://lp.gamewith.jp/wutheringwaves/vtuber_vol1\n\n#鳴潮朝月会 Dチームのメンバー！\n\n・まなめおさん\nhttps://www.youtube.com/@manameo\n\n・サファルビさん\nhttps://www.youtube.com/@サファルビ\n\n・まんまるさん\nhttps://www.youtube.com/@manmaruch-onigami\n\n✦────────────✦\n          🌊 WUWA\n✦────────────✦\n\n＞ ⭐夜魅のキャラ凸状況⭐　＜\n\n忌炎⇒3凸(S3 R1) \nインリン⇒完凸＋餅武器1凸(S6 R2)\nリンネー⇒両完凸(S6 R5)\n景燃⇒完凸＋餅武器1凸(S6 R2)\n上記以外の限定/恒常キャラ⇒完凸（S6 R1）\n\n＞　鳴潮をご覧いただくときのルール　＜\n\n①過度な指示コメントはやめてね。\n②ゲームへのマイナスコメント（他のゲームと比較、キャラ下げ）NGだよ。\n③不確定情報をコメントに書き込みすることは絶対禁止です。（リーク等）\n④一緒に楽しんでくれるみんなの気分を害するようなコメントもNGです。\n\n上記を守れない場合、\n夜魅が個人的に判断してタイムアウ",
+          "signal_hits": [
+            "global"
+          ]
+        },
+        {
+          "title": "【#雑談】 乾杯後20分ぐらい潮汐任務感想会・まだまだ一週間頑張るべく飲むぞ～💜 / 居酒屋夜魅🍷初見さん大歓迎  #224 【#Vtuber】",
+          "link": "https://www.youtube.com/watch?v=7rKfaD1qzws",
+          "video_id": "7rKfaD1qzws",
+          "thumbnail": "https://i4.ytimg.com/vi/7rKfaD1qzws/hqdefault.jpg",
+          "pub_date_raw": "2026-10-02T03:12:43+00:00",
+          "pub_iso": "2026-10-02T03:12:43+00:00",
+          "pub_ts": 1790910763.0,
+          "categories": [],
+          "author": "夜魅ちゃんねる",
+          "summary": "✦────────────✦\n           📢INFO\n✦────────────✦\n\n＞ Youtubeメンバーシップ ＜\n\n→   https://www.youtube.com/@Yomi_Vtuber/join\n\n【iPhoneからのメンバー加入方法】\n①チャンネルのURLをコピー（チャンネルホーム⇒共有⇒コピー）\n②Safariで開いてURL欄に先ほどコピーしたURLを張り付けて検索し、ページへ飛ぶ\n③ページにとんだら「デスクトップ用webサイト」を押す！\n　（左上or下にあるURLの【ぁあ】【AA】をタップ）\n④チャンネルトップに メンバーになる がでるよ！\n\n＞ よみたろ。最新動画はこちら ＜\n\nhttps://youtu.be/gndhg3w3cAI?si=zRsThw69KEmSkRYA\n\n＞ 鳴潮再生リストはこちら ＜\n\nhttps://youtube.com/playlist?list=PLFA30A3iVCJGPg2tafPNH0dFyY_3UpHgQ&si=Ef8DXUD7IWtoVyQi\n\n✦────────────✦\n            ⛓LINK\n✦────────────✦\n\n🍷Twitch→https://www.twitch.tv/yomi_streamer\n🍷BOOTH→https://yomivtuber.booth.pm/\n🍷",
+          "signal_hits": []
+        }
+      ]
+    }
+  ]
+}
