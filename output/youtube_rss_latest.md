@@ -1,6 +1,6 @@
-# YouTube手游频道 RSS 采集（2026-10-29）
+# YouTube手游频道 RSS 采集（2026-11-05）
 
-窗口：最近 14 天（cutoff 2026-10-15 UTC）｜频道数 10｜脚本 youtube_rss_scraper.py
+窗口：最近 14 天（cutoff 2026-10-22 UTC）｜频道数 10｜脚本 youtube_rss_scraper.py
 
 
 ## Beta Games Revolution Mobile（全球 · CBT测试）
@@ -14,7 +14,7 @@
 > 老牌综合手游频道，CBT首测+全球上线首发实况双覆盖，SLG/开放世界/二游素材量大  
 > 频道: @TheMobileGamerHD | feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCBRRJOzY5mtgTWmwoDVFHIg
 
-❌ **抓取失败：HTTPError: HTTP Error 500: Internal Server Error**
+❌ **抓取失败：HTTPError: HTTP Error 404: Not Found**
 
 
 ## Sameway（韩国 · CBT测试）
@@ -28,7 +28,7 @@
 > 偏安卓手游，大量测试版APK试玩，策略/RPG/足球手游，附官网 only4gamers.xyz  
 > 频道: @Only4GamersXyz | feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCfTBJHPAhpsHyvilX8MWzgQ
 
-❌ **抓取失败：HTTPError: HTTP Error 500: Internal Server Error**
+❌ **抓取失败：HTTPError: HTTP Error 404: Not Found**
 
 
 ## Maximumandroid（全球 · 全球首发）
@@ -42,7 +42,7 @@
 > 专门展示新上线手游，首发开荒实机，偏轻量化新游，海外独立手游/轻度策略上线素材  
 > 频道: @NewMobileGames9 | feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCBcfEifmET-HYuu8audsPuQ
 
-❌ **抓取失败：HTTPError: HTTP Error 404: Not Found**
+❌ **抓取失败：HTTPError: HTTP Error 500: Internal Server Error**
 
 
 ## MobileGamesDaily（全球 · 全球首发）
